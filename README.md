@@ -14,7 +14,7 @@ Project aims:
 
 Current Waypoints:
 
-1. [Spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=1249619949)
+1. [Spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=352524014)
 1. [Map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing)
 
 
@@ -29,7 +29,7 @@ Example of how the Arizona gliding community manages their turnpoints:
 
 1. [Map](https://www.google.com/maps/d/u/0/edit?mid=1kHawbgbNa_hPMl5rvOVMP27UdMX1PvQ_&ll=32.39213804431958%2C-111.49211784793266&z=11)
 
-1. [Waypoint Repository](https://github.com/DavisChappins/AZTurnpoints)
+1. [Waypoint repository](https://github.com/DavisChappins/AZTurnpoints)
 
 
 ---
