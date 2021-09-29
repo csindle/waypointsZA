@@ -46,8 +46,6 @@ CUP File Processing:
 
 1. Download from Google sheets.
 2. Remove all Columns after M (i.e. keep only the first 13 columns).
-3. Remove Header line.
-4. Remove tail (Task) line.
-5. `./sanitise.py in.cup` to create an output file `out.cup`.
-6. Rename output file appropriately and commit, push, and publish.
-
+3. Remove Header line. (not necessary if using https://github.com/csindle/aerofiles)
+4. `./sanitise.py in.cup` to create an output file `out.cup`.
+5. Rename output file appropriately and commit, push, and publish.
