@@ -216,7 +216,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "KleinpoortPiek","Kleiniek",ZA,3310.667S,01907.200E,1128.0m,7,,,,
 "Klipbokskraal","Klipbaal",ZA,3344.817S,02022.500E,741.0m,3,30,880.0m,,"width 20x880m rough crosses on the runway"
 "Klipkraal","Klipkaal",ZA,3404.033S,01911.967E,286.0m,3,270,400.0m,,"18m x 400m"
-"Knysnastrip","KNSNSTRP",ZA,3357.050S,02258.750E,243.0m,5,280,600.0m,," 23M Wide 600M Long"
+"Knysnastrip","KNSNSTRP",ZA,3357.050S,02258.750E,243.0m,5,280,600.0m,,"23M Wide 600M Long"
 "KODES","KODES",ZA,3308.667S,01845.333E,0.0m,9,,,,
 "Koebee Pass","Koebeass",ZA,3136.650S,01859.550E,604.0m,6,,,,
 "Koerasie Berg","Koeraerg",ZA,3227.517S,01907.817E,1631.0m,7,,,,
@@ -361,7 +361,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Ruiter","RUITER",ZA,3353.467S,02201.550E,661.0m,1,,,,
 "Ruiterbosch","RUTRBSCH",ZA,3355.000S,02204.383E,473.0m,1,,,,
 "RuitersBerg","Ruiteerg",ZA,3352.900S,02202.300E,1363.0m,7,,,,
-"Sadawa","SADAWA",ZA,3302.367S,01952.683E,999.0m,1,,,,""
+"Sadawa","SADAWA",ZA,3302.367S,01952.683E,999.0m,1,,,,
 "SadawaField","Sadaweld",ZA,3303.233S,01952.733E,585.0m,3,360,500.0m,,"Possible outlanding in emergency"
 "Samara","SAMARA",ZA,3226.350S,02445.500E,761.0m,5,0,0.0m,,"762M 20X1600M"
 "SanAmbroso","Narrower",ZA,3358.500S,02301.500E,225.0m,3,90,800.0m,,"6m - bushes? 270 5mx800m possible landable"
@@ -370,7 +370,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Sanddrftsklf","SNDDRFTS",ZA,3326.033S,01933.633E,724.0m,1,,,,
 "Sandhills","SANDHLLS",ZA,3331.100S,01933.250E,397.0m,1,,,,
 "Saron","SARON",ZA,3311.650S,01902.483E,573.0m,1,,,,"Reporting Point"
-"Schanskraal","SCHNSKRL",ZA,3135.500S,02427.000E,1612.0m,5,0,0.0m,,""
+"Schanskraal","SCHNSKRL",ZA,3135.500S,02427.000E,1612.0m,5,0,0.0m,,
 "Sedgefield","Sedgeeld",ZA,3357.050S,02245.850E,222.0m,3,255,450.0m,,"Landable field E  - W landable around"
 "Shadow Peak","Shadow",ZA,3223.200S,01909.983E,1890.0m,7,,,,
 "Skerpheuwel","Skerpwel",ZA,3235.017S,01854.767E,877.0m,7,,,,
@@ -424,10 +424,10 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Travellers Rest","Traveest",ZA,3204.250S,01904.533E,326.0m,1,,,,
 "Tsitsikama","Tsitsama",ZA,3401.950S,02413.183E,206.0m,2,300,1000.0m,,"30/12 1000m x 20m"
 "Tulbach Strip","TULBACH",ZA,3318.333S,01908.333E,166.0m,2,160,400.0m,,
-"Tulbach Strip 2","TULBACH2",ZA,3313.033S,01909.433E,302.0m,5,0,0.0m,,""
+"Tulbach Strip 2","TULBACH2",ZA,3313.033S,01909.433E,302.0m,5,0,0.0m,,
 "Tulbach Strip3","TULBACH2",ZA,3319.050S,01907.567E,138.0m,2,160,400.0m,,"138M"
 "Tweedside","Tweedide",ZA,3313.617S,02020.450E,1086.0m,2,260,1100.0m,,"23m x 1100m"
-"Tzamenkomst","TZMNKMST",ZA,3035.867S,02518.867E,1234.0m,2,100,980.0m,,""
+"Tzamenkomst","TZMNKMST",ZA,3035.867S,02518.867E,1234.0m,2,100,980.0m,,
 "UFOstrip","UFOstrip",ZA,3410.967S,01906.800E,304.0m,3,340,360.0m,,"18m x 360m check obstructions on runway"
 "Uitkyk Kop","UitkyKop",ZA,3224.550S,01905.750E,1545.0m,7,,,,
 "UitkykPass","Uitkyass",ZA,3224.383S,01906.433E,1016.0m,6,,,,
@@ -446,7 +446,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Villiersdorp","VILLIERD",ZA,3400.083S,01917.000E,347.0m,1,,,,
 "Villiersdorp AF","VLLRSDRP",ZA,3359.050S,01911.083E,341.0m,5,220,700.0m,,"Thee2 8m x 700m emergency only"
 "Visgat","VISGAT",ZA,3302.533S,01912.683E,689.0m,1,,,,
-"Vosburg","VOSBURG",ZA,3035.300S,02253.650E,1149.0m,1,,,,""
+"Vosburg","VOSBURG",ZA,3035.300S,02253.650E,1149.0m,1,,,,
 "Vredendal","Vrededal",ZA,3141.067S,01829.333E,45.0m,2,260,950.0m,,"08/26 20m x 950m; 04/22 18m x 650m; 13/31 18m x 380mLandable by all gliders"
 "Vredendal Old AF","VRDNDLLD",ZA,3138.500S,01832.667E,101.0m,2,80,1290.0m,,"FAVR 24/06 21m x 1290m"
 "Vreysrant","VREYSRNT",ZA,3356.350S,02144.150E,783.0m,1,,,,
