@@ -39,3 +39,15 @@ Example of how the Arizona gliding community manages their turnpoints:
 
 Contributions, comments, requests, and suggestions are very welcome.
 
+
+--- 
+
+CUP File Processing:
+
+1. Download from Google sheets.
+2. Remove all Columns after M (i.e. keep only the first 13 columns).
+3. Remove Header line.
+4. Remove tail (Task) line.
+5. `./sanitise.py in.cup` to create an output file `out.cup`.
+6. Rename output file appropriately and commit, push, and publish.
+
