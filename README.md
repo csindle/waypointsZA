@@ -59,7 +59,7 @@ For a more detailed step-by-step walk through, see Davis from Arizona's instruct
 ---
 ### Maintainer Instructions
 
-#### Convert CSV (spreadsheet) 🠪 CUP:
+#### Convert CSV (spreadsheet) to CUP:
 
 1. Download the [Google Sheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956)
 as a CSV file (and rename to something sane like `South_Africa_Cape.cup.csv`).
@@ -70,7 +70,7 @@ as a CSV file (and rename to something sane like `South_Africa_Cape.cup.csv`).
     (Requires `HEAD` version of [aerofiles](https://github.com/csindle/aerofiles).)
 4. Rename output file appropriately and commit, push, and publish.
 
-#### Convert CUP 🠪 KML (Google Earth):
+#### Convert CUP to KML (Google Earth):
 
 1. Run:
     `gpsbabel -i xcsv,style=script/name_cup.style -f South_Africa_Cape.cup  -o kml -F South_Africa_Cape.cup.kml`
