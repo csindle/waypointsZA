@@ -62,14 +62,15 @@ For a more detailed step-by-step walk through, see Davis from Arizona's instruct
 #### Convert CSV (spreadsheet) 🠪 CUP:
 
 1. Download the [Google Sheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956)
-as a CSV file.
-2. Remove all Columns after K (i.e. keep only the first 11 columns).
-3. Run `./sanitise.py in.cup` to create a verified output .cup file.
+as a CSV file (and rename to something sane like `South_Africa_Cape.cup.csv`).
+2. Remove all Columns after K and save. I.e. keep only the first 11 columns 
+(`name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc`).
+3. Run `./script/sanitise.py South_Africa_Cape.cup.csv South_Africa_Cape.cup` to create the verified output `.cup` file.
 4. Rename output file appropriately and commit, push, and publish.
 
 #### Convert CUP 🠪 KML (Google Earth):
 
-1. `gpsbabel -i xcsv,style=script/name_cup.style -f South_Africa_Cape.cup  -o kml -F South_Africa_Cape.cup.kml`
+1. Run `gpsbabel -i xcsv,style=script/name_cup.style -f South_Africa_Cape.cup  -o kml -F South_Africa_Cape.cup.kml`
 2. Import the KML file as a new layer on the [Google Map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing)
  layer.
 3. Rename, and delete the old layer.
