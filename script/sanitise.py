@@ -40,8 +40,9 @@ def main(in_filename: str, out_filename: str) -> None:
         writer = Writer(fp)
         for i, wp in enumerate(waypoints):
             writeable_wp = convert(wp)
-            pprint.pprint(writeable_wp)
+            #pprint.pprint(writeable_wp)
             writer.write_waypoint(**writeable_wp)
+        print(f'Written {len(waypoints)} waypoints.')
 
 
 if __name__ == '__main__':
