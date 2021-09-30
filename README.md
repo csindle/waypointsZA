@@ -1,11 +1,11 @@
-Gliding waypoints and turnpoints for glider pilots flying in the Cape, South Africa.
+Gliding waypoints (start, finish, reporting, and turn-points) for glider pilots flying in the Cape, South Africa.
 
 ### Goals:
 
 1. One, [single point of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
-for [waypoints](https://xkcd.com/927/), locations, unique short codes, and descriptions.
-2. Version controlled, with full history.
-3. Open source, open data, including all history, versions, changes, and motivations.
+for [waypoints](https://xkcd.com/927/), including unique names, unique shortcodes (trigraphs), unique locations, and descriptions.
+2. Version controlled, with full history (who did what, when, and why).
+3. Open source, open data, including all history and versions.
 4. Anybody can contribute (and anybody can fork).
 5. Automatically incorporated into XCSoar, Oudie, etc.
 
