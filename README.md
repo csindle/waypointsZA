@@ -38,7 +38,7 @@ file to the correct location.
 2. Activate it.
 
 (In future, we will have official time based releases, to ensure strict version synchronisation. 
-E.g. `South_Africa_Cape_2022-01-15.cup`).
+E.g. `South_Africa_Cape_v2021-12-07.cup`).
 
 ---
 ### Contributor Instructions
@@ -67,14 +67,18 @@ For a more detailed step-by-step walk through, see Davis from Arizona's instruct
 as a CSV file (and rename to something sane like `South_Africa_Cape.cup.csv`).
 2. Remove all Columns after K and save. I.e. keep only the first 11 columns 
 (`name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc`).
-3. Run `./script/sanitise.py South_Africa_Cape.cup.csv South_Africa_Cape.cup` to create the verified output `.cup` file.
+3. Run:
+    `./script/sanitise.py South_Africa_Cape.cup.csv South_Africa_Cape.cup` to create the verified output `.cup` file.
+    (Requires `HEAD` version of [aerofiles](https://github.com/csindle/aerofiles).)
 4. Rename output file appropriately and commit, push, and publish.
 
 #### Convert CUP 🠪 KML (Google Earth):
 
-1. Run `gpsbabel -i xcsv,style=script/name_cup.style -f South_Africa_Cape.cup  -o kml -F South_Africa_Cape.cup.kml`
-2. Import the KML file as a new layer on the [Google Map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing)
- layer.
+1. Run:
+    `gpsbabel -i xcsv,style=script/name_cup.style -f South_Africa_Cape.cup  -o kml -F South_Africa_Cape.cup.kml`
+   (Requires [`gpsbabel`](https://www.gpsbabel.org/).)
+2. Import the KML file as a new layer on the 
+    [Google Map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing) layer.
 3. Rename, and delete the old layer.
 
 ---
