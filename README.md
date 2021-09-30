@@ -19,15 +19,12 @@ To use the waypoint file on your glide computer (that supports CUP files):
 file to the correct location.
 2. Activate it.
 
-(In future, we will have official time based releases, to ensure strict version synchronisation. 
-E.g. `South_Africa_Cape_v2021-12-07.cup`).
-
 ---
-An easily editable version of the waypoints can be found on this 
-[spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
+[Analyse the waypoints on this spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
 
-A map version of the waypoints can be found
-[here](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing).
+[Visualise the waypoints on this map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing).
+
+(TODO: create time based releases for easy versioning. E.g. `South_Africa_Cape_v2021-01-01.cup`).
 
 ---
 ### Precedents
