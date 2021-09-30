@@ -17,7 +17,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Area51","R51",ZA,3041.467S,02127.383E,1041.0m,5,300,1280.0m,,"30/12 1280 x 40m"
 "Arrie se Punt","RRS",ZA,3130.617S,01900.600E,915.0m,7,,,,
 "Asantesanna","SNT",ZA,3219.233S,02458.667E,1067.0m,5,0,0.0m,,"1072M 20M Cross Runways"
-"Ashton","SHT",ZA,3350.283S,02003.150E,180.0m,2,90,750.0m,"124.8","090 750x20m"
+"Ashton","SHT",ZA,3350.283S,02003.150E,180.0m,2,90,750.0m,"124.800","090 750x20m"
 "Assegaai","ASS",ZA,3359.083S,02124.600E,623.0m,1,,,,
 "Assegaaybosc","ASG",ZA,3345.617S,02132.833E,189.0m,2,280,1500.0m,,"280 35m x 1500m"
 "Attakwas","TTK",ZA,3352.283S,02157.283E,1175.0m,7,,,,
@@ -29,7 +29,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Beaufort West","BFR",ZA,3218.000S,02240.000E,899.0m,2,80,1660.0m,"124.800","FABW"
 "Bergfontein Station","BER",ZA,3356.850S,02134.933E,537.0m,1,,,,
 "Beyersberg","BYR",ZA,3056.383S,02227.667E,1265.0m,1,,,,
-"Bhejane","BHJ",ZA,3311.800S,02356.083E,576.0m,2,300,850.0m,"124.7","18M Bhejane850m x 20m"
+"Bhejane","BHJ",ZA,3311.800S,02356.083E,576.0m,2,300,850.0m,"124.700","18M Bhejane850m x 20m"
 "Biljetsfontein","BLJ",ZA,3327.450S,02053.283E,632.0m,1,,,,
 "Black Oyster","BLC",ZA,3437.850S,01949.633E,21.0m,2,300,900.0m,,"30m x 900m"
 "Block House","BLO",ZA,3231.867S,01903.867E,876.0m,1,,,,
@@ -61,16 +61,16 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Burnside","BRN",ZA,3158.717S,02529.450E,974.0m,5,0,0.0m,,"Burnside"
 "BurtonsFarm","BUR",ZA,3241.133S,01859.500E,861.0m,7,,,,
 "BushmansFields","BMF",ZA,3209.533S,01911.800E,349.0m,3,0,0.0m,,"landable fields"
-"Bushmanskloof","BSH",ZA,3202.100S,01902.600E,308.0m,2,330,1200.0m,"124.8","20 m 2000m Landable, Landable Strip"
+"Bushmanskloof","BSH",ZA,3202.100S,01902.600E,308.0m,2,330,1200.0m,"124.800","20 m 2000m Landable, Landable Strip"
 "Caledon","CLD",ZA,3415.000S,01925.000E,279.0m,2,70,600.0m,,
 "Calvinia","CLV",ZA,3130.000S,01944.000E,973.0m,5,250,1240.0m,"124.800","FACV 250 / 70 28m x 1240m"
 "Cape St Francis","CPS",ZA,3411.167S,02449.533E,39.0m,2,100,700.0m,,"FACF"
 "Cape Town VOR","CPT",ZA,3358.167S,01836.300E,46.0m,9,,,,"Vor/Dme"
 "Carnarvon","CRN",ZA,3059.383S,02207.900E,1268.0m,5,160,1290.0m,"124.810","FACN"
 "Ceres","CER",ZA,3322.000S,01918.750E,479.0m,1,,,,
-"Ceres AF","CRS",ZA,3319.017S,01925.033E,579.0m,2,70,1600.0m,"124.8","1600m x 25m"
+"Ceres AF","CRS",ZA,3319.017S,01925.033E,579.0m,2,70,1600.0m,"124.800","1600m x 25m"
 "CharityHopeFaith","CHR",ZA,3208.450S,01901.600E,1095.0m,7,,,,
-"Citrusdal1","CTR",ZA,3237.217S,01900.233E,164.0m,5,350,900.0m,"124.8","17/35 15X900M - landable 18m plus - abandonned municipal airfield"
+"Citrusdal1","CTR",ZA,3237.217S,01900.233E,164.0m,5,350,900.0m,"124.800","17/35 15X900M - landable 18m plus - abandonned municipal airfield"
 "Clan South","CLA",ZA,3221.067S,01900.800E,0.0m,1,,,,
 "ClanSunPower","CSP",ZA,3208.533S,01855.167E,338.0m,15,,,,
 "Clanwilliam AF","CLN",ZA,3210.500S,01852.833E,120.0m,5,340,540.0m,,"18m x 540m"
@@ -87,7 +87,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Craigml","CRG",ZA,3329.783S,01857.850E,100.0m,5,360,460.0m,,"36/18 460m"
 "Crop2","CRO",ZA,3301.633S,01857.050E,135.0m,3,290,830.0m,,"11/29 18m x 830m landable all"
 "Cropdust1","CRP",ZA,3247.150S,01900.050E,207.0m,3,90,670.0m,,"09/27 18X600M slope 10m down to the west Land 09"
-"D2000","D20",ZA,3339.500S,01829.000E,65.0m,5,360,770.0m,"124.4","770m x 15m"
+"D2000","D20",ZA,3339.500S,01829.000E,65.0m,5,360,770.0m,"124.400","770m x 15m"
 "Dankbaar","DNK",ZA,3358.867S,02116.667E,880.0m,1,,,,
 "Darldam","DRL",ZA,3310.000S,02512.000E,1499.0m,5,0,0.0m,,
 "Das","DAS",ZA,3256.400S,01902.200E,0.0m,1,,,,"100 KM"
@@ -120,12 +120,12 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "East1","ST1",ZA,3355.233S,02231.650E,266.0m,1,,,,
 "EmergencyFields","MRG",ZA,3237.850S,02123.150E,728.0m,3,0,0.0m,,"01/19 570m; 15/33 400m;16/34 550mThe middle one the best - poles in the N and the S?"
 "EngelsePunt","NGL",ZA,3114.300S,01856.983E,874.0m,1,,,,
-"Enjo Strip","NJS",ZA,3208.550S,01918.517E,290.0m,2,270,700.0m,"129.10","Enjo Nature Farm 18mx700m"
+"Enjo Strip","NJS",ZA,3208.550S,01918.517E,290.0m,2,270,700.0m,"129.100","Enjo Nature Farm 18mx700m"
 "ERDAS","ERD",ZA,3324.833S,01911.217E,4500.0m,9,,,,
 "Erinvale1 OL","ER1",ZA,3404.367S,01852.900E,81.0m,3,340,340.0m,,"Outlandngfld"
 "Erinvale2 OL","ER2",ZA,3404.083S,01854.500E,117.0m,3,360,470.0m,,"Outlandngfld"
 "Eselskop","SLS",ZA,3059.083S,01903.167E,646.0m,1,,,,
-"Fisantekraal","FSN",ZA,3346.300S,01844.417E,126.0m,5,320,1200.0m,"131.1","14/32 1200m x 80m23/05 100m x 80mLeft hand circuits"
+"Fisantekraal","FSN",ZA,3346.300S,01844.417E,126.0m,5,320,1200.0m,"131.100","14/32 1200m x 80m23/05 100m x 80mLeft hand circuits"
 "Fischers AF","FSC",ZA,3341.867S,01941.783E,374.0m,1,,,,
 "Fraserburg","FRS",ZA,3156.000S,02130.000E,1275.0m,2,340,1600.0m,,"FAFR340 1600mx38m300 900mx 38m030 1000m x 38m"
 "Fraserwest","FRW",ZA,3155.783S,02124.917E,1303.0m,2,260,440.0m,,"26/08 440m x 8m 32/14 300m x 8m Some bushes, but probably landable"
@@ -183,7 +183,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Hug Tunnel","HGT",ZA,3343.767S,01904.567E,199.0m,1,,,,
 "Huguenot","HGN",ZA,3345.150S,01904.200E,485.0m,1,,,,
 "Hutchinson","HTC",ZA,3129.633S,02311.450E,1253.0m,1,,,,
-"Inverdoorn","NVR",ZA,3306.317S,01949.133E,617.0m,2,40,990.0m,"126.5","20mx1000mSecond runway 770m x 18m 35/17"
+"Inverdoorn","NVR",ZA,3306.317S,01949.133E,617.0m,2,40,990.0m,"126.500","20mx1000mSecond runway 770m x 18m 35/17"
 "Jon1Strip","JN1",ZA,3242.750S,01903.683E,238.0m,2,330,1000.0m,,"15/33 30mx1000m"
 "Jonaskop","JNS",ZA,3358.183S,01930.367E,1646.0m,8,,,,
 "Jonkershoek","JNK",ZA,3353.467S,02213.400E,960.0m,1,,,,
@@ -232,7 +232,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Laingsburg","LNG",ZA,3311.867S,02050.250E,674.0m,3,260,990.0m,,"990mx23m"
 "Landable Strip2","LND",ZA,3327.467S,01855.633E,128.0m,5,0,0.0m,,"16M"
 "Langebaanweg","LBW",ZA,3258.483S,01809.667E,29.0m,5,20,2330.0m,"120.800","FALW"
-"Lebanon","LBN",ZA,3216.033S,01855.733E,96.0m,2,280,400.0m,"126.5","280 / 100 20m x 400m - watch trees"
+"Lebanon","LBN",ZA,3216.033S,01855.733E,96.0m,2,280,400.0m,"126.500","280 / 100 20m x 400m - watch trees"
 "Leeu Gamka","LGM",ZA,3246.333S,02159.000E,2000.0m,1,,,,
 "Leeubos","LBS",ZA,3333.850S,01959.417E,1010.0m,2,40,800.0m,,
 "Limietberg","LMT",ZA,3335.133S,01906.617E,946.0m,7,,,,
@@ -310,13 +310,13 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "PG Waboom","PGW",ZA,3315.000S,01928.000E,1000.0m,1,,,,"Parachuting Strip"
 "Piekenierskloof","PKN",ZA,3237.983S,01856.767E,578.0m,1,,,,
 "PiekeniersPass","PKP",ZA,3237.567S,01857.000E,536.0m,6,,,,
-"PiekenierStrip","PKS",ZA,3239.200S,01856.417E,254.0m,5,40,520.0m,"124.8","04/22 20X520M Have To Land Uphil"
+"PiekenierStrip","PKS",ZA,3239.200S,01856.417E,254.0m,5,40,520.0m,"124.800","04/22 20X520M Have To Land Uphil"
 "Piketbergml","PKT",ZA,3257.317S,01847.933E,129.0m,5,360,770.0m,,"Landable 36/18 15mx770m"
 "Pletairfield","PLT",ZA,3405.283S,02319.583E,21.0m,5,120,1230.0m,"124.800","FAPG, 1200 M 21M X 1200M"
 "PlettPossible","PLP",ZA,3401.783S,02317.450E,137.0m,3,290,990.0m,,"1000 x 30m"
 "PoloFields","PLF",ZA,3355.900S,02330.250E,265.0m,3,0,0.0m,,
 "Poort","POO",ZA,3358.783S,02139.167E,61.0m,3,0,0.0m,,
-"Porterville","PRT",ZA,3301.550S,01859.917E,190.0m,2,330,880.0m,"124.8","15/33 30m x 880m"
+"Porterville","PRT",ZA,3301.550S,01859.917E,190.0m,2,330,880.0m,"124.800","15/33 30m x 880m"
 "Potchefstroom","PTC",ZA,2640.000S,02704.900E,1368.0m,5,0,0.0m,,
 "Prieska","PSK",ZA,2941.033S,02246.250E,945.0m,2,330,1480.0m,,"33/15 1480m x 28m 30/12 790m x 23m"
 "Princealbert","ALB",ZA,3311.367S,02201.117E,550.0m,2,350,1660.0m,,"FAPC, 548M 25X1000M Cross Runways 240 800mx24350 1660mx24"
