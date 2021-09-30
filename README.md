@@ -47,8 +47,8 @@ E.g. `South_Africa_Cape_2022-01-15.cup`).
 
 To edit the waypoints immediately:
 
-1. Click on [South_Africa_Cape.cup](South_Africa_Cape.cup) file. 
-2. Click on the pencil icon in the top right corner. [edit](edit/master/South_Africa_Cape.cup)
+1. Click on [`South_Africa_Cape.cup`](South_Africa_Cape.cup) file. 
+2. Click on the pencil icon in the top right corner.
 3. Modify the file as necessary, try to keep changes to a single function or turnpoint so that a history is easily viewable.
 4. At the bottom of the page, write a quick summary of changes. E.g. "Deleted duplicate waypoint." and click "Propose changes".
 5. Click "Create pull request" (twice). 
