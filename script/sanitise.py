@@ -1,7 +1,7 @@
 #!/bin/env python3
 
 import sys
-#import pprint
+import pprint
 
 from aerofiles.seeyou import Reader, Writer, Converter
 
@@ -35,12 +35,12 @@ def main(in_filename: str, out_filename: str) -> None:
     """
     c = Reader().read(open(in_filename))
     waypoints = c["waypoints"]
-
+    print(f'Imported {len(waypoints)} waypoints.')
     with open(out_filename, 'wb') as fp:
         writer = Writer(fp)
         for i, wp in enumerate(waypoints):
             writeable_wp = convert(wp)
-            #pprint.pprint(writeable_wp)
+            pprint.pprint(writeable_wp)
             writer.write_waypoint(**writeable_wp)
 
 
