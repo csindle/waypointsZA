@@ -1,4 +1,7 @@
-Gliding waypoints (start, finish, reporting, and turn-points) for glider pilots flying in the Cape, South Africa.
+Waypoints for glider pilots flying in the Cape, South Africa.
+
+A note on naming: though pilots usually talk of *turnpoints*, this project uses the more general term *waypoints* to
+explicitly include Starting Points, Finishing Points, Reporting Points, etc. and the actual Turn Points. 
 
 ### Goals:
 
@@ -12,14 +15,13 @@ for [waypoints](https://xkcd.com/927/), including unique names, unique shortcode
 ---
 ### Instructions for
 
-#### :south_africa: Using and Flying with the waypoints: :south_africa:
+#### :south_africa: Using and Flying with the waypoints :south_africa:
 To use the waypoint file on your glide computer (that supports CUP files):
 
 1. Download or copy the [latest release ZA_Cape_YYYYMMDD.cup](../../releases/latest)
    CUP file to the correct location on your device.
 
 2. Activate it.
-
 
 #### Viewing the waypoints
 1. [Master spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
@@ -44,11 +46,9 @@ You can also request *Editor* access to the aforementioned
 [Master spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956)
 .
 
-
 #### Converting the waypoints
 
 ##### CSV (spreadsheet) to CUP:
-
 1. Download the [Google Sheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956)
 as a CSV file (and rename to something sane like `ZA_Cape.cup.csv`).
 2. Remove all Columns after K and save. I.e. keep only the first 11 columns 
@@ -59,7 +59,6 @@ as a CSV file (and rename to something sane like `ZA_Cape.cup.csv`).
 4. Rename output file appropriately and commit, push, and publish.
 
 ##### CUP to KML (Google Earth):
-
 1. Run:
     `gpsbabel -i xcsv,style=script/name_cup.style -f ZA_Cape.cup  -o kml -F ZA_Cape.cup.kml`
    (Requires [`gpsbabel`](https://www.gpsbabel.org/).)
