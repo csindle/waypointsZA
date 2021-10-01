@@ -18,7 +18,7 @@ for [waypoints](https://xkcd.com/927/), including unique names, unique shortcode
 #### :south_africa: Using and Flying with the waypoints :south_africa:
 To use the waypoint file on your glide computer (that supports CUP files):
 
-1. Download or copy the [latest release ZA_Cape_YYYYMMDD.cup](../../releases/latest)
+1. Download or copy the latest release [`ZA_Cape_yyyymmdd.cup`](../../releases/latest)
    CUP file to the correct location on your device.
 
 2. Activate it.
