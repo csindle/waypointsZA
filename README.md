@@ -5,8 +5,8 @@ explicitly include Starting Points, Finishing Points, Reporting Points, Airfield
 
 ### Goals:
 
-1. One, [single point of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
-for [waypoints](https://xkcd.com/927/), including unique names, unique shortcodes (trigraphs), unique locations, and descriptions.
+1. [One](https://xkcd.com/927/), [single point of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
+for waypoints, including unique names, unique shortcodes (trigraphs), unique locations, and descriptions.
 2. Version controlled, with full history (who did what, when, and why).
 3. Open source, open data, including all history and versions.
 4. Anybody can contribute (and anybody can fork).
