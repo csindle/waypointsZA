@@ -1,7 +1,5 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "24RiversPass","24R",ZA,3308.467S,01910.600E,1347.0m,6,,,,
-"500","500",ZA,3354.650S,02151.550E,0.0m,1,,,,
-"501","501",ZA,3355.050S,02156.067E,454.0m,1,,,,
 "Aasvoelberg","AAS",ZA,3356.700S,01914.900E,1581.0m,7,,,,
 "Aasvoelkrans","AAV",ZA,3356.867S,02107.767E,1342.0m,7,,,,
 "Aberdeen","BRD",ZA,3227.983S,02403.833E,751.0m,2,150,720.0m,,"FAAE, 751M 25X100M Cross Runways"
@@ -90,8 +88,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "D2000","D20",ZA,3339.500S,01829.000E,65.0m,5,360,770.0m,"124.400","770m x 15m"
 "Dankbaar","DNK",ZA,3358.867S,02116.667E,880.0m,1,,,,
 "Darldam","DRL",ZA,3310.000S,02512.000E,1499.0m,5,0,0.0m,,
-"Das","DAS",ZA,3256.400S,01902.200E,0.0m,1,,,,"100 KM"
-"Dasklip","DSK",ZA,3254.300S,01902.300E,716.0m,1,,,,"Parachutngst"
+"Dasklip","DSK",ZA,3254.300S,01902.300E,716.0m,1,,,,"Para/Hanglider launchsite"
 "Dasklip Pass","DKP",ZA,3254.200S,01902.550E,697.0m,6,,,,
 "DassiesHoek","DSS",ZA,3343.250S,01952.533E,1698.0m,7,,,,
 "De Aar","DR",ZA,3042.000S,02402.000E,1270.0m,5,0,0.0m,,
@@ -129,7 +126,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Fischers AF","FSC",ZA,3341.867S,01941.783E,374.0m,1,,,,
 "Fraserburg","FRS",ZA,3156.000S,02130.000E,1275.0m,2,340,1600.0m,,"FAFR340 1600mx38m300 900mx 38m030 1000m x 38m"
 "Fraserwest","FRW",ZA,3155.783S,02124.917E,1303.0m,2,260,440.0m,,"26/08 440m x 8m 32/14 300m x 8m Some bushes, but probably landable"
-"FSSNEW","FSS",ZA,3343.183S,01930.300E,213.0m,3,70,370.0m,,"213M 370m"
 "Gannaberg","GNN",ZA,3351.300S,01935.350E,876.0m,7,,,,
 "Gariep Dam","GRP",ZA,3033.700S,02531.767E,1197.0m,5,140,1040.0m,"123.451",
 "Geelbek","GLB",ZA,3311.500S,02055.500E,767.0m,1,,,,
@@ -302,12 +298,12 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Perdeberg1?","PR1",ZA,3356.567S,02104.333E,1236.0m,7,,,,
 "Perdeberg2?","PR2",ZA,3357.400S,02131.433E,1127.0m,7,,,,
 "Perdekop","PRD",ZA,3243.283S,01905.650E,921.0m,7,,,,
-"PG Franschh","PGF",ZA,3354.200S,01909.433E,250.0m,1,,,,"Parachuting Strip"
-"PG Katbak","PGA",ZA,3254.000S,01933.000E,200.0m,1,,,,"Parachuting Strip"
-"PG KKanon","PGK",ZA,3351.000S,01854.000E,350.0m,1,,,,"Parachuting Strip"
-"PG Piket","PGP",ZA,3250.000S,01845.000E,538.0m,1,,,,"Parachuting Strip"
-"PG Slp","PGS",ZA,3408.917S,01855.650E,350.0m,1,,,,"Parachuting Strip"
-"PG Waboom","PGW",ZA,3315.000S,01928.000E,1000.0m,1,,,,"Parachuting Strip"
+"PG Franschh","PGF",ZA,3354.200S,01909.433E,250.0m,1,,,,"Paragliding launch"
+"PG Katbak","PGA",ZA,3254.000S,01933.000E,200.0m,1,,,,"Paragliding launch"
+"PG KKanon","PGK",ZA,3351.000S,01854.000E,350.0m,1,,,,"Paragliding launch"
+"PG Piket","PGP",ZA,3250.000S,01845.000E,538.0m,1,,,,"Paragliding launch"
+"PG Slp","PGS",ZA,3408.917S,01855.650E,350.0m,1,,,,"Paragliding launch"
+"PG Waboom","PGW",ZA,3315.000S,01928.000E,1000.0m,1,,,,"Paragliding launch"
 "Piekenierskloof","PKN",ZA,3237.983S,01856.767E,578.0m,1,,,,
 "PiekeniersPass","PKP",ZA,3237.567S,01857.000E,536.0m,6,,,,
 "PiekenierStrip","PKS",ZA,3239.200S,01856.417E,254.0m,5,40,520.0m,"124.800","04/22 20X520M Have To Land Uphil"
