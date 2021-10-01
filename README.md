@@ -14,26 +14,16 @@ for [waypoints](https://xkcd.com/927/), including unique names, unique shortcode
 
 To use the waypoint file on your glide computer (that supports CUP files):
 
-1. Download or copy the  
-    [latest release ZA_Cape_YYYYMMDD.cup](/releases/latest)
+1. Download or copy the [latest release ZA_Cape_YYYYMMDD.cup](../../releases/latest)
+   CUP file to the correct location on your device.
 
-    [latest release ZA_Cape_YYYYMMDD.cup](../releases/latest)
-
-    [latest release ZA_Cape_YYYYMMDD.cup](../../releases/latest)
-
-    [latest release ZA_Cape_YYYYMMDD.cup](../../../releases/latest)
-
-file to the correct location on your device
 2. Activate it.
 
-
-
 ---
-[Analyse the waypoints on this spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
+### Browse (or update) the waypoints
 
-[Visualise the waypoints on this map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing).
-
-(TODO: create time based releases for easy versioning. E.g. `ZA_Cape_20210930.cup`).
+1. [Master spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
+2. [Generated map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing).
 
 ---
 ### Precedents
