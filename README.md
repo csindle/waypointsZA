@@ -10,8 +10,9 @@ for [waypoints](https://xkcd.com/927/), including unique names, unique shortcode
 5. Automatically incorporated into XCSoar, Oudie, etc.
 
 ---
-### :south_africa: Instructions :south_africa:
+### Instructions for
 
+#### :south_africa: Using and Flying with the waypoints: :south_africa:
 To use the waypoint file on your glide computer (that supports CUP files):
 
 1. Download or copy the [latest release ZA_Cape_YYYYMMDD.cup](../../releases/latest)
@@ -19,16 +20,12 @@ To use the waypoint file on your glide computer (that supports CUP files):
 
 2. Activate it.
 
----
-### Instructions for
 
 #### Viewing the waypoints
-
 1. [Master spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
 2. [Generated map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing).
 
 #### Contributing and Updating the waypoints
-
 *We explicitly welcome contributions, comments, requests, and suggestions.*
 
 To edit the waypoints immediately:
@@ -43,14 +40,14 @@ To edit the waypoints immediately:
 For a more detailed step-by-step walk through, see Davis from Arizona's instructions
 [here](https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing).
 
-You can also request **Editor** access to the aforementioned 
+You can also request *Editor* access to the aforementioned 
 [Master spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956)
 .
 
 
 #### Converting the waypoints
 
-##### Convert CSV (spreadsheet) to CUP:
+##### CSV (spreadsheet) to CUP:
 
 1. Download the [Google Sheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956)
 as a CSV file (and rename to something sane like `ZA_Cape.cup.csv`).
@@ -61,7 +58,7 @@ as a CSV file (and rename to something sane like `ZA_Cape.cup.csv`).
     (Requires `HEAD` version of [aerofiles](https://github.com/csindle/aerofiles).)
 4. Rename output file appropriately and commit, push, and publish.
 
-##### Convert CUP to KML (Google Earth):
+##### CUP to KML (Google Earth):
 
 1. Run:
     `gpsbabel -i xcsv,style=script/name_cup.style -f ZA_Cape.cup  -o kml -F ZA_Cape.cup.kml`
