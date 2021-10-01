@@ -3,7 +3,7 @@ Waypoints for glider pilots flying in the Cape, South Africa.
 A note on naming: though pilots usually talk of *turnpoints*, this project uses the more general term *waypoints* to
 explicitly include Starting Points, Finishing Points, Reporting Points, Airfields, etc. and the actual Turn Points. 
 
-### Goals:
+### Goals
 
 1. [One](https://xkcd.com/927/), [single point of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 for waypoints, including unique names, unique shortcodes (trigraphs), unique locations, and descriptions.
