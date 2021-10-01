@@ -15,8 +15,8 @@ for [waypoints](https://xkcd.com/927/), including unique names, unique shortcode
 To use the waypoint file on your glide computer (that supports CUP files):
 
 1. Download or copy the 
-[ZA_Cape.cup](https://raw.githubusercontent.com/csindle/waypointsZA/master/ZA_Cape.cup)
-file to the correct location.
+[latest release ZA_Cape_YYYYMMDD.cup](/waypointsZA/releases/latest)
+file to the correct location on your device
 2. Activate it.
 
 ---
