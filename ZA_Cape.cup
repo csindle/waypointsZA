@@ -1,5 +1,6 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "24RiversPass","24R",ZA,3308.467S,01910.600E,1347.0m,6,,,,
+"Aan de Doorns","AAN",ZA,3341.815S,01929.384E,213.0m,1,,,,"Cellar"
 "Aasvoelberg","AAS",ZA,3356.700S,01914.900E,1581.0m,7,,,,
 "Aasvoelkrans","AAV",ZA,3356.867S,02107.767E,1342.0m,7,,,,
 "Aberdeen","ABR",ZA,3227.983S,02403.833E,751.0m,2,150,720.0m,,"FAAE, 751M 25X100M Cross Runways"
@@ -345,6 +346,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "RooibergW","RBW",ZA,3237.583S,02107.317E,1312.0m,1,,,,
 "Rooibosch","RBS",ZA,3217.017S,01853.600E,331.0m,5,330,850.0m,,"330 / 150 20MX850"
 "RooiElsberg","REL",ZA,3417.217S,01850.567E,637.0m,7,,,,
+"Rooihoogte Pass","RHG",ZA,3356.406S,01919.990E,485.0m,6,,,,
 "RR1","RR1",ZA,3334.683S,01921.933E,692.0m,1,,,,
 "RR2","RR2",ZA,3359.200S,02124.367E,692.0m,1,,,,
 "RR3","RR3",ZA,3334.300S,01921.267E,690.0m,1,,,,
@@ -473,7 +475,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Worcfin33","W33",ZA,3340.000S,01925.300E,204.8m,1,,,,
 "WorcFinish","WRF",ZA,3339.900S,01925.117E,202.1m,1,,,,
 "WW4","WW4",ZA,3155.033S,02259.950E,1141.0m,1,,,,
-"X1","X1",ZA,3356.850S,01919.817E,464.0m,1,,,,
 "X2","X2",ZA,3248.667S,01901.900E,359.0m,1,,,,
 "X3","X3",ZA,3243.733S,01844.817E,615.0m,1,,,,
 "X4","X4",ZA,3333.917S,01919.200E,394.0m,1,,,,
@@ -481,7 +482,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "X6","X6",ZA,3258.533S,01902.133E,665.0m,1,,,,
 "X7","X7",ZA,3237.283S,01856.517E,532.0m,1,,,,
 "X8","X8",ZA,3334.400S,01912.717E,260.0m,1,,,,
-"X9","X9",ZA,3341.783S,01929.600E,213.0m,1,,,,
 "XALVA","XAL",ZA,3233.467S,01934.000E,4500.0m,9,,,,
 "Y1","Y1",ZA,3246.200S,01842.383E,678.0m,1,,,,
 "Y11","Y11",ZA,3358.600S,02031.450E,863.0m,1,,,,
