@@ -2,23 +2,23 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "24RiversPass","24R",ZA,3308.467S,01910.600E,1347.0m,6,,,,
 "Aasvoelberg","AAS",ZA,3356.700S,01914.900E,1581.0m,7,,,,
 "Aasvoelkrans","AAV",ZA,3356.867S,02107.767E,1342.0m,7,,,,
-"Aberdeen","BRD",ZA,3227.983S,02403.833E,751.0m,2,150,720.0m,,"FAAE, 751M 25X100M Cross Runways"
-"Adamsfontein","DMS",ZA,3034.817S,02515.967E,1210.0m,5,0,0.0m,,
-"Albertspark","LBR",ZA,3326.867S,02334.900E,1060.0m,1,,,,
-"Alkant","LKN",ZA,2954.383S,02218.967E,1099.0m,2,300,1600.0m,,"30/12 1600m x 55m"
+"Aberdeen","ABR",ZA,3227.983S,02403.833E,751.0m,2,150,720.0m,,"FAAE, 751M 25X100M Cross Runways"
+"Adamsfontein","ADM",ZA,3034.817S,02515.967E,1210.0m,5,0,0.0m,,
+"Albertspark","ALB",ZA,3326.867S,02334.900E,1060.0m,1,,,,
+"Alkant","ALK",ZA,2954.383S,02218.967E,1099.0m,2,300,1600.0m,,"30/12 1600m x 55m"
 "Altona","ALT",ZA,3342.467S,01838.783E,81.0m,5,240,650.0m,,"15m wide (probably take 25m)"
 "AltonaAnnex","ALA",ZA,3342.950S,01840.617E,88.0m,3,310,670.0m,,"670 x 10m (probably take 25)"
-"AmandelRiver","MND",ZA,3359.050S,01911.083E,341.0m,5,220,700.0m,,"8m x 700m emergency only"
+"AmandelRiver","AMN",ZA,3359.050S,01911.083E,341.0m,5,220,700.0m,,"8m x 700m emergency only"
 "Anysberg","ANY",ZA,3330.400S,02036.633E,1462.0m,7,,,,
 "Apiesklip","APK",ZA,3334.467S,01922.083E,882.0m,1,,,,
 "Aquila","AQL",ZA,3323.917S,01956.533E,806.0m,3,240,800.0m,,"20x800m"
-"Area51","R51",ZA,3041.467S,02127.383E,1041.0m,5,300,1280.0m,,"30/12 1280 x 40m"
-"Arrie se Punt","RRS",ZA,3130.617S,01900.600E,915.0m,7,,,,
-"Asantesanna","SNT",ZA,3219.233S,02458.667E,1067.0m,5,0,0.0m,,"1072M 20M Cross Runways"
-"Ashton","SHT",ZA,3350.283S,02003.150E,180.0m,2,90,750.0m,"124.800","090 750x20m"
+"Area51","AR5",ZA,3041.467S,02127.383E,1041.0m,5,300,1280.0m,,"30/12 1280 x 40m"
+"Arrie se Punt","ARR",ZA,3130.617S,01900.600E,915.0m,7,,,,
+"Asantesanna","ASN",ZA,3219.233S,02458.667E,1067.0m,5,0,0.0m,,"1072M 20M Cross Runways"
+"Ashton","ASH",ZA,3350.283S,02003.150E,180.0m,2,90,750.0m,"124.800","090 750x20m"
 "Assegaai","ASS",ZA,3359.083S,02124.600E,623.0m,1,,,,
 "Assegaaybosc","ASG",ZA,3345.617S,02132.833E,189.0m,2,280,1500.0m,,"280 35m x 1500m"
-"Attakwas","TTK",ZA,3352.283S,02157.283E,1175.0m,7,,,,
+"Attakwas","ATT",ZA,3352.283S,02157.283E,1175.0m,7,,,,
 "Babilonstoren","BBL",ZA,3417.183S,01920.250E,209.0m,2,270,650.0m,,"15m x 650 m probably good for 25m"
 "Badsberg Peak","BDS",ZA,3338.950S,01914.817E,975.0m,7,,,,
 "BaileysPeak","BLY",ZA,3330.533S,01906.700E,1256.0m,7,,,,
@@ -91,8 +91,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Dasklip","DSK",ZA,3254.300S,01902.300E,716.0m,1,,,,"Para/Hanglider launchsite"
 "Dasklip Pass","DKP",ZA,3254.200S,01902.550E,697.0m,6,,,,
 "DassiesHoek","DSS",ZA,3343.250S,01952.533E,1698.0m,7,,,,
-"De Aar","DR",ZA,3042.000S,02402.000E,1270.0m,5,0,0.0m,,
-"De Aar Military","DRM",ZA,3038.000S,02355.000E,1249.0m,1,,,,"Military"
+"De Aar","DAR",ZA,3042.000S,02402.000E,1270.0m,5,0,0.0m,,
+"De Aar Military","DAM",ZA,3038.000S,02355.000E,1249.0m,1,,,,"Military"
 "De Doorns","DED",ZA,3328.750S,01941.500E,548.0m,1,,,,
 "De Wet","DWT",ZA,3336.250S,01930.500E,295.0m,1,,,,
 "Dedoorn1","DDR",ZA,3327.367S,01941.017E,491.0m,5,40,600.0m,,"15MX600M 60/240"
@@ -101,7 +101,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Die Poort","DPR",ZA,3325.367S,02137.133E,1076.0m,1,,,,
 "DieHoekAirfield","DHA",ZA,3236.433S,01911.083E,1176.0m,2,350,900.0m,,"21x900m"
 "Diemerskraal","DMR",ZA,3334.500S,01855.033E,83.0m,2,200,850.0m,,"02/20 18 x 850m good for longer wingspan"
-"DoegaAirstrip","DGR",ZA,3131.667S,01934.383E,862.0m,3,285,900.0m,,"Derelict airstriplandable fields around"
+"DoegaAirstrip","DGA",ZA,3131.667S,01934.383E,862.0m,3,285,900.0m,,"Derelict airstriplandable fields around"
 "Dolf","DLF",ZA,3123.833S,01949.983E,895.0m,1,,,,
 "DoopPoort","DPP",ZA,3133.100S,01858.917E,758.0m,6,,,,
 "Doorn","DRN",ZA,3326.000S,02409.000E,799.0m,2,130,500.0m,,
@@ -114,14 +114,14 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Dudleysfield","DDL",ZA,3402.833S,02318.183E,209.0m,5,10,690.0m,,"Dudleys Field18m wide - bushes??"
 "Duiwelsbosberg","DBB",ZA,3359.083S,02123.633E,1294.0m,7,,,,
 "Duiwelskop","DWL",ZA,3232.000S,01904.567E,1472.0m,7,,,,
-"East1","ST1",ZA,3355.233S,02231.650E,266.0m,1,,,,
-"EmergencyFields","MRG",ZA,3237.850S,02123.150E,728.0m,3,0,0.0m,,"01/19 570m; 15/33 400m;16/34 550mThe middle one the best - poles in the N and the S?"
-"EngelsePunt","NGL",ZA,3114.300S,01856.983E,874.0m,1,,,,
-"Enjo Strip","NJS",ZA,3208.550S,01918.517E,290.0m,2,270,700.0m,"129.100","Enjo Nature Farm 18mx700m"
+"East1","EST",ZA,3355.233S,02231.650E,266.0m,1,,,,
+"EmergencyFields","EMR",ZA,3237.850S,02123.150E,728.0m,3,0,0.0m,,"01/19 570m; 15/33 400m;16/34 550mThe middle one the best - poles in the N and the S?"
+"EngelsePunt","ENG",ZA,3114.300S,01856.983E,874.0m,1,,,,
+"Enjo Strip","ENJ",ZA,3208.550S,01918.517E,290.0m,2,270,700.0m,"129.100","Enjo Nature Farm 18mx700m"
 "ERDAS","ERD",ZA,3324.833S,01911.217E,4500.0m,9,,,,
 "Erinvale1 OL","ER1",ZA,3404.367S,01852.900E,81.0m,3,340,340.0m,,"Outlandngfld"
 "Erinvale2 OL","ER2",ZA,3404.083S,01854.500E,117.0m,3,360,470.0m,,"Outlandngfld"
-"Eselskop","SLS",ZA,3059.083S,01903.167E,646.0m,1,,,,
+"Eselskop","ESL",ZA,3059.083S,01903.167E,646.0m,1,,,,
 "Fisantekraal","FSN",ZA,3346.300S,01844.417E,126.0m,5,320,1200.0m,"131.100","14/32 1200m x 80m23/05 100m x 80mLeft hand circuits"
 "Fischers AF","FSC",ZA,3341.867S,01941.783E,374.0m,1,,,,
 "Fraserburg","FRS",ZA,3156.000S,02130.000E,1275.0m,2,340,1600.0m,,"FAFR340 1600mx38m300 900mx 38m030 1000m x 38m"
@@ -135,7 +135,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "George East","GGE",ZA,3354.250S,02232.550E,720.0m,1,,,,
 "George Martin","GGM",ZA,3355.267S,02228.683E,697.0m,1,,,,
 "George TMA","GGT",ZA,3355.700S,02146.317E,452.0m,1,,,,
-"GETEN","GTN",ZA,3403.433S,01936.183E,4500.0m,9,,,,
+"GETEN","GET",ZA,3403.433S,01936.183E,4500.0m,9,,,,
 "Goedverwacht","GDV",ZA,3346.383S,01841.483E,137.0m,2,350,600.0m,,"Goedverwacht"
 "Goodluck","GDL",ZA,3301.583S,02457.367E,311.0m,5,0,0.0m,,"311M 15X900M"
 "Gordonsbay","GOR",ZA,3411.133S,01849.783E,355.0m,1,,,,
@@ -179,7 +179,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Hug Tunnel","HGT",ZA,3343.767S,01904.567E,199.0m,1,,,,
 "Huguenot","HGN",ZA,3345.150S,01904.200E,485.0m,1,,,,
 "Hutchinson","HTC",ZA,3129.633S,02311.450E,1253.0m,1,,,,
-"Inverdoorn","NVR",ZA,3306.317S,01949.133E,617.0m,2,40,990.0m,"126.500","20mx1000mSecond runway 770m x 18m 35/17"
+"Inverdoorn","INV",ZA,3306.317S,01949.133E,617.0m,2,40,990.0m,"126.500","20mx1000mSecond runway 770m x 18m 35/17"
 "Jon1Strip","JN1",ZA,3242.750S,01903.683E,238.0m,2,330,1000.0m,,"15/33 30mx1000m"
 "Jonaskop","JNS",ZA,3358.183S,01930.367E,1646.0m,8,,,,
 "Jonkershoek","JNK",ZA,3353.467S,02213.400E,960.0m,1,,,,
@@ -209,7 +209,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Klipbokskraal","KBL",ZA,3344.817S,02022.500E,741.0m,3,30,880.0m,,"width 20x880m rough crosses on the runway"
 "Klipkraal","KLK",ZA,3404.033S,01911.967E,286.0m,3,270,400.0m,,"18m x 400m"
 "Knysnastrip","KNY",ZA,3357.050S,02258.750E,243.0m,5,280,600.0m,,"23M Wide 600M Long"
-"KODES","KDS",ZA,3308.667S,01845.333E,0.0m,9,,,,
+"KODES","KOD",ZA,3308.667S,01845.333E,0.0m,9,,,,
 "Koebee Pass","KBP",ZA,3136.650S,01859.550E,604.0m,6,,,,
 "Koerasie Berg","KRS",ZA,3227.517S,01907.817E,1631.0m,7,,,,
 "KogelbergPeakl","KGL",ZA,3414.117S,01853.817E,1269.0m,7,,,,
@@ -278,17 +278,17 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "NuwekloofPass","NWK",ZA,3319.183S,01904.933E,223.0m,6,,,,
 "Nuweveld","NWV",ZA,3211.167S,02155.633E,1187.0m,1,,,,
 "Nuy","NUY",ZA,3338.500S,01937.833E,347.0m,1,,,,
-"OKTED","KTD",ZA,3413.200S,01933.500E,0.0m,9,,,,
-"Olifantsberg","LFN",ZA,3358.733S,01929.483E,1600.0m,7,,,,
-"Onserust","NSR",ZA,3333.917S,01926.200E,999.0m,1,,,,
-"Otongskop","TNG",ZA,3321.100S,01905.033E,600.0m,7,,,,
+"OKTED","OKT",ZA,3413.200S,01933.500E,0.0m,9,,,,
+"Olifantsberg","OLF",ZA,3358.733S,01929.483E,1600.0m,7,,,,
+"Onserust","ONS",ZA,3333.917S,01926.200E,999.0m,1,,,,
+"Otongskop","OTN",ZA,3321.100S,01905.033E,600.0m,7,,,,
 "Ou Tol","OUT",ZA,3325.483S,02232.933E,662.0m,1,,,,
 "Ouberg Pass","OBP",ZA,3148.117S,01855.000E,416.0m,6,,,,
-"OudebaasKraalStrip","DBS",ZA,3224.000S,01950.700E,345.0m,5,270,800.0m,,"09/27 30m x 800m 32/14 21m x 550m"
-"Oudewerf","DWR",ZA,3353.217S,02012.167E,999.0m,1,,,,
-"Oudtshoorn1","DTS",ZA,3336.350S,02211.367E,319.0m,5,40,1690.0m,,"FAOH, 32M 319M 32 X 1800M"
+"OudebaasKraalStrip","ODB",ZA,3224.000S,01950.700E,345.0m,5,270,800.0m,,"09/27 30m x 800m 32/14 21m x 550m"
+"Oudewerf","ODW",ZA,3353.217S,02012.167E,999.0m,1,,,,
+"Oudtshoorn1","ODT",ZA,3336.350S,02211.367E,319.0m,5,40,1690.0m,,"FAOH, 32M 319M 32 X 1800M"
 "Ouhangsberg","OHB",ZA,3351.750S,01930.400E,748.0m,7,,,,
-"Overberg","VRB",ZA,3433.500S,02014.900E,14.0m,5,170,3120.0m,"119.800","FAOB"
+"Overberg","OVR",ZA,3433.500S,02014.900E,14.0m,5,170,3120.0m,"119.800","FAOB"
 "Paarl","PAA",ZA,3342.633S,01901.317E,180.0m,2,280,700.0m,,"10/28 22m x 700m LAND UPHILL"
 "PakhuisPass","PKH",ZA,3208.967S,01901.783E,922.0m,6,,,,
 "Paleisheuwel","PLS",ZA,3227.933S,01843.333E,135.0m,5,340,750.0m,,"33/15 17M X 750m and 02/20 10mx400M"
@@ -315,7 +315,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Porterville","PRT",ZA,3301.550S,01859.917E,190.0m,2,330,880.0m,"124.800","15/33 30m x 880m"
 "Potchefstroom","PTC",ZA,2640.000S,02704.900E,1368.0m,5,0,0.0m,,
 "Prieska","PSK",ZA,2941.033S,02246.250E,945.0m,2,330,1480.0m,,"33/15 1480m x 28m 30/12 790m x 23m"
-"Princealbert","ALB",ZA,3311.367S,02201.117E,550.0m,2,350,1660.0m,,"FAPC, 548M 25X1000M Cross Runways 240 800mx24350 1660mx24"
+"Princealbert","PRI",ZA,3311.367S,02201.117E,550.0m,2,350,1660.0m,,"FAPC, 548M 25X1000M Cross Runways 240 800mx24350 1660mx24"
 "Prins River Dam","PRN",ZA,3330.800S,02044.850E,566.0m,1,,,,
 "Quarry","QUA",ZA,3335.750S,01928.033E,461.0m,1,,,,
 "Quarrypoort","QRR",ZA,3325.017S,02318.833E,713.0m,1,,,,
@@ -344,7 +344,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "RooibergEmergency2","RBE",ZA,3231.933S,02114.100E,939.0m,3,350,600.0m,,"Emergency south of dam"
 "RooibergW","RBW",ZA,3237.583S,02107.317E,1312.0m,1,,,,
 "Rooibosch","RBS",ZA,3217.017S,01853.600E,331.0m,5,330,850.0m,,"330 / 150 20MX850"
-"RooiElsberg","RLS",ZA,3417.217S,01850.567E,637.0m,7,,,,
+"RooiElsberg","REL",ZA,3417.217S,01850.567E,637.0m,7,,,,
 "RR1","RR1",ZA,3334.683S,01921.933E,692.0m,1,,,,
 "RR2","RR2",ZA,3359.200S,02124.367E,692.0m,1,,,,
 "RR3","RR3",ZA,3334.300S,01921.267E,690.0m,1,,,,
@@ -356,7 +356,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Sadawa","SAD",ZA,3302.367S,01952.683E,999.0m,1,,,,
 "SadawaField","SDW",ZA,3303.233S,01952.733E,585.0m,3,360,500.0m,,"Possible outlanding in emergency"
 "Samara","SAM",ZA,3226.350S,02445.500E,761.0m,5,0,0.0m,,"762M 20X1600M"
-"SanAmbroso","SNM",ZA,3358.500S,02301.500E,225.0m,3,90,800.0m,,"6m - bushes? 270 5mx800m possible landable"
+"SanAmbroso","SNA",ZA,3358.500S,02301.500E,225.0m,3,90,800.0m,,"6m - bushes? 270 5mx800m possible landable"
 "Sanbona","SAN",ZA,3343.400S,02036.900E,524.0m,5,330,1100.0m,,"330 19X1100M"
 "Sandberg","SND",ZA,3303.433S,01921.633E,1504.0m,7,,,,
 "Sanddrftsklf","SDK",ZA,3326.033S,01933.633E,724.0m,1,,,,
@@ -390,7 +390,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Stonehaven","STO",ZA,3357.850S,02042.733E,634.0m,1,,,,
 "Stormsrivier","SRR",ZA,3404.950S,01958.583E,199.0m,1,,,,
 "Strandfontein","STR",ZA,3145.500S,01813.400E,29.0m,5,0,0.0m,,
-"SUDUS","SDS",ZA,3256.267S,02110.200E,1253.0m,9,,,,
+"SUDUS","SUD",ZA,3256.267S,02110.200E,1253.0m,9,,,,
 "Sutherland","STH",ZA,3229.250S,02042.100E,1553.0m,5,320,1500.0m,,"cross runway 045 - 1500x35330 - 1500x35"
 "Swell Corner","SWE",ZA,3357.700S,02018.767E,0.0m,1,,,,"Reporting Point"
 "Swellendam AF","SWL",ZA,3403.000S,02029.000E,124.0m,5,150,980.0m,"124.800","FASX"
@@ -399,7 +399,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Tankwa West","TNK",ZA,3220.183S,01944.850E,313.0m,2,20,550.0m,,"02/20 20m x 550m"
 "TankwaTent","TNT",ZA,3220.233S,01942.833E,310.0m,2,330,250.0m,,"15/33 8m x 250m (probably accommodate bigger)"
 "Tarrxml","TRR",ZA,3301.800S,01854.900E,94.0m,5,300,590.0m,,"12/30 16MX590M 06/24 16m x 560m landable all"
-"TETAN","TTN",ZA,3339.800S,01924.967E,200.0m,9,,,,
+"TETAN","TET",ZA,3339.800S,01924.967E,200.0m,9,,,,
 "Theewaterskloof Dam Bridge","THW",ZA,3401.500S,01913.100E,347.0m,1,,,,
 "Tierberg","TRB",ZA,3259.100S,01920.450E,1600.0m,7,,,,
 "Tierhoekskop","TRH",ZA,3232.717S,01852.500E,745.0m,7,,,,
@@ -417,7 +417,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Tulbach South","TLB",ZA,3319.050S,01907.567E,138.0m,2,160,400.0m,,"138M"
 "Tweedside","TWD",ZA,3313.617S,02020.450E,1086.0m,2,260,1100.0m,,"23m x 1100m"
 "Tzamenkomst","TZM",ZA,3035.867S,02518.867E,1234.0m,2,100,980.0m,,
-"UFOstrip","FST",ZA,3410.967S,01906.800E,304.0m,3,340,360.0m,,"18m x 360m check obstructions on runway"
+"UFOstrip","UFO",ZA,3410.967S,01906.800E,304.0m,3,340,360.0m,,"18m x 360m check obstructions on runway"
 "Uitkyk Kop","UIT",ZA,3224.550S,01905.750E,1545.0m,7,,,,
 "UitkykPass","UKP",ZA,3224.383S,01906.433E,1016.0m,6,,,,
 "Vaalplaas","VAL",ZA,3415.033S,01927.200E,310.0m,2,290,500.0m,,"20mx500m"
@@ -448,7 +448,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Waboomsberg","WBM",ZA,3315.483S,01927.783E,1849.0m,7,,,,
 "Warmbadberg","WRM",ZA,3244.283S,01901.267E,1016.0m,7,,,,
 "Wave1 Stetyn","WV1",ZA,3351.817S,01913.850E,2199.0m,1,,,,
-"WaveEnds","WVN",ZA,3311.800S,02012.033E,875.0m,1,,,,
+"WaveEnds","WVE",ZA,3311.800S,02012.033E,875.0m,1,,,,
 "Wavestart1","WVS",ZA,3302.167S,02028.150E,1074.0m,1,,,,
 "Wegwaai","WGW",ZA,3226.233S,01905.500E,1631.0m,7,,,,
 "WellGolfCourse","WGC",ZA,3338.633S,01859.317E,96.0m,3,360,250.0m,,"18/36 250m - golf course - emergency"
@@ -472,20 +472,20 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Worcfin15","W15",ZA,3339.567S,01924.600E,204.0m,1,,,,
 "Worcfin33","W33",ZA,3340.000S,01925.300E,204.8m,1,,,,
 "WorcFinish","WRF",ZA,3339.900S,01925.117E,202.1m,1,,,,
-"ww4","WW4",ZA,3155.033S,02259.950E,1141.0m,1,,,,
-"x1","X1",ZA,3356.850S,01919.817E,464.0m,1,,,,
-"x2","X2",ZA,3248.667S,01901.900E,359.0m,1,,,,
-"x3","X3",ZA,3243.733S,01844.817E,615.0m,1,,,,
+"WW4","WW4",ZA,3155.033S,02259.950E,1141.0m,1,,,,
+"X1","X1",ZA,3356.850S,01919.817E,464.0m,1,,,,
+"X2","X2",ZA,3248.667S,01901.900E,359.0m,1,,,,
+"X3","X3",ZA,3243.733S,01844.817E,615.0m,1,,,,
 "X4","X4",ZA,3333.917S,01919.200E,394.0m,1,,,,
-"x5","X5",ZA,3300.883S,01902.417E,604.0m,1,,,,
-"x6","X6",ZA,3258.533S,01902.133E,665.0m,1,,,,
-"x7","X7",ZA,3237.283S,01856.517E,532.0m,1,,,,
-"x8","X8",ZA,3334.400S,01912.717E,260.0m,1,,,,
-"x9","X9",ZA,3341.783S,01929.600E,213.0m,1,,,,
-"XALVA","XLV",ZA,3233.467S,01934.000E,4500.0m,9,,,,
-"y1","Y1",ZA,3246.200S,01842.383E,678.0m,1,,,,
-"y11","Y11",ZA,3358.600S,02031.450E,863.0m,1,,,,
-"y2","Y2",ZA,3246.983S,01844.367E,801.0m,1,,,,
-"y3","Y3",ZA,3354.633S,01858.267E,305.0m,1,,,,
-"y9","Y9",ZA,3231.867S,01903.867E,876.0m,1,,,,
-"z7","Z7",ZA,3345.400S,02001.583E,911.0m,1,,,,
+"X5","X5",ZA,3300.883S,01902.417E,604.0m,1,,,,
+"X6","X6",ZA,3258.533S,01902.133E,665.0m,1,,,,
+"X7","X7",ZA,3237.283S,01856.517E,532.0m,1,,,,
+"X8","X8",ZA,3334.400S,01912.717E,260.0m,1,,,,
+"X9","X9",ZA,3341.783S,01929.600E,213.0m,1,,,,
+"XALVA","XAL",ZA,3233.467S,01934.000E,4500.0m,9,,,,
+"Y1","Y1",ZA,3246.200S,01842.383E,678.0m,1,,,,
+"Y11","Y11",ZA,3358.600S,02031.450E,863.0m,1,,,,
+"Y2","Y2",ZA,3246.983S,01844.367E,801.0m,1,,,,
+"Y3","Y3",ZA,3354.633S,01858.267E,305.0m,1,,,,
+"Y9","Y9",ZA,3231.867S,01903.867E,876.0m,1,,,,
+"Z7","Z7",ZA,3345.400S,02001.583E,911.0m,1,,,,
