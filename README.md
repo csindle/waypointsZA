@@ -1,7 +1,7 @@
 Waypoints for glider pilots flying in the Cape, South Africa.
 
-A note on naming: though pilots usually talk of *turnpoints*, this project uses the more general term *waypoints* to
-explicitly include Starting Points, Finishing Points, Reporting Points, Airfields, etc. and the actual Turn Points. 
+*A note on naming: though pilots usually talk of *turnpoints*, this project uses the more general term *waypoints* to
+explicitly include Starting Points, Finishing Points, Reporting Points, Airfields, etc. and the actual Turn Points.*
 
 ### Goals
 
