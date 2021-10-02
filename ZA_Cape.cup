@@ -36,6 +36,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Blokkop","BLK",ZA,3357.933S,01915.183E,1643.0m,7,,,,
 "Blouberg","BLB",ZA,3346.300S,01826.917E,3.0m,1,,,,
 "Bloupoort Berg","BLP",ZA,3140.367S,01858.817E,816.0m,7,,,,
+"Bloupunt","BLT",ZA,3345.997S,02004.131E,1245.0m,7,,,,
 "Blousteenberg","BST",ZA,3416.533S,01851.817E,890.0m,7,,,,
 "Boeken","BKN",ZA,3356.433S,01906.767E,324.0m,2,40,600.0m,,"04/22 18m x 600m"
 "Bokberg","BKB",ZA,3303.000S,01925.200E,1438.0m,7,,,,
@@ -365,6 +366,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Sandhills","SNH",ZA,3331.100S,01933.250E,397.0m,1,,,,
 "Saron","SRN",ZA,3311.650S,01902.483E,573.0m,1,,,,"Reporting Point"
 "Schanskraal","SCH",ZA,3135.500S,02427.000E,1612.0m,5,0,0.0m,,
+"Sebrakop","SBR",ZA,3244.283S,01846.209E,1445.0m,7,,,,
 "Sedgefield","SDG",ZA,3357.050S,02245.850E,222.0m,3,255,450.0m,,"Landable field E - W landable around"
 "Shadow Peak","SHD",ZA,3223.200S,01909.983E,1890.0m,7,,,,
 "Simondium","SMN",ZA,3347.314S,01901.589E,837.0m,6,,,,
@@ -401,7 +403,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Tankwa West","TNK",ZA,3220.183S,01944.850E,313.0m,2,20,550.0m,,"02/20 20m x 550m"
 "TankwaTent","TNT",ZA,3220.233S,01942.833E,310.0m,2,330,250.0m,,"15/33 8m x 250m (probably accommodate bigger)"
 "Tarrxml","TRR",ZA,3301.800S,01854.900E,94.0m,5,300,590.0m,,"12/30 16MX590M 06/24 16m x 560m landable all"
-"TETAN","TET",ZA,3339.800S,01924.967E,200.0m,9,,,,
 "Theewaterskloof Dam Bridge","THW",ZA,3401.500S,01913.100E,347.0m,1,,,,
 "Tierberg","TRB",ZA,3259.100S,01920.450E,1600.0m,7,,,,
 "Tierhoekskop","TRH",ZA,3232.717S,01852.500E,745.0m,7,,,,
@@ -414,9 +415,9 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Tradoux","TRD",ZA,3357.600S,02040.450E,634.0m,1,,,,
 "Travellers Rest","TRV",ZA,3204.250S,01904.533E,326.0m,1,,,,
 "Tsitsikama","TST",ZA,3401.950S,02413.183E,206.0m,2,300,1000.0m,,"30/12 1000m x 20m"
-"Tulbach","TUL",ZA,3318.333S,01908.333E,166.0m,2,160,400.0m,,
-"Tulbach North","TLN",ZA,3313.033S,01909.433E,302.0m,5,0,0.0m,,
-"Tulbach South","TLB",ZA,3319.050S,01907.567E,138.0m,2,160,400.0m,,"138M"
+"Tulbagh","TUL",ZA,3318.333S,01908.333E,166.0m,2,160,400.0m,,
+"Tulbagh North","TLN",ZA,3313.033S,01909.433E,302.0m,5,0,0.0m,,
+"Tulbagh South","TLB",ZA,3319.050S,01907.567E,138.0m,2,160,400.0m,,"138M"
 "Tweedside","TWD",ZA,3313.617S,02020.450E,1086.0m,2,260,1100.0m,,"23m x 1100m"
 "Tzamenkomst","TZM",ZA,3035.867S,02518.867E,1234.0m,2,100,980.0m,,
 "UFOstrip","UFO",ZA,3410.967S,01906.800E,304.0m,3,340,360.0m,,"18m x 360m check obstructions on runway"
@@ -471,21 +472,11 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Wolvepunt","WLV",ZA,3106.817S,01856.733E,782.0m,1,,,,
 "Woodman","WDM",ZA,3359.717S,02408.617E,236.0m,1,,,,
 "Worcester","WRC",ZA,3339.900S,01925.117E,199.0m,5,150,1440.0m,"124.800","FAWC"
-"Worcfin15","W15",ZA,3339.567S,01924.600E,204.0m,1,,,,
-"Worcfin33","W33",ZA,3340.000S,01925.300E,204.8m,1,,,,
-"WorcFinish","WRF",ZA,3339.900S,01925.117E,202.1m,1,,,,
-"WW4","WW4",ZA,3155.033S,02259.950E,1141.0m,1,,,,
-"X2","X2",ZA,3248.667S,01901.900E,359.0m,1,,,,
-"X3","X3",ZA,3243.733S,01844.817E,615.0m,1,,,,
 "X4","X4",ZA,3333.917S,01919.200E,394.0m,1,,,,
 "X5","X5",ZA,3300.883S,01902.417E,604.0m,1,,,,
 "X6","X6",ZA,3258.533S,01902.133E,665.0m,1,,,,
 "X7","X7",ZA,3237.283S,01856.517E,532.0m,1,,,,
 "X8","X8",ZA,3334.400S,01912.717E,260.0m,1,,,,
 "XALVA","XAL",ZA,3233.467S,01934.000E,4500.0m,9,,,,
-"Y1","Y1",ZA,3246.200S,01842.383E,678.0m,1,,,,
 "Y11","Y11",ZA,3358.600S,02031.450E,863.0m,1,,,,
-"Y2","Y2",ZA,3246.983S,01844.367E,801.0m,1,,,,
-"Y3","Y3",ZA,3354.633S,01858.267E,305.0m,1,,,,
 "Y9","Y9",ZA,3231.867S,01903.867E,876.0m,1,,,,
-"Z7","Z7",ZA,3345.400S,02001.583E,911.0m,1,,,,
