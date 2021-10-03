@@ -182,6 +182,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Huguenot","HGN",ZA,3345.150S,01904.200E,485.0m,1,,,,
 "Hutchinson","HTC",ZA,3129.633S,02311.450E,1253.0m,1,,,,
 "Inverdoorn","INV",ZA,3306.317S,01949.133E,617.0m,2,40,990.0m,"126.500","20mx1000mSecond runway 770m x 18m 35/17"
+"Jan du Toit's River","JAN",ZA,3334.128S,01920.226E,338.0m,1,,,,
 "Jon1Strip","JN1",ZA,3242.750S,01903.683E,238.0m,2,330,1000.0m,,"15/33 30mx1000m"
 "Jonaskop","JNS",ZA,3358.183S,01930.367E,1646.0m,8,,,,
 "Jonkershoek","JNK",ZA,3353.467S,02213.400E,960.0m,1,,,,
@@ -202,7 +203,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Klawer South","KLS",ZA,3148.467S,01839.250E,405.0m,1,,,,
 "KlawerMast","KLM",ZA,3145.283S,01841.350E,803.0m,8,,,,"Danger - unmarked powerlines"
 "Klein Rivier","KLR",ZA,3425.500S,01925.400E,15.0m,3,290,800.0m,,"caution landable fields nearby"
-"Kleinberg","KLB",ZA,3333.817S,01917.000E,647.0m,1,,,,
+"Kleinberg","KLB",ZA,3333.599S,01917.148E,708.0m,7,,,,"Reporting Point"
 "Kleinfontein","KLF",ZA,3308.917S,01910.750E,886.0m,1,,,,
 "Kleinkaroo","KKO",ZA,3336.400S,02019.500E,744.0m,5,50,1100.0m,,"050 1100mx15m320 430mx15m15M WideSW looks the best side"
 "Kleinmond","KNM",ZA,3420.317S,01901.400E,31.0m,1,,,,
@@ -255,12 +256,12 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Mierfontein","MRF",ZA,3326.583S,02122.050E,1450.0m,1,,,,
 "Misty Point","MST",ZA,3357.483S,02025.883E,1710.0m,7,,,,
 "Mitchell's Pass","MTS",ZA,3325.050S,01917.300E,406.0m,6,,,,
-"Mitchell's Peak","MTC",ZA,3327.350S,01919.083E,1447.0m,7,,,,
+"Mitchell's Peak","MTC",ZA,3326.846S,01919.008E,1662.0m,7,,,,
 "Montague","MTG",ZA,3347.917S,02009.317E,288.0m,5,340,340.0m,,"18x340m 04015x660m 340"
 "Moreson AF","MRS",ZA,3353.133S,01903.200E,184.0m,2,300,420.0m,,"184M 25m x 420mlandable 18m - 10m trees on approach"
 "Morningstar","MRN",ZA,3345.553S,01832.900E,59.0m,5,20,640.0m,,
 "Morreesburg","MRR",ZA,3309.083S,01840.250E,159.0m,1,,,,
-"Mostertshoek","MHK",ZA,3328.200S,01915.233E,772.0m,1,,,,"Reporting Point"
+"Mostertshoek Twins","MHK",ZA,3327.919S,01916.721E,2031.0m,7,,,,"South Peak"
 "Mount Lebanon","MNT",ZA,3408.467S,01908.600E,1201.0m,7,,,,
 "Moutons Berg","MTN",ZA,3132.317S,01858.767E,982.0m,7,,,,
 "Mowers","MWR",ZA,3344.000S,01939.100E,368.0m,1,,,,
@@ -269,9 +270,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Nadine","NDN",ZA,3327.667S,01951.433E,1028.0m,2,110,800.0m,,
 "Naude","ND",ZA,3339.533S,01944.383E,986.0m,1,,,,
 "Naudesberg","NDS",ZA,3339.050S,01944.617E,1644.0m,7,,,,
-"Nekkies","NKK",ZA,3344.767S,01928.683E,0.0m,1,,,,"100 KM"
 "New Tempe","NWT",ZA,2902.333S,02609.500E,1381.0m,5,10,1290.0m,"124.810","FATP"
-"Nieubethesda","NBT",ZA,3151.967S,02429.233E,1398.0m,5,0,0.0m,,"Nieu Bethesda"
+"Nieu Bethesda","NBT",ZA,3151.967S,02429.233E,1398.0m,5,0,0.0m,,
 "Nieuwoud Tower","NTR",ZA,3121.217S,01859.033E,857.0m,7,,,,
 "Nieuwoudtville","NWD",ZA,3122.683S,01906.400E,721.0m,1,,,,
 "NiewoudtsPass","NWP",ZA,3220.833S,01900.917E,596.0m,6,,,,
@@ -348,9 +348,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Rooibosch","RBS",ZA,3217.017S,01853.600E,331.0m,5,330,850.0m,,"330 / 150 20MX850"
 "RooiElsberg","REL",ZA,3417.217S,01850.567E,637.0m,7,,,,
 "Rooihoogte Pass","RHG",ZA,3356.406S,01919.990E,485.0m,6,,,,
-"RR1","RR1",ZA,3334.683S,01921.933E,692.0m,1,,,,
 "RR2","RR2",ZA,3359.200S,02124.367E,692.0m,1,,,,
-"RR3","RR3",ZA,3334.300S,01921.267E,690.0m,1,,,,
 "RR5","RR5",ZA,3330.567S,01918.000E,980.0m,1,,,,
 "Ruigtevlei","RGT",ZA,3234.750S,01851.533E,174.0m,5,330,800.0m,,"15/33 174m 15X800m open around the strip"
 "Ruiter","RTR",ZA,3353.467S,02201.550E,661.0m,1,,,,
@@ -391,6 +389,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Steenbrasdam","STE",ZA,3419.067S,01853.133E,555.0m,1,,,,
 "Stellenbosch","STL",ZA,3358.867S,01848.333E,99.0m,5,10,840.0m,"119.300","FASH"
 "Stettyn Strip","STT",ZA,3354.008S,01921.855E,272.0m,2,230,900.0m,,"Drops 30m to the road (NE)Land only SW?"
+"Stoffel se Kop","STF",ZA,3328.085S,01916.048E,1626.0m,7,,,,"Reporting Point"
 "Stonehaven","STO",ZA,3357.850S,02042.733E,634.0m,1,,,,
 "Stormsrivier","SRR",ZA,3404.950S,01958.583E,199.0m,1,,,,
 "Strandfontein","STR",ZA,3145.500S,01813.400E,29.0m,5,0,0.0m,,
@@ -445,7 +444,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "W2 Stetyn","W2S",ZA,3357.667S,01909.967E,1999.0m,1,,,,
 "W3 Theewater","W3T",ZA,3358.750S,01911.250E,1999.0m,1,,,,
 "W4 Theewater","W4T",ZA,3402.717S,01907.100E,1999.0m,1,,,,
-"Waaihoek","WAI",ZA,3333.317S,01917.917E,513.0m,1,,,,"Reporting Point"
+"Waaihoek Peak","WAI",ZA,3328.319S,01918.907E,1948.0m,7,,,,
 "Waaihoeksberg","WHK",ZA,3325.183S,02025.150E,1294.0m,7,,,,
 "WaBooms Rivier AF","WAB",ZA,3330.800S,01913.367E,276.0m,2,340,680.0m,"124.800","only 15m 19m x 680m"
 "Waboomsberg","WBM",ZA,3315.483S,01927.783E,1849.0m,7,,,,
@@ -472,7 +471,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Wolvepunt","WLV",ZA,3106.817S,01856.733E,782.0m,1,,,,
 "Woodman","WDM",ZA,3359.717S,02408.617E,236.0m,1,,,,
 "Worcester","WRC",ZA,3339.900S,01925.117E,199.0m,5,150,1440.0m,"124.800","FAWC"
-"X4","X4",ZA,3333.917S,01919.200E,394.0m,1,,,,
 "X5","X5",ZA,3300.883S,01902.417E,604.0m,1,,,,
 "X6","X6",ZA,3258.533S,01902.133E,665.0m,1,,,,
 "X7","X7",ZA,3237.283S,01856.517E,532.0m,1,,,,
