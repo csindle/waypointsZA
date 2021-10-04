@@ -289,7 +289,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Ouhangsberg","OHB",ZA,3351.750S,01930.400E,748.0m,7,,,,
 "Overberg","OVR",ZA,3433.500S,02014.900E,14.0m,5,170,3120.0m,"119.800","FAOB"
 "Paarl","PAA",ZA,3342.633S,01901.317E,180.0m,2,280,700.0m,,"10/28 22m x 700m LAND UPHILL"
-"PakhuisPass","PKH",ZA,3208.967S,01901.783E,922.0m,6,,,,
+"Pakhuis Pass","PKH",ZA,3208.967S,01901.783E,922.0m,6,,,,
 "Paleisheuwel","PLS",ZA,3227.933S,01843.333E,135.0m,5,340,750.0m,,"33/15 17M X 750m and 02/20 10mx400M"
 "Palmyra","PLM",ZA,3356.667S,02102.333E,583.0m,1,,,,
 "Pampoenfontein #","PAM",ZA,3255.617S,01902.232E,815.0m,1,,,,"Paragliding launch site"
@@ -307,7 +307,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Piekenierskloof Pass","PIE",ZA,3237.602S,01856.952E,536.0m,6,,,,
 "Piekenierskloof Strip","PAF",ZA,3239.200S,01856.417E,254.0m,5,40,520.0m,"124.800","04/22 20X520M Have To Land Uphil"
 "Piketbergml","PKT",ZA,3257.317S,01847.933E,129.0m,5,360,770.0m,,"Landable 36/18 15mx770m"
-"Pletairfield","PLT",ZA,3405.283S,02319.583E,21.0m,5,120,1230.0m,"124.800","FAPG, 1200 M 21M X 1200M"
+"Plettenberg Bay","PLT",ZA,3405.283S,02319.583E,21.0m,5,120,1230.0m,"124.800","FAPG, 1200 M 21M X 1200M"
 "PlettPossible","PLP",ZA,3401.783S,02317.450E,137.0m,3,290,990.0m,,"1000 x 30m"
 "PoloFields","PLF",ZA,3355.900S,02330.250E,265.0m,3,0,0.0m,,
 "Poort","POO",ZA,3358.783S,02139.167E,61.0m,3,0,0.0m,,
@@ -430,11 +430,11 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Visgat","VSG",ZA,3302.533S,01912.683E,689.0m,1,,,,
 "Vosburg","VSB",ZA,3035.300S,02253.650E,1149.0m,1,,,,
 "Vredendal","VRE",ZA,3141.067S,01829.333E,45.0m,2,260,950.0m,,"08/26 20m x 950m; 04/22 18m x 650m; 13/31 18m x 380mLandable by all gliders"
-"Vredendal Old AF","VRD",ZA,3138.500S,01832.667E,101.0m,2,80,1290.0m,,"FAVR 24/06 21m x 1290m"
+"Vredendal Old","VRD",ZA,3138.500S,01832.667E,101.0m,2,80,1290.0m,,"FAVR 24/06 21m x 1290m"
 "Vreysrant","VRY",ZA,3356.350S,02144.150E,783.0m,1,,,,
 "Waaihoek Peak","WAI",ZA,3328.319S,01918.907E,1948.0m,7,,,,
 "Waaihoeksberg","WHK",ZA,3325.183S,02025.150E,1294.0m,7,,,,
-"WaBooms Rivier AF","WAB",ZA,3330.800S,01913.367E,276.0m,2,340,680.0m,"124.800","only 15m 19m x 680m"
+"Waboomsrivier","WAB",ZA,3330.800S,01913.367E,276.0m,2,340,680.0m,"124.800","only 15m 19m x 680m"
 "Waboomsberg","WBM",ZA,3315.483S,01927.783E,1849.0m,7,,,,
 "Warmbadberg","WRM",ZA,3244.283S,01901.267E,1016.0m,7,,,,
 "Wegwaai","WGW",ZA,3226.233S,01905.500E,1631.0m,7,,,,
