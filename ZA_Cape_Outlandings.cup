@@ -1,8 +1,13 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"Dolf","DLF",ZA,3123.833S,01949.983E,895.0m,1,,,,
+"Erinvale1 OL","ER1",ZA,3404.367S,01852.900E,81.0m,3,340,340.0m,,"Outlandngfld"
+"Erinvale2 OL","ER2",ZA,3404.083S,01854.500E,117.0m,3,360,470.0m,,"Outlandngfld"
 "Ol 1 Sven",,ZA,3318.367S,01908.667E,181.0m,3,160,400.0m,,
 "Ol 2 Alan",,ZA,3333.667S,01914.700E,220.0m,3,150,400.0m,,
-"Ol 2 Sven",,ZA,3351.633S,02008.467E,313.0m,3,040,400.0m,,
+"Ol 2 Sven",,ZA,3351.633S,02008.467E,313.0m,3,40,400.0m,,
 "Ol 3 Alan",,ZA,3347.067S,01948.317E,247.0m,3,100,400.0m,,
-"Ol 4 Alan",,ZA,3322.367S,01908.900E,187.0m,3,020,400.0m,,
+"Ol 4 Alan",,ZA,3322.367S,01908.900E,187.0m,3,20,400.0m,,
 "Ol Adriaan 1",,ZA,3257.800S,01900.300E,186.0m,3,110,400.0m,,
 "Ol Alan 1",,ZA,3330.317S,01912.900E,264.0m,3,100,400.0m,,
+"Somerset West OL1","SW1",ZA,3408.383S,01853.633E,46.0m,3,340,400.0m,,"Outlandngfld"
+"Somerset West OL2","SW2",ZA,3408.583S,01852.867E,27.0m,3,330,350.0m,,"Outlandngfld"

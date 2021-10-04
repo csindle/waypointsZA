@@ -104,7 +104,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "DieHoekAirfield","DHA",ZA,3236.433S,01911.083E,1176.0m,2,350,900.0m,,"21x900m"
 "Diemerskraal","DMR",ZA,3334.500S,01855.033E,83.0m,2,200,850.0m,,"02/20 18 x 850m good for longer wingspan"
 "DoegaAirstrip","DGA",ZA,3131.667S,01934.383E,862.0m,3,285,900.0m,,"Derelict airstriplandable fields around"
-"Dolf","DLF",ZA,3123.833S,01949.983E,895.0m,1,,,,
 "DoopPoort","DPP",ZA,3133.100S,01858.917E,758.0m,6,,,,
 "Doorn","DRN",ZA,3326.000S,02409.000E,799.0m,2,130,500.0m,,
 "DragonRock","DRG",ZA,3204.150S,01852.917E,542.0m,7,,,,
@@ -121,8 +120,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "EngelsePunt","ENG",ZA,3114.300S,01856.983E,874.0m,1,,,,
 "Enjo Strip","ENJ",ZA,3208.550S,01918.517E,290.0m,2,270,700.0m,"129.100","Enjo Nature Farm 18mx700m"
 "ERDAS","ERD",ZA,3324.833S,01911.217E,4500.0m,9,,,,
-"Erinvale1 OL","ER1",ZA,3404.367S,01852.900E,81.0m,3,340,340.0m,,"Outlandngfld"
-"Erinvale2 OL","ER2",ZA,3404.083S,01854.500E,117.0m,3,360,470.0m,,"Outlandngfld"
 "Eselskop","ESL",ZA,3059.083S,01903.167E,646.0m,1,,,,
 "Fisantekraal","FSN",ZA,3346.300S,01844.417E,126.0m,5,320,1200.0m,"131.100","14/32 1200m x 80m23/05 100m x 80mLeft hand circuits"
 "Fischers AF","FSC",ZA,3341.867S,01941.783E,374.0m,1,,,,
@@ -378,8 +375,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "SneeuGatPass","SNG",ZA,3306.733S,01910.117E,1641.0m,6,,,,
 "Sneeukop","SNK",ZA,3221.500S,01909.933E,1930.0m,7,,,,
 "Soetendl Strip","SOE",ZA,3332.583S,01900.150E,1400.0m,5,0,0.0m,,"10M ????"
-"Somerset West OL1","SW1",ZA,3408.383S,01853.633E,46.0m,3,340,400.0m,,"Outlandngfld"
-"Somerset West OL2","SW2",ZA,3408.583S,01852.867E,27.0m,3,330,350.0m,,"Outlandngfld"
 "Sonkliprug","SON",ZA,3320.483S,01942.117E,1719.0m,7,,,,
 "Sparreboschhoogte","SPA",ZA,3359.135S,02031.343E,817.0m,7,,,,
 "Spitskop","SPT",ZA,3354.550S,02148.883E,1030.0m,7,,,,
