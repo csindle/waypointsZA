@@ -31,7 +31,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Bhejane","BHJ",ZA,3311.800S,02356.083E,576.0m,2,300,850.0m,"124.700","18M Bhejane850m x 20m"
 "Biljetsfontein","BLJ",ZA,3327.450S,02053.283E,632.0m,1,,,,
 "Black Oyster","BLC",ZA,3437.850S,01949.633E,21.0m,2,300,900.0m,,"30m x 900m"
-"Block House","BLO",ZA,3231.867S,01903.867E,876.0m,1,,,,
 "Bloemenhof","BLM",ZA,3407.633S,01948.200E,165.0m,2,270,800.0m,,"30m x 800m"
 "Blokkop","BLK",ZA,3357.933S,01915.183E,1643.0m,7,,,,
 "Blouberg","BLB",ZA,3346.300S,01826.917E,3.0m,1,,,,
@@ -64,6 +63,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Bushmanskloof","BSH",ZA,3202.100S,01902.600E,308.0m,2,330,1200.0m,"124.800","20 m 2000m Landable, Landable Strip"
 "Caledon","CLD",ZA,3415.000S,01925.000E,279.0m,2,70,600.0m,,
 "Calvinia","CLV",ZA,3130.000S,01944.000E,973.0m,5,250,1240.0m,"124.800","FACV 250 / 70 28m x 1240m"
+"Camel","CAM",ZA,3330.835S,01918.627E,1778.0m,7,,,,
 "Cape St Francis","CPS",ZA,3411.167S,02449.533E,39.0m,2,100,700.0m,,"FACF"
 "Cape Town VOR","CPT",ZA,3358.167S,01836.300E,46.0m,9,,,,"Vor/Dme"
 "Carnarvon","CRN",ZA,3059.383S,02207.900E,1268.0m,5,160,1290.0m,"124.810","FACN"
@@ -90,8 +90,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "D2000","D20",ZA,3339.500S,01829.000E,65.0m,5,360,770.0m,"124.400","770m x 15m"
 "Dankbaar","DNK",ZA,3358.867S,02116.667E,880.0m,1,,,,
 "Darldam","DRL",ZA,3310.000S,02512.000E,1499.0m,5,0,0.0m,,
-"Dasklip","DSK",ZA,3254.300S,01902.300E,716.0m,1,,,,"Para/Hanglider launchsite"
-"Dasklip Pass","DKP",ZA,3254.200S,01902.550E,697.0m,6,,,,
+"Dasklip #","DSK",ZA,3254.300S,01902.300E,716.0m,6,,,,"Para/Hanglider launch site"
 "DassiesHoek","DSS",ZA,3343.250S,01952.533E,1698.0m,7,,,,
 "De Aar","DAR",ZA,3042.000S,02402.000E,1270.0m,5,0,0.0m,,
 "De Aar Military","DAM",ZA,3038.000S,02355.000E,1249.0m,1,,,,"Military"
@@ -100,6 +99,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Dedoorn1","DDR",ZA,3327.367S,01941.017E,491.0m,5,40,600.0m,,"15MX600M 60/240"
 "Devil's Tooth","DVL",ZA,3354.856S,01859.361E,767.0m,7,,,,
 "Die Hoek","DHK",ZA,3241.167S,01912.300E,762.0m,1,,,,
+"Die Kruile","KRU",ZA,3401.967S,01904.433E,884.0m,7,,,,
 "Die Poort","DPR",ZA,3325.367S,02137.133E,1076.0m,1,,,,
 "DieHoekAirfield","DHA",ZA,3236.433S,01911.083E,1176.0m,2,350,900.0m,,"21x900m"
 "Diemerskraal","DMR",ZA,3334.500S,01855.033E,83.0m,2,200,850.0m,,"02/20 18 x 850m good for longer wingspan"
@@ -115,7 +115,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Du Toits Peak","DTT",ZA,3345.250S,01911.333E,770.0m,7,,,,
 "Dudleysfield","DDL",ZA,3402.833S,02318.183E,209.0m,5,10,690.0m,,"Dudleys Field18m wide - bushes??"
 "Duiwelsbosberg","DBB",ZA,3359.083S,02123.633E,1294.0m,7,,,,
-"Duiwelskop","DWL",ZA,3232.000S,01904.567E,1472.0m,7,,,,
+"Duiwelskop","DWL",ZA,3231.508S,01903.972E,1472.0m,7,,,,
 "East1","EST",ZA,3355.233S,02231.650E,266.0m,1,,,,
 "EmergencyFields","EMR",ZA,3237.850S,02123.150E,728.0m,3,0,0.0m,,"01/19 570m; 15/33 400m;16/34 550mThe middle one the best - poles in the N and the S?"
 "EngelsePunt","ENG",ZA,3114.300S,01856.983E,874.0m,1,,,,
@@ -295,6 +295,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "PakhuisPass","PKH",ZA,3208.967S,01901.783E,922.0m,6,,,,
 "Paleisheuwel","PLS",ZA,3227.933S,01843.333E,135.0m,5,340,750.0m,,"33/15 17M X 750m and 02/20 10mx400M"
 "Palmyra","PLM",ZA,3356.667S,02102.333E,583.0m,1,,,,
+"Pampoenfontein #","PAM",ZA,3255.617S,01902.232E,815.0m,1,,,,"Paragliding launch site"
 "Pearlybeach","PRL",ZA,3437.783S,01928.533E,14.0m,5,300,810.0m,,"7x810m landable 25m"
 "Pearston","PRS",ZA,3245.800S,02510.450E,604.0m,5,0,0.0m,,"593M 15M"
 "Perdeberg1?","PR1",ZA,3356.567S,02104.333E,1236.0m,7,,,,
@@ -306,9 +307,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "PG Piket","PGP",ZA,3250.000S,01845.000E,538.0m,1,,,,"Paragliding launch"
 "PG Slp","PGS",ZA,3408.917S,01855.650E,350.0m,1,,,,"Paragliding launch"
 "PG Waboom","PGW",ZA,3315.000S,01928.000E,1000.0m,1,,,,"Paragliding launch"
-"Piekenierskloof","PKN",ZA,3237.983S,01856.767E,578.0m,1,,,,
-"PiekeniersPass","PKP",ZA,3237.567S,01857.000E,536.0m,6,,,,
-"PiekenierStrip","PKS",ZA,3239.200S,01856.417E,254.0m,5,40,520.0m,"124.800","04/22 20X520M Have To Land Uphil"
+"Piekenierskloof Pass","PIE",ZA,3237.602S,01856.952E,536.0m,6,,,,
+"Piekenierskloof Strip","PAF",ZA,3239.200S,01856.417E,254.0m,5,40,520.0m,"124.800","04/22 20X520M Have To Land Uphil"
 "Piketbergml","PKT",ZA,3257.317S,01847.933E,129.0m,5,360,770.0m,,"Landable 36/18 15mx770m"
 "Pletairfield","PLT",ZA,3405.283S,02319.583E,21.0m,5,120,1230.0m,"124.800","FAPG, 1200 M 21M X 1200M"
 "PlettPossible","PLP",ZA,3401.783S,02317.450E,137.0m,3,290,990.0m,,"1000 x 30m"
@@ -321,7 +321,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Prins River Dam","PRN",ZA,3330.800S,02044.850E,566.0m,1,,,,
 "Quarry","QUA",ZA,3335.750S,01928.033E,461.0m,1,,,,
 "Quarrypoort","QRR",ZA,3325.017S,02318.833E,713.0m,1,,,,
-"Queen Victoria Peak","QNV",ZA,3345.583S,01921.517E,1298.0m,1,,,,
+"Queen Victoria Peak","VIC",ZA,3345.023S,01921.994E,1298.0m,7,,,,
 "R356","R35",ZA,3239.783S,02022.950E,615.0m,3,0,0.0m,,"Cultivated fieldsPossibly landable"
 "R356Airstrip","R3A",ZA,3241.650S,02025.700E,660.0m,2,340,820.0m,,"340 820m x 21m - 240 720m x 21m"
 "R45 Strip1","R45",ZA,3336.783S,01856.100E,126.0m,3,0,0.0m,,
@@ -333,7 +333,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Ren","RN",ZA,3233.367S,01852.800E,0.0m,1,,,,"100 KM"
 "Renosterhoek","RNS",ZA,3230.617S,01848.917E,199.0m,1,,,,
 "Riversdale","RVR",ZA,3406.700S,02115.500E,198.0m,5,140,960.0m,,"FARD"
-"RL","RL",ZA,3358.367S,02034.783E,911.0m,1,,,,
 "Robertson","RBR",ZA,3348.683S,01954.400E,197.0m,5,100,1500.0m,,"FARS"
 "Robinson Pass","RBN",ZA,3353.000S,02201.233E,700.0m,6,,,,
 "Robspur","ROB",ZA,3344.200S,01950.833E,823.0m,1,,,,"Reporting Point"
@@ -348,8 +347,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Rooibosch","RBS",ZA,3217.017S,01853.600E,331.0m,5,330,850.0m,,"330 / 150 20MX850"
 "RooiElsberg","REL",ZA,3417.217S,01850.567E,637.0m,7,,,,
 "Rooihoogte Pass","RHG",ZA,3356.406S,01919.990E,485.0m,6,,,,
-"RR2","RR2",ZA,3359.200S,02124.367E,692.0m,1,,,,
-"RR5","RR5",ZA,3330.567S,01918.000E,980.0m,1,,,,
 "Ruigtevlei","RGT",ZA,3234.750S,01851.533E,174.0m,5,330,800.0m,,"15/33 174m 15X800m open around the strip"
 "Ruiter","RTR",ZA,3353.467S,02201.550E,661.0m,1,,,,
 "Ruiterbosch","RTB",ZA,3355.000S,02204.383E,473.0m,1,,,,
@@ -384,6 +381,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Somerset West OL1","SW1",ZA,3408.383S,01853.633E,46.0m,3,340,400.0m,,"Outlandngfld"
 "Somerset West OL2","SW2",ZA,3408.583S,01852.867E,27.0m,3,330,350.0m,,"Outlandngfld"
 "Sonkliprug","SON",ZA,3320.483S,01942.117E,1719.0m,7,,,,
+"Sparreboschhoogte","SPA",ZA,3359.135S,02031.343E,817.0m,7,,,,
 "Spitskop","SPT",ZA,3354.550S,02148.883E,1030.0m,7,,,,
 "Stanley Island","STN",ZA,3400.583S,02323.950E,3.0m,5,0,0.0m,,"30M 3M 30M X 900M"
 "Steenbrasdam","STE",ZA,3419.067S,01853.133E,555.0m,1,,,,
@@ -411,7 +409,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Touws","TOU",ZA,3319.717S,02001.533E,776.0m,3,50,500.0m,,"050 500mx15"
 "Touws Rivier","TWS",ZA,3320.500S,02002.000E,797.0m,1,,,,
 "Touwsberg","TWB",ZA,3333.583S,02057.667E,1462.0m,7,,,,
-"Tradoux","TRD",ZA,3357.600S,02040.450E,634.0m,1,,,,
+"Tradouw","TRA",ZA,3356.388S,02042.432E,634.0m,6,,,,
 "Travellers Rest","TRV",ZA,3204.250S,01904.533E,326.0m,1,,,,
 "Tsitsikama","TST",ZA,3401.950S,02413.183E,206.0m,2,300,1000.0m,,"30/12 1000m x 20m"
 "Tulbagh","TUL",ZA,3318.333S,01908.333E,166.0m,2,160,400.0m,,
@@ -439,19 +437,11 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Vredendal","VRE",ZA,3141.067S,01829.333E,45.0m,2,260,950.0m,,"08/26 20m x 950m; 04/22 18m x 650m; 13/31 18m x 380mLandable by all gliders"
 "Vredendal Old AF","VRD",ZA,3138.500S,01832.667E,101.0m,2,80,1290.0m,,"FAVR 24/06 21m x 1290m"
 "Vreysrant","VRY",ZA,3356.350S,02144.150E,783.0m,1,,,,
-"W1 Stetyn","W1S",ZA,3351.817S,01913.850E,2199.0m,1,,,,
-"W1 Theewater","W1T",ZA,3402.100S,01904.150E,1999.0m,1,,,,
-"W2 Stetyn","W2S",ZA,3357.667S,01909.967E,1999.0m,1,,,,
-"W3 Theewater","W3T",ZA,3358.750S,01911.250E,1999.0m,1,,,,
-"W4 Theewater","W4T",ZA,3402.717S,01907.100E,1999.0m,1,,,,
 "Waaihoek Peak","WAI",ZA,3328.319S,01918.907E,1948.0m,7,,,,
 "Waaihoeksberg","WHK",ZA,3325.183S,02025.150E,1294.0m,7,,,,
 "WaBooms Rivier AF","WAB",ZA,3330.800S,01913.367E,276.0m,2,340,680.0m,"124.800","only 15m 19m x 680m"
 "Waboomsberg","WBM",ZA,3315.483S,01927.783E,1849.0m,7,,,,
 "Warmbadberg","WRM",ZA,3244.283S,01901.267E,1016.0m,7,,,,
-"Wave1 Stetyn","WV1",ZA,3351.817S,01913.850E,2199.0m,1,,,,
-"WaveEnds","WVE",ZA,3311.800S,02012.033E,875.0m,1,,,,
-"Wavestart1","WVS",ZA,3302.167S,02028.150E,1074.0m,1,,,,
 "Wegwaai","WGW",ZA,3226.233S,01905.500E,1631.0m,7,,,,
 "WellGolfCourse","WGC",ZA,3338.633S,01859.317E,96.0m,3,360,250.0m,,"18/36 250m - golf course - emergency"
 "WellingtonSneeukop","WLL",ZA,3338.333S,01907.600E,1357.0m,7,,,,"Slanghoekberg"
@@ -471,10 +461,5 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Wolvepunt","WLV",ZA,3106.817S,01856.733E,782.0m,1,,,,
 "Woodman","WDM",ZA,3359.717S,02408.617E,236.0m,1,,,,
 "Worcester","WRC",ZA,3339.900S,01925.117E,199.0m,5,150,1440.0m,"124.800","FAWC"
-"X5","X5",ZA,3300.883S,01902.417E,604.0m,1,,,,
-"X6","X6",ZA,3258.533S,01902.133E,665.0m,1,,,,
-"X7","X7",ZA,3237.283S,01856.517E,532.0m,1,,,,
-"X8","X8",ZA,3334.400S,01912.717E,260.0m,1,,,,
 "XALVA","XAL",ZA,3233.467S,01934.000E,4500.0m,9,,,,
-"Y11","Y11",ZA,3358.600S,02031.450E,863.0m,1,,,,
-"Y9","Y9",ZA,3231.867S,01903.867E,876.0m,1,,,,
+"Zuurbraak","ZUU",ZA,3357.760S,02038.443E,1500.0m,7,,,,
