@@ -23,7 +23,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Audenberg","AUD",ZA,3333.225S,01927.651E,1706.0m,7,,,,
 "Babilonstoren","BBL",ZA,3417.183S,01920.250E,209.0m,2,270,650.0m,,"15m x 650 m probably good for 25m"
 "Badsberg Peak","BDS",ZA,3338.950S,01914.817E,975.0m,7,,,,
-"Baileys Peak","BLY",ZA,3330.533S,01906.700E,1256.0m,7,,,,
+"Bailey's Peak","BLY",ZA,3330.533S,01906.700E,1256.0m,7,,,,
 "Baineskloof Pass","BAI",ZA,3336.999S,01906.004E,580.0m,6,,,,
 "Barrydale","BRR",ZA,3355.600S,02043.000E,363.0m,3,8,360.0m,,"Microlightstrip 18m wide."
 "Beaufort West","BFR",ZA,3218.000S,02240.000E,899.0m,2,80,1660.0m,"124.800","FABW"
@@ -74,7 +74,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Ceres AF","CRS",ZA,3319.017S,01925.033E,579.0m,2,70,1600.0m,"124.800","1600m x 25m"
 "CharityHopeFaith","CHR",ZA,3208.450S,01901.600E,1095.0m,7,,,,
 "Citrusdal1","CTR",ZA,3237.217S,01900.233E,164.0m,5,350,900.0m,"124.800","17/35 15X900M - landable 18m plus - abandonned municipal airfield"
-"Clan South","CLA",ZA,3221.067S,01900.800E,0.0m,1,,,,
 "ClanSunPower","CSP",ZA,3208.533S,01855.167E,338.0m,15,,,,
 "Clanwilliam AF","CLN",ZA,3210.500S,01852.833E,120.0m,5,340,540.0m,,"18m x 540m"
 "Cloetesberg","CLO",ZA,3354.150S,02145.883E,1007.0m,7,,,,
@@ -229,7 +228,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Krakadouw Middle","KRM",ZA,3213.617S,01903.683E,1650.0m,7,,,,
 "KrakadouwPeak","KRA",ZA,3214.350S,01903.700E,1744.0m,7,,,,
 "Kroonbult","KRB",ZA,3401.567S,02416.400E,226.0m,1,,,,"Kroonbult"
-"KroonlandPeak","KRN",ZA,3353.583S,01915.183E,1673.0m,7,,,,
+"KroonlandPeak","KRN",ZA,3353.577S,01915.286E,1673.0m,7,,,,
 "Kwadouwsberg","KWD",ZA,3332.450S,01939.167E,1727.0m,7,,,,
 "Ladismith","LDS",ZA,3330.600S,02115.133E,537.0m,2,130,1100.0m,,"537M 20X1100M"
 "Laingsburg","LNG",ZA,3311.867S,02050.250E,674.0m,3,260,990.0m,,"990mx23m"
@@ -244,7 +243,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Luisekop","LUI",ZA,3309.924S,01905.018E,1189.0m,7,,,,
 "MalmesburyAF","MLA",ZA,3329.150S,01842.600E,143.0m,5,320,940.0m,,"14/32 940m"
 "MalmesburyStrip","MLM",ZA,3326.967S,01845.750E,126.0m,2,270,270.0m,,"09/27 20m x 270m"
-"Maltese Cross","MLT",ZA,3230.617S,01909.950E,1448.0m,1,,,,
+"Maltese Cross","MLT",ZA,3230.742S,01910.640E,1410.0m,1,,,,
 "Maraisberg","MAR",ZA,3228.750S,01904.483E,1250.0m,7,,,,
 "Martin","MRT",ZA,3418.083S,01848.517E,2.0m,1,,,,
 "Matjiesfontein","MAT",ZA,3313.667S,02035.100E,897.0m,1,,,,
