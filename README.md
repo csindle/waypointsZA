@@ -2,7 +2,7 @@ Waypoints for glider pilots flying in the Cape, South Africa.
 
 *A note on naming: though pilots usually talk of* turnpoints, *this project uses the more general term*
 waypoints *to explicitly include Starting Points, Finishing Points, Reporting Points, 
-Airfields, etc. and the actual Turn Points.*
+Airfields, etc. and the actual Turn Points. This is defined in Sporting Code for Gliding (SC3).*
 
 ### Goals
 
@@ -21,8 +21,8 @@ To use the waypoint file on your glide computer (that supports CUP files):
 
 1. Download or copy the latest release [`ZA_Cape_yyyymmdd.cup`](../../releases/latest)
    CUP file to the correct location on your device.
-
 2. Activate it.
+3. Fly.
 
 #### Viewing the waypoints
 1. [Master spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
@@ -69,11 +69,13 @@ as a CSV file (and rename to something sane like `ZA_Cape.cup.csv`).
 
 ---
 ### Precedents
-The BGA waypoint policy:
+
+The BGA have been honing their waypoints (and the management policies thereof) since 1988.
+In lieu of our own policies and procedures, please read theirs for guidance:
 
 1. [Policy](http://www.newportpeace.co.uk/turningpoints.htm)
 
-Arizona gliding community waypoint documentation:
+Arizona gliding community waypoint documentation (who also use the modern git version control system):
 
 1. [Instructions for updating and editing](https://docs.google.com/presentation/d/1pMjyXVpgSP-2waq6FuD5_nyMrU_6ApVSMYG6YpMSBvM/edit?usp=sharing)
 1. [Map](https://www.google.com/maps/d/u/0/edit?mid=1kHawbgbNa_hPMl5rvOVMP27UdMX1PvQ_&ll=32.39213804431958%2C-111.49211784793266&z=11)
