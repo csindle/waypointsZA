@@ -1,7 +1,8 @@
 Waypoints for glider pilots flying in the Cape, South Africa.
 
-*A note on naming: though pilots usually talk of* turnpoints, *this project uses the more general term*
-waypoints *to explicitly include Starting Points, Finishing Points, Reporting Points, 
+A note on naming:
+*Although pilots usually talk of* "turnpoints", *this project uses the more general term*
+"waypoints" *to explicitly include Starting Points, Finishing Points, Reporting Points, 
 Airfields, etc. and the actual Turn Points. This is defined in Sporting Code for Gliding (SC3).*
 
 ### Goals
@@ -26,9 +27,10 @@ To use the waypoint file on your glide computer (that supports CUP files):
 
 #### Viewing the waypoints
 1. [Master spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
-2. Generated [Google Map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing) of latest *release*.
-3. Up-to-date generated [GeoJSON Map](https://gist.github.com/csindle/736c3658c29ba2a29abffdc2917e1839).
-4. Up-to-date generated [searchable spreadsheet](https://gist.github.com/csindle/86d782cc0405dd54a80eecc3838ffe83).
+2. Live, generated [GeoJSON map](https://gist.github.com/csindle/736c3658c29ba2a29abffdc2917e1839).
+3. Live, generated [searchable spreadsheet](https://gist.github.com/csindle/86d782cc0405dd54a80eecc3838ffe83).
+4. Generated [Google map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing) 
+of latest *release*.
 
 #### Contributing and Updating the waypoints
 *We explicitly welcome contributions, comments, requests, and suggestions.*
