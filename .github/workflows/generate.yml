@@ -39,13 +39,13 @@ jobs:
       with:
         token: ${{ secrets.GIST_TOKEN }}
         gist_id: 06794ffd3ed70fa8b9dbab5b65635106
-        gist_file_name: echo "ZA_Cape_${{ env.DATE }}.cup.csv"
-        file_path: ./output/ZA_Cape_UNRELEASED.cup.csv
+        gist_file_name: echo "ZA_Cape_UNRELEASED.cup.csv"
+        file_path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ env.DATE }}.cup.csv
 
     - name: Update GeoJSON Gist
       uses: exuanbo/actions-deploy-gist@v1
       with:
         token: ${{ secrets.GIST_TOKEN }}
         gist_id: 4925e546693db0c25d874880a32533c3
-        gist_file_name: ZA_Cape_${{ env.DATE }}.geojson
-        file_path: ./output/ZA_Cape_UNRELEASED.geojson
+        gist_file_name: ZA_Cape_UNRELEASED.geojson
+        file_path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ env.DATE }}.geojson
