@@ -44,6 +44,6 @@ jobs:
 
     - uses: actions/upload-artifact@v2
       with:
-        name: "Create a releasable SeeYou CUP file"
+        name: "Releasable waypoint CUP file"
         path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ env.DATE }}.cup
         if-no-files-found: error  # 'warn' or 'ignore' are also available, defaults to `warn`
