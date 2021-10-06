@@ -19,7 +19,8 @@ jobs:
 
     - name: Create release artefacts
       run: |
-        ./release.bash
+        ./release.bash output
+        ls -larth output
 
     - uses: actions/upload-artifact@v2
       with:
