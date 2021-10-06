@@ -7,9 +7,10 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    env:
+      OUT_DIR: "output"
+
     steps:
-    - env:
-        OUT_DIR: output
     - uses: actions/checkout@v2
 
     - name: Install dependencies
