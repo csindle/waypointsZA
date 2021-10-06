@@ -56,13 +56,13 @@ as a CSV file (and rename to something sane like `ZA_Cape.cup.csv`).
 (`name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc`).
 3. Run:
     `./script/sanitise.py ZA_Cape.cup.csv ZA_Cape.cup` to create the verified output `.cup` file.
-    (Requires `HEAD` version of [aerofiles](https://github.com/csindle/aerofiles).)
+    (Requires [aerofiles](https://github.com/Turbo87/aerofiles): `pip install aerofiles`)
 4. Rename output file appropriately and commit, push, and publish.
 
 ##### CUP to KML (Google Earth):
 1. Run:
     `gpsbabel -i xcsv,style=script/name_cup.style -f ZA_Cape.cup  -o kml -F ZA_Cape.cup.kml`
-   (Requires [`gpsbabel`](https://www.gpsbabel.org/).)
+   (Requires [GPSBabel](https://www.gpsbabel.org/): `apt install gpsbabel`)
 2. Import the KML file as a new layer on the 
     [Google Map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing) layer.
 3. Rename, and delete the old layer.
