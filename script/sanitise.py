@@ -4,7 +4,11 @@
 Verify the integrity of CUP files.
 """
 
+import csv
+from io import StringIO
+from pathlib import Path
 import sys
+
 # import pprint
 
 from aerofiles.seeyou import Reader, Writer
@@ -30,11 +34,30 @@ def convert(point: dict) -> dict:
     return point
 
 
-def main(in_filename: str, out_filename: str) -> None:
+def cut(csv_in: Path, column_count: int) -> StringIO:
+    """
+    Return a file with only the first column_count columns of csv_in_file.
+    """
+
+    with csv_in.open(newline='') as csvfile:
+        csv_in = csv.reader(csvfile,)
+        out_str = StringIO()
+        csv_cut = csv.writer(out_str, )
+        for row in csv_in:
+            if row[0]:
+                # Ignore seemingly empty rows
+                csv_cut.writerow(row[:column_count])
+    out_str.seek(0)
+    return out_str
+
+
+def main(in_filename: Path, out_filename: Path) -> None:
     """
     Sanitise the input XCSoar/SeeYou CUP file, to the output CUP file.
     """
-    cup_file = Reader().read(open(in_filename))
+    cup11cols = cut(csv_in=in_filename, column_count=11)
+    cup_file = Reader().read(cup11cols)
+
     waypoints = cup_file["waypoints"]
     print(f'Imported {len(waypoints)} waypoints.')
     with open(out_filename, 'wb') as out_file:
@@ -47,4 +70,4 @@ def main(in_filename: str, out_filename: str) -> None:
 
 
 if __name__ == '__main__':
-    main(in_filename=str(sys.argv[1]), out_filename=str(sys.argv[2]))
+    main(in_filename=Path(sys.argv[1]), out_filename=Path(sys.argv[2]))
