@@ -27,8 +27,8 @@ jobs:
         ./release.bash ${OUT_PATH}
         ls -larth ${OUT_PATH}
         ls -larth ${{ env.OUT_PATH }}
-        echo ${DATE_TMP}
-        echo ${{ env.DATE_TMP }}
+        echo "111 todo ${DATE}"
+        echo "222 todo ${{ env.DATE_TMP }}"
 
     - name: "Update Gist: CSV"
       uses: exuanbo/actions-deploy-gist@v1
@@ -36,7 +36,7 @@ jobs:
         token: ${{ secrets.GIST_TOKEN }}
         gist_id: 86d782cc0405dd54a80eecc3838ffe83
         gist_file_name: ZA_Cape_UNRELEASED.cup.csv
-        file_path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ DATE_TMP }}.cup.csv
+        file_path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ env.DATE_TMP }}.cup.csv
 
     - name: "Update Gist: GeoJSON"
       uses: exuanbo/actions-deploy-gist@v1
@@ -44,11 +44,11 @@ jobs:
         token: ${{ secrets.GIST_TOKEN }}
         gist_id: 736c3658c29ba2a29abffdc2917e1839
         gist_file_name: ZA_Cape_UNRELEASED.geojson
-        file_path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ DATE_TMP }}.geojson
+        file_path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ env.DATE_TMP }}.geojson
 
     - uses: actions/upload-artifact@v2
       with:
         name: "Create a releasable SeeYou CUP file"
-        path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ DATE_TMP }}.cup
+        path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ env.DATE_TMP }}.cup
         if-no-files-found: error  # 'warn' or 'ignore' are also available, defaults to `warn`
 

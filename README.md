@@ -26,7 +26,9 @@ To use the waypoint file on your glide computer (that supports CUP files):
 
 #### Viewing the waypoints
 1. [Master spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
-2. [Generated map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing).
+2. Generated [Google Map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing) of latest *release*.
+3. Up-to-date generated [GeoJSON Map](https://gist.github.com/csindle/736c3658c29ba2a29abffdc2917e1839).
+4. Up-to-date generated [searchable spreadsheet](https://gist.github.com/csindle/86d782cc0405dd54a80eecc3838ffe83).
 
 #### Contributing and Updating the waypoints
 *We explicitly welcome contributions, comments, requests, and suggestions.*
