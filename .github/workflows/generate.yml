@@ -1,4 +1,4 @@
-name: Create release artefacts
+name: Generate
 
 on: [push, workflow_dispatch]
 
@@ -9,20 +9,19 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-#    - name: Set up Python 3.10
-#      uses: actions/setup-python@v2
-#      with:
-#        python-version: "3.10"
+
     - name: Install dependencies
       run: |
         sudo apt install gpsbabel
         python -m pip install --upgrade pip
         pip install -U pylint
         pip install -U aerofiles
+
     - name: Create release artefacts
       run: |
-        DATE=$(date +\%Y\%m\%d)
-        cp -f ZA_Cape.cup ZA_Cape_${DATE}.cup    # For SoaringSpot
-        cp -f ZA_Cape.cup ZA_Cape_${DATE}.cup.csv   # For GitHub Gist
-        gpsbabel -i xcsv,style=script/name_cup.style -f ZA_Cape.cup -o geojson -F ZA_Cape_${DATE}.geojson   # For GitHub Gist
-        gpsbabel -i xcsv,style=script/name_cup.style -f ZA_Cape.cup -o kml     -F ZA_Cape_${DATE}.cup.kml   # For Google Maps
+        ./release.bash
+
+    - uses: actions/upload-artifact@v2
+      with:
+        name: Save artefacts
+        path: out/
