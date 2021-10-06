@@ -22,7 +22,7 @@ jobs:
 
     - name: Create release artefacts
       run: |
-        ./release.bash output
+        ./release.bash ${OUT_DIR}
         ls -larth ${OUT_DIR}
 
     - uses: actions/upload-artifact@v2
