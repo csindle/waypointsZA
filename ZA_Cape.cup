@@ -3,8 +3,9 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Aan de Doorns","AAN",ZA,3341.815S,01929.384E,213.0m,1,,,,"Cellar"
 "Aasvoelberg","AAS",ZA,3356.700S,01914.900E,1581.0m,7,,,,
 "Aasvoelkrans","AAV",ZA,3356.867S,02107.767E,1342.0m,7,,,,
+"Aasvogelkop #","AVK",ZA,3254.951S,01844.299E,783.0m,7,,,,"Paragliding launch site 6.7km N"
 "Aberdeen","ABR",ZA,3227.983S,02403.833E,751.0m,2,150,720.0m,,"FAAE, 751M 25X100M Cross Runways"
-"Adamsfontein","ADM",ZA,3034.817S,02515.967E,1210.0m,5,0,0.0m,,
+"Adamsfontein","ADM",ZA,3034.817S,02515.967E,1210.0m,5,,,,
 "Albertspark","ALB",ZA,3326.867S,02334.900E,1060.0m,1,,,,
 "Alkant","ALK",ZA,2954.383S,02218.967E,1099.0m,2,300,1600.0m,,"30/12 1600m x 55m"
 "Altona","ALT",ZA,3342.467S,01838.783E,81.0m,5,240,650.0m,,"15m wide (probably take 25m)"
@@ -15,7 +16,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Aquila","AQL",ZA,3323.917S,01956.533E,806.0m,3,240,800.0m,,"20x800m"
 "Area51","AR5",ZA,3041.467S,02127.383E,1041.0m,5,300,1280.0m,,"30/12 1280 x 40m"
 "Arrie se Punt","ARR",ZA,3130.617S,01900.600E,915.0m,7,,,,
-"Asantesanna","ASN",ZA,3219.233S,02458.667E,1067.0m,5,0,0.0m,,"1072M 20M Cross Runways"
+"Asantesanna","ASN",ZA,3219.233S,02458.667E,1067.0m,5,,,,"1072M 20M Cross Runways"
 "Ashton","ASH",ZA,3350.283S,02003.150E,180.0m,2,90,750.0m,"124.800","090 750x20m"
 "Assegaai","ASS",ZA,3359.083S,02124.600E,623.0m,1,,,,
 "Assegaaybosch","ASG",ZA,3345.617S,02132.833E,189.0m,2,280,1500.0m,,"280 35m x 1500m"
@@ -91,7 +92,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Cropdust2","CD2",ZA,3301.633S,01857.050E,135.0m,3,290,830.0m,,"11/29 18m x 830m landable all"
 "Dankbaar","DNK",ZA,3358.867S,02116.667E,880.0m,1,,,,
 "Darldam","DRL",ZA,3310.000S,02512.000E,1499.0m,5,0,0.0m,,
-"Dasklip #","DSK",ZA,3254.300S,01902.300E,716.0m,6,,,,"Para/Hanglider launch site"
+"Dasklip Pass #","DSK",ZA,3254.201S,01902.516E,700.0m,6,,,,"Para/Hanglider launch site 200m SW."
 "Dassieshoek","DSS",ZA,3343.409S,01952.916E,1698.0m,7,,,,
 "De Aar","DAR",ZA,3042.000S,02402.000E,1270.0m,5,0,0.0m,,
 "De Aar Military","DAM",ZA,3038.000S,02355.000E,1249.0m,1,,,,"Military"
@@ -127,7 +128,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Fisantekraal","FSN",ZA,3346.300S,01844.417E,126.0m,5,320,1200.0m,"131.100","14/32 1200m x 80m23/05 100m x 80mLeft hand circuits"
 "Fischers AF","FSC",ZA,3341.867S,01941.783E,374.0m,1,,,,
 "Fonteintjiesberg","FON",ZA,3331.424S,01923.929E,1989.0m,7,,,,
-"Franschhoek Pass #","FRN",ZA,3354.422S,01909.415E,740.0m,6,,,,"Paragliding launch site 400 N."
+"Franschhoek Pass #","FRA",ZA,3354.422S,01909.415E,740.0m,6,,,,"Paragliding launch site 400m N."
 "Fraserburg","FRS",ZA,3156.000S,02130.000E,1275.0m,2,340,1600.0m,,"FAFR340 1600mx38m300 900mx 38m030 1000m x 38m"
 "Fraserwest","FRW",ZA,3155.783S,02124.917E,1303.0m,2,260,440.0m,,"26/08 440m x 8m 32/14 300m x 8m Some bushes, but probably landable"
 "Gannaberg","GAN",ZA,3351.253S,01935.701E,876.0m,7,,,,
@@ -176,7 +177,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Hermon","HRM",ZA,3328.800S,01857.867E,88.0m,5,360,850.0m,,"18/36 850m"
 "HMS","HMS",ZA,3402.933S,01907.233E,311.0m,5,270,480.0m,,"09/27 25m x 480m"
 "Hoek","HK",ZA,3241.683S,01908.633E,0.0m,1,,,,"100 KM"
-"HoekvdBerg","HKV",ZA,3424.783S,01907.650E,60.0m,2,320,750.0m,,"15m x 750m (probably take bigger)"
+"Hoek-van-die-berg","HK-",ZA,3424.783S,01907.650E,60.0m,2,320,750.0m,,"15m x 750m (probably take bigger)"
 "Horingberg","HRN",ZA,3356.883S,02054.233E,1498.0m,7,,,,
 "Hottentots H","HTT",ZA,3406.867S,01857.417E,582.0m,1,,,,
 "Houdenbek","HDN",ZA,3259.133S,01923.433E,937.0m,3,110,1000.0m,,"11/29 12m x 1000m - plants to the north on the edge!!!surface inspection first"
@@ -193,6 +194,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Kamala","KML",ZA,3245.133S,02535.667E,1625.0m,2,10,900.0m,,"FAST"
 "Kanetberg","KNT",ZA,3355.900S,02058.867E,1262.0m,7,,,,
 "KanonBerg","KNN",ZA,3400.767S,01937.767E,1466.0m,7,,,,
+"Kanonkop #","KAN",ZA,3351.776S,01854.416E,957.0m,7,,,,"Paragliding launch site 2.7km NE"
 "Karee Kop","KAR",ZA,3358.483S,02114.100E,1366.0m,7,,,,
 "Karoo Farm Hotel","KRF",ZA,3323.617S,01950.433E,934.0m,3,270,880.0m,,"Landable, Landable Strip"
 "Karoogariep","KRG",ZA,3054.533S,02438.017E,1399.0m,2,170,1200.0m,,"11-Jul-10 18:27"
@@ -202,7 +204,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Keerom","KEE",ZA,3336.217S,01935.067E,623.0m,1,,,,"Reporting Point"
 "Keeromberg","KOB",ZA,3333.708S,01936.150E,2072.0m,7,,,,
 "Keurkloof","KEU",ZA,3310.400S,02028.850E,888.0m,5,280,720.0m,,"720mX14 - should be good for 18m glider"
-"KKanon #","KKN",ZA,3351.000S,01854.000E,350.0m,1,,,,"Paragliding launch site"
 "Klawer","KLW",ZA,3143.533S,01841.100E,565.0m,1,,,,
 "Klawer South","KLS",ZA,3148.467S,01839.250E,405.0m,1,,,,
 "KlawerMast","KLM",ZA,3145.283S,01841.350E,803.0m,8,,,,"Danger - unmarked powerlines"
@@ -212,12 +213,12 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Kleinfontein","KLF",ZA,3308.917S,01910.750E,886.0m,1,,,,
 "Kleinkaroo","KKO",ZA,3336.400S,02019.500E,744.0m,5,50,1100.0m,,"050 1100mx15m320 430mx15m15M WideSW looks the best side"
 "Kleinmond","KNM",ZA,3420.317S,01901.400E,31.0m,1,,,,
-"KleinmondOldAirstrip","KMD",ZA,3419.750S,01903.417E,40.0m,3,280,780.0m,,"15m x 780m Old airstrip Emergency!!!"
-"KleinpoortPiek","KPP",ZA,3310.667S,01907.200E,1128.0m,7,,,,
+"Kleinmond old AF","KMD",ZA,3419.750S,01903.417E,40.0m,3,280,780.0m,,"15m x 780m Old airstrip Emergency!!!"
+"Kleinpoortberg","KPP",ZA,3310.667S,01907.200E,1128.0m,7,,,,
 "Klipbokskraal","KBL",ZA,3344.817S,02022.500E,741.0m,3,30,880.0m,,"width 20x880m rough crosses on the runway"
 "Klipkraal","KLK",ZA,3404.033S,01911.967E,286.0m,3,270,400.0m,,"18m x 400m"
 "Klipspringerkop","KLI",ZA,3355.859S,02016.817E,1123.0m,7,,,,
-"Knysnastrip","KNY",ZA,3357.050S,02258.750E,243.0m,5,280,600.0m,,"23M Wide 600M Long"
+"Knysna","KNY",ZA,3357.050S,02258.750E,243.0m,5,280,600.0m,,"23M Wide 600M Long"
 "KODES","KOD",ZA,3308.667S,01845.333E,0.0m,9,,,,
 "Koebee Pass","KBP",ZA,3136.650S,01859.550E,604.0m,6,,,,
 "Koerasie Berg","KRS",ZA,3227.517S,01907.817E,1631.0m,7,,,,
@@ -248,9 +249,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "MalmesburyStrip","MLM",ZA,3326.967S,01845.750E,126.0m,2,270,270.0m,,"09/27 20m x 270m"
 "Maltese Cross","MLT",ZA,3230.742S,01910.640E,1410.0m,1,,,,
 "Maraisberg","MAR",ZA,3228.750S,01904.483E,1250.0m,7,,,,
-"Martin","MRT",ZA,3418.083S,01848.517E,2.0m,1,,,,
-"Matjiesfontein","MAT",ZA,3313.667S,02035.100E,897.0m,1,,,,
-"MatjiesStrip","MTJ",ZA,3314.433S,02034.450E,947.0m,3,260,1000.0m,,"1000x23"
+"Matjiesfontein","MAT",ZA,3314.415S,02034.046E,930.0m,3,260,1000.0m,,"1000x23"
 "Matroosberg Peak","MTR",ZA,3323.100S,01940.500E,2249.0m,1,,,,
 "Matsikammaberg","MTK",ZA,3141.350S,01847.883E,1011.0m,7,,,,
 "McGregor","MCG",ZA,3357.167S,01949.333E,247.0m,1,,,,
@@ -311,8 +310,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Perdeberg2?","PR2",ZA,3357.400S,02131.433E,1127.0m,7,,,,
 "Perdekop","PRD",ZA,3243.283S,01905.650E,921.0m,7,,,,
 "Piekenierskloof Pass","PIE",ZA,3237.602S,01856.952E,536.0m,6,,,,
-"Piekenierskloof Strip","PAF",ZA,3239.200S,01856.417E,254.0m,5,40,520.0m,"124.800","04/22 20X520M Have To Land Uphil"
-"Piket #","PKT",ZA,3250.000S,01845.000E,538.0m,1,,,,"Paragliding launch site"
+"Piekenierskloof","PAF",ZA,3239.200S,01856.417E,254.0m,5,40,520.0m,"124.800","04/22 20X520M Have To Land Uphil"
+"Piketberg","PIK",ZA,3245.231S,01846.372E,1224.0m,7,,,,
 "Piketbergml","PKT",ZA,3257.317S,01847.933E,129.0m,5,360,770.0m,,"Landable 36/18 15mx770m"
 "Platberg Pass","PLA",ZA,3312.084S,01905.436E,470.0m,6,,,,
 "Plettenberg Bay","PLT",ZA,3405.283S,02319.583E,21.0m,5,120,1230.0m,"124.800","FAPG, 1200 M 21M X 1200M"
@@ -369,7 +368,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Sebrakop","SBR",ZA,3244.283S,01846.209E,1445.0m,7,,,,
 "Sedgefield","SDG",ZA,3357.050S,02245.850E,222.0m,3,255,450.0m,,"Landable field E - W landable around"
 "Shadow Peak","SHD",ZA,3223.200S,01909.983E,1890.0m,7,,,,
-"Sir Lowry's Pass","SRL",ZA,3409.003S,01855.793E,441.0m,6,,,,
+"Sir Lowry's Pass #","SIR",ZA,3408.944S,01855.702E,450.0m,6,,,,"Paragliding launch site 100m NW"
 "Skerpheuwel","SKE",ZA,3235.017S,01854.767E,877.0m,7,,,,
 "Skerpioensberg","SKR",ZA,3218.817S,01907.033E,1626.0m,7,,,,
 "Skeurkrans","SKK",ZA,3221.067S,01900.800E,1179.0m,7,,,,
@@ -378,7 +377,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Slanghoek Ridge Peak","SRP",ZA,3338.299S,01909.996E,1540.0m,7,,,,
 "SlanghoekPeak","SLH",ZA,3340.667S,01910.950E,1522.0m,7,,,,
 "SleepyBeauty","SLP",ZA,3357.967S,02111.817E,1341.0m,7,,,,
-"Slp #","SLP",ZA,3408.917S,01855.650E,350.0m,1,,,,"Paragliding launch site"
 "Sneeuberg","SNB",ZA,3230.450S,01909.200E,2027.0m,7,,,,
 "SneeuGatPass","SNG",ZA,3306.733S,01910.117E,1641.0m,6,,,,
 "Sneeukop","SNK",ZA,3221.500S,01909.933E,1930.0m,7,,,,
@@ -443,8 +441,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Vreysrant","VRY",ZA,3356.350S,02144.150E,783.0m,1,,,,
 "Waaihoek Peak","WAI",ZA,3328.319S,01918.907E,1948.0m,7,,,,
 "Waaihoeksberg","WHK",ZA,3325.183S,02025.150E,1294.0m,7,,,,
-"Waboom #","WBM",ZA,3315.000S,01928.000E,1000.0m,1,,,,"Paragliding launch site"
-"Waboomsberg","WBM",ZA,3315.483S,01927.783E,1849.0m,7,,,,
+"Waboomsberg #","WBM",ZA,3315.188S,01927.566E,1849.0m,7,,,,"Paragliding launch site nearby"
 "Waboomsrivier","WAB",ZA,3330.800S,01913.367E,276.0m,2,340,680.0m,"124.800","only 15m 19m x 680m"
 "Warmbadberg","WRM",ZA,3244.211S,01901.207E,1016.0m,7,,,,
 "Wegwaai","WGW",ZA,3226.233S,01905.500E,1631.0m,7,,,,
