@@ -9,7 +9,7 @@ jobs:
 
     env:
       OUT_PATH: "output"
-      DATE_TMP: echo "THIS IS IT $(date +\%Y\%m\%d)"
+      DATE_TMP: $(date +\%Y\%m\%d)
 
     steps:
     - uses: actions/checkout@v2
