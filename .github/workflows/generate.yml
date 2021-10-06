@@ -23,8 +23,8 @@ jobs:
 
     - name: Create release artefacts
       run: |
-        ./release.bash ${OUT_DIR}
-        ls -larth ${OUT_DIR}
+        ./release.bash ${OUT_PATH}
+        ls -larth ${OUT_PATH}
         echo "${{ env.DATE }}"
         echo "${{ env.OUT_PATH }}"
 
