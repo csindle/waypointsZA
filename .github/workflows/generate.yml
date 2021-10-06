@@ -31,10 +31,18 @@ jobs:
         path: output/
         if-no-files-found: error # 'warn' or 'ignore' are also available, defaults to `warn`
 
-    - name: Update Gists
+    - name: Update CSV Gist
       uses: exuanbo/actions-deploy-gist@v1
       with:
         token: ${{ secrets.GIST_TOKEN }}
         gist_id: 06794ffd3ed70fa8b9dbab5b65635106
         gist_file_name: ZA_Cape_20211006.cup.csv
         file_path: ./output/ZA_Cape_20211006.cup.csv
+
+    - name: Update GeoJSON Gist
+      uses: exuanbo/actions-deploy-gist@v1
+      with:
+        token: ${{ secrets.GIST_TOKEN }}
+        gist_id: 4925e546693db0c25d874880a32533c3
+        gist_file_name: ZA_Cape_20211006.geojson
+        file_path: ./output/ZA_Cape_20211006.geojson
