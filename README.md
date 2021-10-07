@@ -27,7 +27,7 @@ To use the waypoint file on your glide computer (that supports CUP files):
 3. Fly.
 
 #### Viewing the waypoints
-1. [Master spreadsheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956).
+1. [[WaypointsZA]](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956) spreadsheet.
 2. Live, generated [GeoJSON map](https://gist.github.com/csindle/736c3658c29ba2a29abffdc2917e1839).
 3. Live, generated [searchable spreadsheet](https://gist.github.com/csindle/86d782cc0405dd54a80eecc3838ffe83).
 4. Generated [Google map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing) 
@@ -77,10 +77,10 @@ Arizona gliding community waypoint documentation (who also use the modern git ve
 ### Definitions:
 *(Up for debate: please make your voice heard!)*
 
-In a Waypoint name, the following suffixes are defined as:
+In a WP **name** field, the following suffixes are defined:
 
 1. **#** (hash): Air Activity, caution.  E.g. Para-gliding launch site (source BGA).
-2. **911**: Emergency only. May be too narrow or unsuitable.
+2. **911**: Emergency only. Landing area may be too narrow or otherwise unsuitable.
 3. **U**: Unsurveyed.  A ground inspection has not been done; data from satellite only.
 
 Multiple suffixes can be combined (space separated): e.g. "Buffelsport 911 U"

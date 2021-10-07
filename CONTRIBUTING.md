@@ -42,7 +42,7 @@ spreadsheet.  Anonymous contributions will be ignored.
 Send an email to `wpza@succinct.co.za` with your edits.
 
 ---
-## Our (¿CGC?) Policies:
+## Our (CGC?) Policies
 *(Up for debate: please make your voice heard!)*
 
 1. A WP [SHOULD NOT](https://datatracker.ietf.org/doc/html/rfc2119) be closer than 5 km to another one.
