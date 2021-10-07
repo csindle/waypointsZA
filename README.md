@@ -22,7 +22,7 @@ unique locations, and normalised descriptions.
 To use the waypoint file on your glide computer (that supports CUP files):
 
 1. Download or copy the latest released [`ZA_Cape_yyyymmdd.cup`](../../releases/latest)
-   CUP file (Under "Assets") to the correct location on your device.
+   CUP file (under "Assets") to the correct location on your device.
 2. Activate it.
 3. Fly.
 
