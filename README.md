@@ -5,7 +5,7 @@ A note on naming:
 "waypoints" *to explicitly include Starting Points, Finishing Points, Reporting Points, 
 Airfields, etc. and the actual Turn Points. This is defined in Sporting Code for Gliding (SC3).*
 
-![ZA_Cape waypoints](img/ZA.jpg)
+![ZA_Cape waypoints](img/ZA.jpg "ZA_Cape waypoints")
 
 ---
 ### Goals
@@ -70,5 +70,5 @@ Multiple suffixes can be combined (space separated): e.g. "Buffelsport 911 U"
 1. [CUP file specification](https://downloads.naviter.com/docs/CUP-file-format-description.pdf)
 
 ---
-![XCSoar screenshot](img/XCSoar.jpg)
+![XCSoar screenshot](img/XCSoar.jpg "XCSoar screenshot")
 
