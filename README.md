@@ -5,9 +5,10 @@ A note on naming:
 "waypoints" *to explicitly include Starting Points, Finishing Points, Reporting Points, 
 Airfields, etc. and the actual Turn Points. This is defined in Sporting Code for Gliding (SC3).*
 
+![ZA_Cape waypoints](img/ZA.jpg)
 
+---
 ### Goals
-
 1. [One](https://xkcd.com/927/), [single point of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 for waypoints, including unique names, unique three character shortcodes (trigraphs),
 unique locations, and normalised descriptions.
@@ -37,11 +38,8 @@ of latest *release*.
 
 Please see [`CONTRIBUTING`](CONTRIBUTING.md) for the details.
 
-![ZA_Cape waypoints](img/ZA.jpg)
-
 ---
 ### Precedents
-
 The BGA have been honing their WPs (and the management policies thereof) since 1988.
 In lieu of our own policies and procedures, please use theirs for guidance:
 
@@ -69,7 +67,8 @@ Multiple suffixes can be combined (space separated): e.g. "Buffelsport 911 U"
 
 ---
 ### Resources
-
 1. [CUP file specification](https://downloads.naviter.com/docs/CUP-file-format-description.pdf)
 
+---
 ![XCSoar screenshot](img/XCSoar.jpg)
+
