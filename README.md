@@ -37,7 +37,7 @@ of latest *release*.
 
 Please see [`CONTRIBUTING`](CONTRIBUTING.md) for the details.
 
-![Western Cape](img/ZA_WC.png "Waypoints")
+![ZA_Cape waypoints](img/ZA.jpg)
 
 ---
 ### Precedents
@@ -72,4 +72,4 @@ Multiple suffixes can be combined (space separated): e.g. "Buffelsport 911 U"
 
 1. [CUP file specification](https://downloads.naviter.com/docs/CUP-file-format-description.pdf)
 
-![Tulbagh](img/XCSoar.jpg "XCSoar screenshot")
+![XCSoar screenshot](img/XCSoar.jpg)
