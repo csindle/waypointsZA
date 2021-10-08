@@ -5,6 +5,7 @@ A note on naming:
 "waypoints" *to explicitly include Starting Points, Finishing Points, Reporting Points, 
 Airfields, etc. and the actual Turn Points. This is defined in Sporting Code for Gliding (SC3).*
 
+
 ### Goals
 
 1. [One](https://xkcd.com/927/), [single point of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
@@ -36,6 +37,8 @@ of latest *release*.
 
 Please see [`CONTRIBUTING`](CONTRIBUTING.md) for the details.
 
+![Western Cape](img/ZA_WC.png "Waypoints")
+
 ---
 ### Precedents
 
@@ -52,7 +55,7 @@ Arizona gliding community WP documentation (who also use the modern git version 
 
 
 ---
-### Definitions:
+### Definitions
 *(Up for debate: please make your voice heard!)*
 
 In a WP **name** field, the following suffixes are defined:
@@ -65,7 +68,7 @@ Multiple suffixes can be combined (space separated): e.g. "Buffelsport 911 U"
 
 
 ---
-### Resources:
+### Resources
 
 1. [CUP file specification](https://downloads.naviter.com/docs/CUP-file-format-description.pdf)
 
