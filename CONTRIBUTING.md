@@ -55,3 +55,25 @@ WP Style (Turn point, Mountain Peak, etc.), primary runway length, name, etc.
 
 Special, derived files will be made available (TODO) for glide computers that cannot cope with this normalisation,
 or have other capacity constraints.
+
+
+---
+## Converting the waypoints between formats
+
+### CSV (spreadsheet) to CUP:
+1. Download the [Google Sheet](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956)
+as a CSV file (and rename to something sane like `ZA_Cape.cup.csv`).
+2. Remove all Columns after K and save. I.e. keep only the first 11 columns 
+(`name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc`).
+3. Run:
+    `./script/sanitise.py ZA_Cape.cup.csv ZA_Cape.cup` to create the verified output `.cup` file.
+    (Requires [aerofiles](https://github.com/Turbo87/aerofiles): `pip install aerofiles`)
+4. Rename output file appropriately and commit, push, and publish.
+
+### CUP to KML (Google Earth):
+1. Run:
+    `gpsbabel -i xcsv,style=script/name_cup.style -f ZA_Cape.cup  -o kml -F ZA_Cape.cup.kml`
+   (Requires [GPSBabel](https://www.gpsbabel.org/): `apt install gpsbabel`)
+2. Import the KML file as a new layer on the 
+    [Google Map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing) layer.
+3. Rename, and delete the old layer.
