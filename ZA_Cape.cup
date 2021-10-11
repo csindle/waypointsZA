@@ -88,7 +88,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Control East2","CE2",ZA,3345.550S,01932.267E,189.0m,1,,,,
 "Control West1","CW1",ZA,3338.250S,01922.867E,222.5m,1,,,,
 "Control West2","CW2",ZA,3334.967S,01917.283E,238.0m,1,,,,
-"Corridor Peak","CRR",ZA,3224.600S,01912.100E,1838.0m,7,,,,
 "Craigml","CRG",ZA,3329.783S,01857.850E,100.0m,5,360,460.0m,,"36/18 460m"
 "Crown Peak","CRO",ZA,3330.776S,01926.827E,1322.0m,7,,,,
 "Dankbaar","DNK",ZA,3358.867S,02116.667E,880.0m,1,,,,
@@ -112,8 +111,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Doorn","DRN",ZA,3326.000S,02409.000E,799.0m,2,130,500.0m,,
 "Dragon Rock","DRG",ZA,3204.150S,01852.917E,542.0m,7,,,,
 "Drie Koppe","DRI",ZA,3249.583S,01911.033E,1781.0m,7,,,,
-"Droeesel","DRO",ZA,3106.817S,01856.733E,828.0m,1,,,,
-"Droekuil","DRK",ZA,3114.300S,01856.983E,874.0m,1,,,,
 "Drosterberg","DTB",ZA,3345.439S,01903.409E,1035.0m,7,,,,
 "Drostersgat","DRS",ZA,3256.817S,01910.500E,631.0m,1,,,,
 "Du Toits Peak","DTT",ZA,3345.250S,01911.333E,770.0m,7,,,,
@@ -128,7 +125,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "ERDAS","ERD",ZA,3324.833S,01911.217E,4500.0m,9,,,,
 "Eselskop","ESL",ZA,3059.083S,01903.167E,646.0m,1,,,,
 "Fisantekraal","FSN",ZA,3346.300S,01844.417E,126.0m,5,320,1200.0m,"131.100","14/32 1200m x 80m23/05 100m x 80mLeft hand circuits"
-"Fischers X","FSC",ZA,3341.867S,01941.783E,374.0m,1,,,,"Do NOT land!  Poles in runway."
+"Fischers X","FSC",ZA,3341.867S,01941.783E,374.0m,1,,,,"Do NOT land!  Poles in old runway."
 "Fonteintjiesberg","FON",ZA,3331.424S,01923.929E,1989.0m,7,,,,
 "Franschhoek Pass #","FRA",ZA,3354.422S,01909.415E,740.0m,6,,,,"Paragliding launch site 400m N."
 "Fraserburg","FRS",ZA,3156.000S,02130.000E,1275.0m,2,340,1600.0m,,"FAFR340 1600mx38m300 900mx 38m030 1000m x 38m"
@@ -164,7 +161,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Grootberg Middelneus","GRM",ZA,3241.950S,01907.150E,1357.0m,7,,,,
 "Grootbos","GRT",ZA,3432.050S,01925.017E,267.0m,2,230,950.0m,,"27m x 950m"
 "Grootfontein","GRN",ZA,3346.117S,01842.167E,120.0m,5,0,0.0m,,
-"Grootkloof","GKL",ZA,3218.617S,01900.917E,416.0m,1,,,,
 "Gydoberg","GYD",ZA,3312.751S,01921.749E,1738.0m,7,,,,
 "Gydopass #","GY1",ZA,3313.347S,01919.415E,1020.0m,6,,,,"Paragliding launch site 1km S."
 "Gysmanshoekpas","GYS",ZA,3356.350S,02103.100E,621.0m,6,,,,
@@ -229,7 +225,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "KODES","KOD",ZA,3308.667S,01845.333E,0.0m,9,,,,
 "Koebee Pass","KBP",ZA,3136.650S,01859.550E,604.0m,6,,,,
 "Koedoeskop","KUD",ZA,3319.712S,01914.202E,1507.0m,7,,,,
-"Koerasie Berg","KRS",ZA,3227.517S,01907.817E,1631.0m,7,,,,
+"Koerasieberg","KRS",ZA,3227.223S,01907.534E,1631.0m,7,,,,
 "Kogelberg","KGL",ZA,3414.117S,01853.817E,1269.0m,7,,,,
 "Kogmanskloof","KGM",ZA,3349.250S,02005.500E,316.0m,6,,,,
 "KombersW","KMB",ZA,3239.800S,02052.333E,1612.0m,1,,,,
@@ -295,7 +291,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Nieu Bethesda","NBT",ZA,3151.967S,02429.233E,1398.0m,5,0,0.0m,,
 "Nieuwoud Tower","NTR",ZA,3121.217S,01859.033E,857.0m,7,,,,
 "Nieuwoudtville","NWD",ZA,3122.683S,01906.400E,721.0m,1,,,,
-"NiewoudtsPass","NWP",ZA,3220.833S,01900.917E,596.0m,6,,,,
+"NiewoudtsPass","NWP",ZA,3220.851S,01900.764E,585.0m,6,,,,
 "Noukrans","NKR",ZA,3356.947S,02053.299E,1433.0m,7,,,,
 "Nuwejaarsrivier","NWJ",ZA,3417.300S,01909.258E,65.0m,2,230,400.0m,,
 "Nuwekloof","NWK",ZA,3319.183S,01904.933E,223.0m,6,,,,
@@ -383,17 +379,17 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Sir Lowry's Pass #","SIR",ZA,3408.944S,01855.702E,450.0m,6,,,,"Paragliding launch site 100m NW"
 "Skerpheuwel","SKE",ZA,3235.017S,01854.767E,877.0m,7,,,,
 "Skerpioensberg","SKR",ZA,3218.817S,01907.033E,1626.0m,7,,,,
-"Skeurkrans","SKK",ZA,3221.067S,01900.800E,1179.0m,7,,,,
 "Skilpadkop","SKL",ZA,3402.800S,01945.267E,1500.0m,7,,,,
 "Skoorsteen","SKO",ZA,3237.400S,01954.750E,470.0m,2,360,950.0m,,"36/18 25m x 950 m 10/28 20m x 1100m"
 "Slab Peak","SLA",ZA,3323.036S,01915.818E,1392.0m,7,,,,
 "Slanghoek","SLH",ZA,3340.667S,01910.950E,1522.0m,7,,,,
 "Slanghoek Ridge","SRP",ZA,3338.299S,01909.996E,1540.0m,7,,,,
+"Smalberg","SML",ZA,3226.237S,01905.368E,1631.0m,7,,,,
 "Sneeuberg","SNB",ZA,3230.450S,01909.200E,2027.0m,7,,,,
 "Sneeugat","SNG",ZA,3307.882S,01909.919E,1250.0m,6,,,,"Bottom of the bowl."
 "Sneeugat Pass (24Rivers)","SGP",ZA,3308.318S,01909.888E,1350.0m,6,,,,"Entrance to Sneeugat."
 "Sneeugat Peak","SNE",ZA,3308.176S,01911.153E,1884.0m,7,,,,
-"Sneeukop","SNK",ZA,3221.500S,01909.933E,1930.0m,7,,,,
+"Sneeukop","SNK",ZA,3221.264S,01909.637E,1930.0m,7,,,,"Cederberg"
 "Soetendal","SOE",ZA,3332.583S,01900.150E,1400.0m,5,0,0.0m,,"10M ????"
 "Soldaatkop","SOL",ZA,3233.598S,01856.200E,991.0m,7,,,,
 "Sonkliprug","SON",ZA,3320.483S,01942.117E,1719.0m,7,,,,
@@ -412,7 +408,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Swartgat","SWA",ZA,3308.490S,01911.282E,1868.0m,7,,,,
 "Swell Corner","SWE",ZA,3357.700S,02018.767E,0.0m,1,,,,"Reporting Point"
 "Swellendam AF","SWL",ZA,3403.000S,02029.000E,124.0m,5,150,980.0m,"124.800","FASX"
-"Tafelberg","TFL",ZA,3256.800S,01920.967E,1910.0m,7,,,,
+"Tafelberg Bokkeveld","TFB",ZA,3256.679S,01920.879E,1910.0m,7,,,,
+"Tafelberg Cederberg","TFC",ZA,3224.719S,01912.298E,1969.0m,7,,,,
 "Tankwa East","TAN",ZA,3220.083S,01945.183E,317.0m,2,20,1000.0m,,"02/20 x 1000m"
 "Tankwa Tent","TNT",ZA,3220.233S,01942.833E,310.0m,2,330,250.0m,,"15/33 8m x 250m (probably accommodate bigger)"
 "Tankwa West","TNK",ZA,3220.183S,01944.850E,313.0m,2,20,550.0m,,"02/20 20m x 550m"
@@ -455,7 +452,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Vanrhynspas","BRP",ZA,3122.333S,01900.967E,1.0m,6,,,,
 "Velskoenneskop","VLS",ZA,3246.533S,01907.417E,1283.0m,7,,,,
 "Vensterbank","VEN",ZA,3343.424S,01953.869E,1627.0m,7,,,,
-"Vensterberg","VNS",ZA,3223.100S,01902.850E,1.0m,7,,,,
+"Vensterberg","VNS",ZA,3223.391S,01903.177E,1427.0m,7,,,,
 "Vergenoegd","VRG",ZA,3334.417S,01921.083E,999.0m,1,,,,
 "Victoria","VIC",ZA,3400.740S,01902.131E,1591.0m,7,,,,
 "Victoria West","VCT",ZA,3124.000S,02309.000E,1257.0m,5,180,1750.0m,"124.810","FAVW"
@@ -471,7 +468,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Waboomsberg #","WBM",ZA,3315.188S,01927.566E,1849.0m,7,,,,"Paragliding launch site nearby"
 "Waboomsrivier","WAB",ZA,3330.800S,01913.367E,276.0m,2,340,680.0m,"124.800","only 15m 19m x 680m"
 "Warmbadberg","WRM",ZA,3244.211S,01901.207E,1016.0m,7,,,,
-"Wegwaai","WGW",ZA,3226.233S,01905.500E,1631.0m,7,,,,
+"Warmhoekkop","WAR",ZA,3217.899S,01902.653E,1131.0m,7,,,,
 "Wellington Golf Course","WGC",ZA,3338.633S,01859.317E,96.0m,3,360,250.0m,,"18/36 250m - golf course - emergency"
 "WemmershoekPiek","WMM",ZA,3350.817S,01911.300E,1753.0m,7,,,,
 "Weyers","WYR",ZA,3357.583S,02131.583E,737.0m,1,,,,
@@ -483,8 +480,9 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Witkrans","WTK",ZA,3353.050S,02204.833E,687.0m,1,,,,
 "Witte River","WTR",ZA,3340.017S,01907.417E,811.0m,1,,,,
 "Witteberg","WTT",ZA,3342.126S,01908.927E,1736.0m,7,,,,
-"Wolfberg","WLF",ZA,3219.200S,01900.300E,839.0m,7,,,,
-"Wolvepunt","WLV",ZA,3106.817S,01856.733E,782.0m,1,,,,
+"Wolfberg","WLF",ZA,3219.548S,01900.498E,839.0m,7,,,,
+"Wolfberg Arch","WBA",ZA,3226.612S,01915.220E,1550.0m,1,,,,
+"Wolvepunt","WLV",ZA,3106.832S,01856.878E,820.0m,7,,,,
 "Woodman","WDM",ZA,3359.717S,02408.617E,236.0m,1,,,,
 "Worcester","WOR",ZA,3339.900S,01925.117E,199.0m,5,150,1440.0m,"124.800","FAWC"
 "XALVA","XAL",ZA,3233.467S,01934.000E,4500.0m,9,,,,
