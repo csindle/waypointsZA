@@ -64,11 +64,6 @@ In a WP **name** field, the following suffixes are defined:
 
 Multiple suffixes can be combined (space separated): e.g. "Buffelsport 911 U"
 
-
----
-### Resources
-1. [CUP file specification](https://downloads.naviter.com/docs/CUP-file-format-description.pdf)
-
 ---
 ![XCSoar screenshot](img/XCSoar.jpg "XCSoar screenshot")
 

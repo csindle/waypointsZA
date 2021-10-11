@@ -77,3 +77,7 @@ as a CSV file (and rename to something sane like `ZA_Cape.cup.csv`).
 2. Import the KML file as a new layer on the 
     [Google Map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing) layer.
 3. Rename, and delete the old layer.
+
+---
+### Resources
+1. [CUP file specification](https://downloads.naviter.com/docs/CUP-file-format-description.pdf)
