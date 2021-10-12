@@ -15,7 +15,8 @@ unique locations, and normalised descriptions.
 2. Version controlled, with full history (who did what, when, and why).
 3. Open source, open data, including all history and versions.
 4. Anybody can contribute (and anybody can fork).
-5. Automatically incorporated into XCSoar, Oudie, etc.
+5. Automatically incorporated into glide computers that support downloading (e.g. 
+[XCSoar](https://github.com/XCSoar/xcsoar-data-content/tree/master/waypoints-special))
 
 ---
 ### :south_africa: To Fly with the waypoints :south_africa:
