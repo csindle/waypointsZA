@@ -20,7 +20,7 @@ jobs:
     - name: "Create the release artefacts"
       run: |
         ./script/release.bash
-        ls -larth v${{ env.TAG }}
+        ls -larth ${{ env.TAG }}
 
     - name: "Update Gist: CSV"
       uses: exuanbo/actions-deploy-gist@v1
