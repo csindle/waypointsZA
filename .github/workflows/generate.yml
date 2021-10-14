@@ -4,27 +4,23 @@ on: [push, workflow_dispatch]
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
-    env:
-      OUT_PATH: "output"
-
     steps:
     - uses: actions/checkout@v2
 
-    - name: Install dependencies
+    - name: "Install dependencies"
       run: |
         sudo apt install gpsbabel
         python -m pip install --upgrade pip
         pip install -U pylint
         pip install -U aerofiles
-        echo "DATE=$(date +\%Y\%m\%d)" >> $GITHUB_ENV
+        echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
+        echo "TAG=v${{ env.DATE }}"   >> $GITHUB_ENV
 
     - name: "Create the release artefacts"
       run: |
-        ./release.bash ${{ env.OUT_PATH }}
-        ls -larth ${{ env.OUT_PATH }}
+        ./script/release.bash
+        ls -larth v${{ env.TAG }}
 
     - name: "Update Gist: CSV"
       uses: exuanbo/actions-deploy-gist@v1
@@ -32,7 +28,7 @@ jobs:
         token: ${{ secrets.GIST_TOKEN }}
         gist_id: 86d782cc0405dd54a80eecc3838ffe83
         gist_file_name: ZA_Cape_UNRELEASED.cup.csv
-        file_path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ env.DATE }}.cup.csv
+        file_path: ./${{ env.TAG}}/ZA_Cape_${{ env.DATE }}.cup.csv
 
     - name: "Update Gist: GeoJSON"
       uses: exuanbo/actions-deploy-gist@v1
@@ -40,10 +36,10 @@ jobs:
         token: ${{ secrets.GIST_TOKEN }}
         gist_id: 736c3658c29ba2a29abffdc2917e1839
         gist_file_name: ZA_Cape_UNRELEASED.geojson
-        file_path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ env.DATE }}.geojson
+        file_path: ./${{ env.TAG }}/ZA_Cape_${{ env.DATE }}.geojson
 
     - uses: actions/upload-artifact@v2
       with:
         name: "Releasable waypoint CUP file"
-        path: ./${{ env.OUT_PATH }}/ZA_Cape_${{ env.DATE }}.cup
+        path: ./${{ env.TAG }}/ZA_Cape_${{ env.DATE }}.cup
         if-no-files-found: error  # 'warn' or 'ignore' are also available, defaults to `warn`
