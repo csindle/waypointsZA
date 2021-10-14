@@ -15,7 +15,7 @@ jobs:
         pip install -U pylint
         pip install -U aerofiles
         echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
-        echo "TAG=v${{ env.DATE }}"   >> $GITHUB_ENV
+        echo "TAG=v$(date +%Y-%m-%d)"   >> $GITHUB_ENV
 
     - name: "Create the release artefacts"
       run: |
