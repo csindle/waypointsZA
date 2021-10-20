@@ -1,8 +1,8 @@
-Waypoints (WP) for glider pilots flying in the Cape, South Africa.
+### Waypoints for glider pilots flying in the Cape, South Africa.
 
 A note on naming:
 *Although pilots usually talk of* "turnpoints", *this project uses the more general term*
-"waypoints" *to explicitly include Starting Points, Finishing Points, Reporting Points, 
+"waypoints" (**WP**) *to explicitly include Starting Points, Finishing Points, Reporting Points, 
 Airfields, etc. and the actual Turn Points. This is defined in Sporting Code for Gliding (SC3).*
 
 ![ZA_Cape waypoints](img/ZA.jpg "ZA_Cape waypoints")
@@ -28,17 +28,16 @@ To use the WP file on your glide computer (that supports CUP files):
 3. Fly.
 
 ### To View the WPs
-1. [WaypointsZA](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956) spreadsheet. 
-*Please help us resolve the 🔺red🔺 CGC comments therein.*
-2. Live, generated [GeoJSON map](https://gist.github.com/csindle/736c3658c29ba2a29abffdc2917e1839).
-3. Live, generated [searchable](https://gist.github.com/csindle/86d782cc0405dd54a80eecc3838ffe83) CSV file.
-4. Generated [Google map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing) 
-of latest *release*.
+1. [WaypointsZA](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956) master spreadsheet. 
+*(Please help us resolve the 🔺red🔺 CGC comments therein.)*
+2. Generated, current HEAD [GeoJSON map](https://gist.github.com/csindle/736c3658c29ba2a29abffdc2917e1839).
+3. Generated, current HEAD [searchable](https://gist.github.com/csindle/86d782cc0405dd54a80eecc3838ffe83) CSV file.
+4. Generated, released [Google map](https://www.google.com/maps/d/u/0/edit?mid=1OdQ9Jp9IcUgXAMa7qQpaBRQReOhAuitc&usp=sharing).
 
 ### To Contribute and Maintain the WPs
 *We explicitly welcome contributions, comments, requests, and suggestions.*
 
-Please see [`CONTRIBUTING`](CONTRIBUTING.md) for the details.
+Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for the details.
 
 ---
 ### Precedents
