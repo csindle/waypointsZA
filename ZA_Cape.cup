@@ -6,6 +6,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Aberdeen","ABR",ZA,3227.983S,02403.833E,751.0m,2,150,720.0m,,"FAAE, 751M 25X100M Cross Runways"
 "Adamsfontein","ADM",ZA,3034.817S,02515.967E,1210.0m,5,,,,
 "Albertspark","ALB",ZA,3326.867S,02334.900E,1060.0m,1,,,,
+"Alfiesdrif","ALF",ZA,3346.007S,01932.635E,190.0m,14,,,,"River bridge"
 "Alkant","ALK",ZA,2954.383S,02218.967E,1099.0m,2,300,1600.0m,,"30/12 1600m x 55m"
 "Altona","ALT",ZA,3342.467S,01838.783E,81.0m,5,240,650.0m,,"15m wide (probably take 25m)"
 "Altona Annex","ALA",ZA,3342.950S,01840.617E,88.0m,3,310,670.0m,,"670 x 10m (probably take 25)"
@@ -21,6 +22,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Assegaaybosch","ASG",ZA,3345.617S,02132.833E,189.0m,2,280,1500.0m,,"280 35m x 1500m"
 "Attakwas","ATT",ZA,3352.283S,02157.283E,1175.0m,7,,,,
 "Audenberg","AUD",ZA,3333.225S,01927.651E,1706.0m,7,,,,
+"Audenberg Ridge","ARP",ZA,3334.147S,01928.063E,1315.0m,7,,,,"Peaks"
 "Babilonstoren","BBL",ZA,3417.183S,01920.250E,209.0m,2,270,650.0m,,"15m x 650 m probably good for 25m"
 "Badsberg","BDS",ZA,3338.950S,01914.817E,975.0m,7,,,,
 "Bailey's","BLY",ZA,3330.533S,01906.700E,1256.0m,7,,,,
@@ -84,10 +86,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Cockscomb U","CCK",ZA,3337.750S,02451.083E,708.0m,5,0,0.0m,,"Unsure if landable"
 "Coetzeeskraal","CTZ",ZA,3200.253S,02401.250E,1430.0m,2,0,0.0m,,
 "Contermanskloof","CON",ZA,3348.000S,01835.000E,119.0m,2,180,500.0m,,
-"Control East1","CE1",ZA,3341.567S,01927.800E,201.8m,1,,,,
-"Control East2","CE2",ZA,3345.550S,01932.267E,189.0m,1,,,,
-"Control West1","CW1",ZA,3338.250S,01922.867E,222.5m,1,,,,
-"Control West2","CW2",ZA,3334.967S,01917.283E,238.0m,1,,,,
 "Crown","CRO",ZA,3330.776S,01926.827E,1322.0m,7,,,,
 "Dankbaar","DNK",ZA,3358.867S,02116.667E,880.0m,1,,,,
 "Darldam","DRL",ZA,3310.000S,02512.000E,1499.0m,5,0,0.0m,,
@@ -97,7 +95,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "De Aar","DAR",ZA,3042.000S,02402.000E,1270.0m,5,0,0.0m,,
 "De Aar Military","DAM",ZA,3038.000S,02355.000E,1249.0m,1,,,,"Military"
 "De Doorns","DDR",ZA,3327.367S,01941.017E,491.0m,5,40,600.0m,,"15MX600M 60/240"
-"De Wet","DWT",ZA,3336.250S,01930.500E,295.0m,1,,,,
+"De Wet","DWT",ZA,3336.028S,01930.568E,295.0m,14,,,,"N1 bridge over Hex River"
 "Delta 200","DLT",ZA,3338.971S,01828.331E,65.0m,5,360,770.0m,"124.400","770m x 15m"
 "Devil's Tooth","DVL",ZA,3354.856S,01859.361E,767.0m,7,,,,
 "Dewetsberg","DWS",ZA,3344.686S,01928.340E,489.0m,7,,,,
@@ -202,7 +200,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Katbak #","PGA",ZA,3254.000S,01933.000E,200.0m,1,,,,"Paragliding launch site"
 "Katkop","KTK",ZA,3147.850S,01853.883E,540.0m,7,,,,
 "Keerom","KEE",ZA,3336.217S,01935.067E,623.0m,1,,,,"Reporting Point"
-"Keeromberg","KOB",ZA,3333.708S,01936.150E,2072.0m,7,,,,
+"Keeromsberg","KOB",ZA,3333.708S,01936.150E,2072.0m,7,,,,
 "Keurkloof","KEU",ZA,3310.400S,02028.850E,888.0m,5,280,720.0m,,"720mX14 - should be good for 18m glider"
 "Klawer","KLW",ZA,3143.533S,01841.100E,565.0m,1,,,,
 "Klawer Mast","KLM",ZA,3145.283S,01841.350E,803.0m,8,,,,"Danger - unmarked powerlines"
@@ -259,7 +257,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Matsikammaberg","MTK",ZA,3141.350S,01847.883E,1011.0m,7,,,,
 "McGregor","MCG",ZA,3357.167S,01949.333E,247.0m,1,,,,
 "Meeuklip","MKL",ZA,3358.950S,02028.617E,999.0m,1,,,,
-"Meiring's Ridge","MRP",ZA,3332.354S,01926.435E,1537.0m,7,,,,
+"Meiring's Ridge","MRP",ZA,3332.354S,01926.435E,1537.0m,7,,,,"Peaks"
 "Meiringspoort","MEI",ZA,3325.483S,02232.933E,662.0m,6,,,,
 "Merriman","MER",ZA,3112.900S,02336.700E,1278.0m,1,,,,
 "Meulsteenkop","MLS",ZA,3238.800S,01906.317E,1224.0m,7,,,,
@@ -283,10 +281,11 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Moutons Berg","MTN",ZA,3132.317S,01858.767E,982.0m,7,,,,
 "Mowers","MWR",ZA,3344.000S,01939.100E,368.0m,1,,,,
 "N1 Ultra City","N1U",ZA,3338.078S,01921.617E,210.0m,14,,,,"Shell Ultra City Worcester & Breede Valley underpass."
-"N1@Hex","N1H",ZA,3334.648S,01930.533E,320.0m,17,,,,"Reporting Point"
+"N1@Hex","N1H",ZA,3334.287S,01930.496E,320.0m,12,,,,"Reporting Point. Reservoir."
 "Nachtwacht","NCH",ZA,3432.900S,02005.083E,25.0m,5,290,910.0m,,"290 910mx21m, 240 820mx21m"
 "Nadine","NDN",ZA,3327.667S,01951.433E,1028.0m,2,110,800.0m,,
 "Naudesberg","NDS",ZA,3338.979S,01944.472E,1644.0m,7,,,,
+"Nekkies","NEK",ZA,3341.151S,01925.220E,200.0m,17,,,,
 "New Tempe","NWT",ZA,2902.333S,02609.500E,1381.0m,5,10,1290.0m,"124.810","FATP"
 "Nieu Bethesda","NBT",ZA,3151.967S,02429.233E,1398.0m,5,0,0.0m,,
 "Nieuwoud Tower","NTR",ZA,3121.217S,01859.033E,857.0m,7,,,,
@@ -296,7 +295,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Nuwejaarsrivier","NWJ",ZA,3417.300S,01909.258E,65.0m,2,230,400.0m,,
 "Nuwekloof","NWK",ZA,3319.183S,01904.933E,223.0m,6,,,,
 "Nuweveld","NWV",ZA,3211.167S,02155.633E,1187.0m,1,,,,
-"Nuy","NUY",ZA,3338.500S,01937.833E,347.0m,1,,,,
+"Nuy","NUY",ZA,3338.897S,01938.324E,320.0m,14,,,,"River bridge."
 "OKTED","OKT",ZA,3413.200S,01933.500E,0.0m,9,,,,
 "Olifantsberg Brandwag","OLI",ZA,3335.904S,01922.823E,632.0m,7,,,,
 "Olifantskop","OFK",ZA,3343.900S,01958.024E,1402.0m,7,,,,
@@ -344,7 +343,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Riversdale","RVR",ZA,3406.700S,02115.500E,198.0m,5,140,960.0m,,"FARD"
 "Robertson","RBR",ZA,3348.683S,01954.400E,197.0m,5,100,1500.0m,,"FARS"
 "Robinson Pass","RBN",ZA,3353.000S,02201.233E,700.0m,6,,,,
-"RobSpur","ROB",ZA,3344.334S,01950.496E,870.0m,6,,,,"Reporting Point"
+"RobSpur","ROB",ZA,3343.298S,01951.791E,1562.0m,7,,,,"Reporting Point"
 "Roelofsberg","RLF",ZA,3246.467S,01911.033E,1708.0m,7,,,,
 "Roodezandsberg","RSB",ZA,3312.725S,01904.483E,1500.0m,7,,,,
 "RooElsPass","RLP",ZA,3417.576S,01849.594E,218.0m,6,,,,
