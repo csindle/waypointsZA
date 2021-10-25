@@ -70,6 +70,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Camel","CAM",ZA,3330.835S,01918.627E,1778.0m,7,,,,
 "Cape St Francis","CPS",ZA,3411.167S,02449.533E,39.0m,2,100,700.0m,,"FACF"
 "Cape Town VOR","CPT",ZA,3358.167S,01836.300E,46.0m,9,,,,"Vor/Dme"
+"Cape Winelands","CPW",ZA,3346.300S,01844.417E,126.0m,5,320,1200.0m,"131.100","FAWN. Old Fisantekraal. 14/32 1200m x 80m23/05 100m x 80m. Left hand circuits."
 "Carnarvon","CRN",ZA,3059.383S,02207.900E,1268.0m,5,160,1290.0m,"124.810","FACN"
 "Castle Rocks","CAS",ZA,3324.595S,01918.466E,1182.0m,7,,,,
 "Ceres","CER",ZA,3322.000S,01918.750E,479.0m,1,,,,
@@ -99,6 +100,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "De Wet","DWT",ZA,3336.250S,01930.500E,295.0m,1,,,,
 "Delta 200","DLT",ZA,3338.971S,01828.331E,65.0m,5,360,770.0m,"124.400","770m x 15m"
 "Devil's Tooth","DVL",ZA,3354.856S,01859.361E,767.0m,7,,,,
+"Dewetsberg","DWS",ZA,3344.686S,01928.340E,489.0m,7,,,,
 "Die Hoek","DHA",ZA,3236.433S,01911.083E,1176.0m,2,350,900.0m,,"21x900m"
 "Die Kruile","KRU",ZA,3401.967S,01904.433E,884.0m,7,,,,
 "Die Poort","DPR",ZA,3325.367S,02137.133E,1076.0m,1,,,,
@@ -122,7 +124,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Enjo","ENJ",ZA,3208.256S,01918.168E,290.0m,2,270,700.0m,"129.100","Nature Farm 18mx700m"
 "ERDAS","ERD",ZA,3324.833S,01911.217E,4500.0m,9,,,,
 "Eselskop","ESL",ZA,3059.083S,01903.167E,646.0m,1,,,,
-"Fisantekraal","FSN",ZA,3346.300S,01844.417E,126.0m,5,320,1200.0m,"131.100","14/32 1200m x 80m23/05 100m x 80mLeft hand circuits"
 "Fischers X","FSC",ZA,3341.867S,01941.783E,374.0m,1,,,,"Do NOT land!  Poles in old runway."
 "Fonteintjiesberg","FON",ZA,3331.424S,01923.929E,1989.0m,7,,,,
 "Franschhoek Pass #","FRA",ZA,3354.422S,01909.415E,740.0m,6,,,,"Paragliding launch site 400m N."
@@ -281,6 +282,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Mount Superior","SUP",ZA,3330.991S,01920.679E,1913.0m,7,,,,
 "Moutons Berg","MTN",ZA,3132.317S,01858.767E,982.0m,7,,,,
 "Mowers","MWR",ZA,3344.000S,01939.100E,368.0m,1,,,,
+"N1 Ultra City","N1U",ZA,3338.078S,01921.617E,210.0m,14,,,,"Shell Ultra City Worcester & Breede Valley underpass."
 "N1@Hex","N1H",ZA,3334.648S,01930.533E,320.0m,17,,,,"Reporting Point"
 "Nachtwacht","NCH",ZA,3432.900S,02005.083E,25.0m,5,290,910.0m,,"290 910mx21m, 240 820mx21m"
 "Nadine","NDN",ZA,3327.667S,01951.433E,1028.0m,2,110,800.0m,,
@@ -395,7 +397,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Stanley Island","STN",ZA,3400.583S,02323.950E,3.0m,5,0,0.0m,,"30M 3M 30M X 900M"
 "Steenbras","STE",ZA,3412.094S,01850.808E,771.0m,7,,,,
 "Stellenbosch","STL",ZA,3358.867S,01848.333E,99.0m,5,10,840.0m,"119.300","FASH"
-"Stettyn Strip","STT",ZA,3354.008S,01921.855E,272.0m,2,230,900.0m,,"Drops 30m to the road (NE)Land only SW?"
+"Stettyn Strip","STT",ZA,3354.008S,01921.855E,272.0m,2,230,900.0m,,"Drops 30m to the road (NE)Land only SW"
 "Stettyns","STP",ZA,3351.829S,01917.692E,1820.0m,7,,,,
 "Stoffel se Kop","STF",ZA,3328.085S,01916.048E,1626.0m,7,,,,"Reporting Point"
 "Stonehaven","STO",ZA,3357.850S,02042.733E,634.0m,1,,,,
