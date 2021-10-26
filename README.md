@@ -52,6 +52,25 @@ Arizona gliding community WP documentation (who also use the modern git version 
 1. [Map](https://www.google.com/maps/d/u/0/edit?mid=1kHawbgbNa_hPMl5rvOVMP27UdMX1PvQ_&ll=32.39213804431958%2C-111.49211784793266&z=11)
 1. [Waypoint repository](https://github.com/DavisChappins/AZTurnpoints).
 
+---
+### Out-landings
+*(Up for debate: please make your voice heard!)*
+
+We are attempting to keep a list of out-landing (OL) fields in
+[`ZA_Cape_Outlandings.cup`](ZA_Cape_Outlandings.cup).
+
+Rules for inclusion:
+
+1. **Special:**  I.e. we are not going to include every successful out-landing in the vast fields of Porterville.
+2. **Useful:** A permanent field reachable from Robertson Spur is very useful. Or ones along any popular route. 
+3. **Surveyed:** By in-person inspection, previous out-landing, cross-country training, etc.
+
+It is a separate file containing only *landables* (style: "3 Outlanding"), with a low hurdle for accepting 
+contributions. 
+
+Please contribute, so that we can improve safety and help introduce new pilots to cross-country flying.
+
+(TODO: Naming convention for out-landing WPs.)
 
 ---
 ### Definitions
@@ -62,6 +81,8 @@ In a WP **name** field, the following suffixes are defined:
 1. **#** (hash): Air Activity, caution.  E.g. Para-gliding launch site (source BGA).
 2. **911**: Emergency only. Landing area may be too narrow or otherwise unsuitable (source Arizona).
 3. **U**: Unsurveyed.  A ground inspection has not been done; data from satellite only (source Arizona).
+4. **X**: Emphasize that a non-landable (e.g. waypoint, bridge, etc.) is indeed, not landable, even if it looks like
+an airstrip from the air. 
 
 Multiple suffixes can be combined (space separated): e.g. "Buffelsport 911 U"
 
