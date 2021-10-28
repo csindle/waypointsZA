@@ -100,6 +100,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Devil's Tooth","DVL",ZA,3354.856S,01859.361E,767.0m,7,,,,
 "Dewetsberg","DWS",ZA,3344.686S,01928.340E,489.0m,7,,,,
 "Die Hoek","DHA",ZA,3236.433S,01911.083E,1176.0m,2,350,900.0m,,"21x900m"
+"Die Koppe","DKP",ZA,3336.461S,01927.596E,526.0m,7,,,,"Racetrack TP"
 "Die Kruile","KRU",ZA,3401.967S,01904.433E,884.0m,7,,,,
 "Die Poort","DPR",ZA,3325.367S,02137.133E,1076.0m,1,,,,
 "Diemerskraal","DMR",ZA,3334.500S,01855.033E,83.0m,2,200,850.0m,,"02/20 18 x 850m good for longer wingspan"
@@ -142,6 +143,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Gifkop Airstrip","GFK",ZA,3241.650S,02025.700E,660.0m,2,340,820.0m,,"340 820m x 21m - 240 720m x 21m"
 "Goedverwacht","GDV",ZA,3346.383S,01841.483E,137.0m,2,350,600.0m,,
 "Goodluck","GDL",ZA,3301.583S,02457.367E,311.0m,5,0,0.0m,,"311M 15X900M"
+"Goudini Rail","GOU",ZA,3336.519S,01919.123E,250.0m,14,,,,"Racetrack TP. Jan du Toits River railway bridge."
 "Goudini Sneeukop","GDN",ZA,3348.217S,01915.100E,1697.0m,7,,,,
 "Gouritzriver","POO",ZA,3358.783S,02139.167E,61.0m,3,0,0.0m,,
 "Graaf-Reinet","GRA",ZA,3211.683S,02432.483E,792.0m,5,20,1500.0m,,"FAGR, 792M 25M X 1600M"
@@ -214,7 +216,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Kleinmond old AF","KMD",ZA,3419.750S,01903.417E,40.0m,3,280,780.0m,,"15m x 780m Old airstrip Emergency!!!"
 "Kleinpoortberg","KPP",ZA,3310.667S,01907.200E,1128.0m,7,,,,
 "Kleinrivier","KLR",ZA,3425.500S,01925.400E,15.0m,3,290,800.0m,,"caution landable fields nearby"
-"Klipbokskraal","KBL",ZA,3344.817S,02022.500E,741.0m,3,30,880.0m,,"width 20x880m rough crosses on the runway"
+"Klipbokskraal X","KBL",ZA,3344.817S,02022.500E,741.0m,3,30,880.0m,,"width 20x880m rough crosses on the runway"
 "Klipkop","KLP",ZA,3401.133S,02107.650E,592.0m,8,,,,
 "Klipkraal","KLK",ZA,3404.033S,01911.967E,286.0m,3,270,400.0m,,"18m x 400m"
 "Klipspringerkop","KLI",ZA,3355.859S,02016.817E,1123.0m,7,,,,
@@ -252,7 +254,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "MalmesburyStrip","MLM",ZA,3326.967S,01845.750E,126.0m,2,270,270.0m,,"09/27 20m x 270m"
 "Maltese Cross","MLT",ZA,3230.742S,01910.640E,1410.0m,1,,,,
 "Maraisberg","MAR",ZA,3228.906S,01904.639E,1256.0m,7,,,,
-"Matjiesfontein","MAT",ZA,3314.415S,02034.046E,930.0m,3,260,1000.0m,,"1000x23"
+"Matjiesfontein X","MAT",ZA,3314.415S,02034.046E,930.0m,3,260,1000.0m,,"1000x23"
 "Matroosberg","MTR",ZA,3323.190S,01940.101E,2249.0m,7,,,,
 "Matsikammaberg","MTK",ZA,3141.350S,01847.883E,1011.0m,7,,,,
 "McGregor","MCG",ZA,3357.167S,01949.333E,247.0m,1,,,,
@@ -336,7 +338,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "R356","R35",ZA,3239.783S,02022.950E,615.0m,3,0,0.0m,,"Cultivated fields. Possibly landable"
 "Rabiesberg","RAB",ZA,3336.575S,01939.061E,1663.0m,7,,,,
 "Ratelberg","RAT",ZA,3355.720S,01918.784E,1229.0m,7,,,,
-"Rawsonville","RWS",ZA,3341.100S,01918.750E,247.0m,1,,,,
+"Rawsonville","RWS",ZA,3341.427S,01918.922E,247.0m,14,,,,"Racetrack TP. Smallblaar River Bridge"
 "Reinhold","RNH",ZA,3352.767S,02344.617E,1276.0m,1,,,,
 "Remhoogte","RMH",ZA,3300.417S,01918.817E,954.0m,1,,,,
 "Renosterhoek","RNS",ZA,3230.617S,01848.917E,199.0m,1,,,,
@@ -392,6 +394,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Soldaatkop","SOL",ZA,3233.598S,01856.200E,991.0m,7,,,,
 "Sonkliprug","SON",ZA,3320.483S,01942.117E,1719.0m,7,,,,
 "Sparreboschhoogte","SPA",ZA,3359.135S,02031.343E,817.0m,7,,,,
+"Spilpunt","SPL",ZA,3341.727S,01932.101E,250.0m,3,,,,"Racetrack TP. SE Centre pivot."
 "Spitskop","SPT",ZA,3354.590S,02148.904E,977.0m,7,,,,
 "Stanley Island","STN",ZA,3400.583S,02323.950E,3.0m,5,0,0.0m,,"30M 3M 30M X 900M"
 "Steenbras","STE",ZA,3412.094S,01850.808E,771.0m,7,,,,
@@ -485,4 +488,4 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Woodman","WDM",ZA,3359.717S,02408.617E,236.0m,1,,,,
 "Worcester","WOR",ZA,3339.900S,01925.117E,199.0m,5,150,1440.0m,"124.800","FAWC"
 "XALVA","XAL",ZA,3233.467S,01934.000E,4500.0m,9,,,,
-"Zuurbraak","ZUU",ZA,3357.760S,02038.443E,1500.0m,7,,,,
+"Zuurbraak","ZRB",ZA,3357.760S,02038.443E,1500.0m,7,,,,
