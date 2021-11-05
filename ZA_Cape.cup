@@ -7,6 +7,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Adamsfontein","ADM",ZA,3034.817S,02515.967E,1210.0m,5,,,,
 "Albertspark","ALB",ZA,3326.867S,02334.900E,1060.0m,1,,,,
 "Alfiesdrif","ALF",ZA,3346.007S,01932.635E,190.0m,14,,,,"River bridge"
+"Aliens","ALN",ZA,3340.804S,01921.277E,200.0m,1,,,,
 "Alkant","ALK",ZA,2954.383S,02218.967E,1099.0m,2,300,1600.0m,,"30/12 1600m x 55m"
 "Altona","ALT",ZA,3342.467S,01838.783E,81.0m,5,240,650.0m,,"15m wide (probably take 25m)"
 "Altona Annex","ALA",ZA,3342.950S,01840.617E,88.0m,3,310,670.0m,,"670 x 10m (probably take 25)"
@@ -100,7 +101,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Devil's Tooth","DVL",ZA,3354.856S,01859.361E,767.0m,7,,,,
 "Dewetsberg","DWS",ZA,3344.686S,01928.340E,489.0m,7,,,,
 "Die Hoek","DHA",ZA,3236.433S,01911.083E,1176.0m,2,350,900.0m,,"21x900m"
-"Die Koppe","DKP",ZA,3336.461S,01927.596E,526.0m,7,,,,"Racetrack TP"
+"Die Koppe","DKP",ZA,3336.461S,01927.596E,526.0m,7,,,,
 "Die Kruile","KRU",ZA,3401.967S,01904.433E,884.0m,7,,,,
 "Die Poort","DPR",ZA,3325.367S,02137.133E,1076.0m,1,,,,
 "Diemerskraal","DMR",ZA,3334.500S,01855.033E,83.0m,2,200,850.0m,,"02/20 18 x 850m good for longer wingspan"
@@ -138,6 +139,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "George","CAW",ZA,3400.400S,02222.467E,199.0m,5,110,1990.0m,"118.900","FAGG"
 "George East","GGE",ZA,3354.250S,02232.550E,720.0m,1,,,,
 "George East1","GRG",ZA,3355.233S,02231.650E,266.0m,1,,,,
+"George Fire Strip","GFS",ZA,3356.968S,02229.195E,250.0m,5,340,1000.0m,,"Fire fighting base"
 "George TMA","GGT",ZA,3355.700S,02146.317E,452.0m,1,,,,
 "GETEN","GET",ZA,3403.433S,01936.183E,4500.0m,9,,,,
 "Gifkop Airstrip","GFK",ZA,3241.650S,02025.700E,660.0m,2,340,820.0m,,"340 820m x 21m - 240 720m x 21m"
@@ -217,6 +219,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Kleinpoortberg","KPP",ZA,3310.667S,01907.200E,1128.0m,7,,,,
 "Kleinrivier","KLR",ZA,3425.500S,01925.400E,15.0m,3,290,800.0m,,"caution landable fields nearby"
 "Klipbokskraal X","KBL",ZA,3344.817S,02022.500E,741.0m,3,30,880.0m,,"width 20x880m rough crosses on the runway"
+"Klipdale","KLD",ZA,3418.518S,01957.843E,180.0m,1,,,,"Silo"
 "Klipkop","KLP",ZA,3401.133S,02107.650E,592.0m,8,,,,
 "Klipkraal","KLK",ZA,3404.033S,01911.967E,286.0m,3,270,400.0m,,"18m x 400m"
 "Klipspringerkop","KLI",ZA,3355.859S,02016.817E,1123.0m,7,,,,
@@ -293,11 +296,13 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Nieuwoud Tower","NTR",ZA,3121.217S,01859.033E,857.0m,7,,,,
 "Nieuwoudtville","NWD",ZA,3122.683S,01906.400E,721.0m,1,,,,
 "Niewoudtspass","NWP",ZA,3220.851S,01900.764E,585.0m,6,,,,
+"Noordhoek Strip","NRD",ZA,3242.750S,01903.683E,238.0m,5,330,1000.0m,,"15/33 30mx1000m Jon1"
 "Noukrans","NKR",ZA,3356.947S,02053.299E,1433.0m,7,,,,
 "Nuwejaarsrivier","NWJ",ZA,3417.300S,01909.258E,65.0m,2,230,400.0m,,
 "Nuwekloof","NWK",ZA,3319.183S,01904.933E,223.0m,6,,,,
 "Nuweveld","NWV",ZA,3211.167S,02155.633E,1187.0m,1,,,,
 "Nuy","NUY",ZA,3338.897S,01938.324E,320.0m,14,,,,"River bridge."
+"Nuy River Bridge","NYR",ZA,3340.558S,01934.413E,NoneNone,14,,,,"Racetrack TP - Bridge over Nuy River R60"
 "OKTED","OKT",ZA,3413.200S,01933.500E,0.0m,9,,,,
 "Olifantsberg Brandwag","OLI",ZA,3335.904S,01922.823E,632.0m,7,,,,
 "Olifantskop","OFK",ZA,3343.900S,01958.024E,1402.0m,7,,,,
@@ -326,23 +331,27 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Platberg Pass","PLA",ZA,3312.084S,01905.436E,470.0m,6,,,,
 "Plett Strip","PLP",ZA,3401.783S,02317.450E,137.0m,2,290,990.0m,,"1000 x 30m"
 "Plettenberg Bay","PLT",ZA,3405.283S,02319.583E,21.0m,5,120,1230.0m,"124.800","FAPG, 1200 M 21M X 1200M"
+"Porseleinberg Strip","PRB",ZA,3327.467S,01855.633E,128.0m,5,350,850.0m,,"16M Landable Strip"
 "Porterville","PRT",ZA,3301.550S,01859.917E,190.0m,2,330,880.0m,"124.800","15/33 30m x 880m"
 "Potchefstroom","PTC",ZA,2640.000S,02704.900E,1368.0m,5,30,1500.0m,,
 "Pretoriuskrans","PRE",ZA,3230.649S,01849.650E,908.0m,7,,,,
 "Prieska","PSK",ZA,2941.033S,02246.250E,945.0m,2,330,1480.0m,,"33/15 1480m x 28m 30/12 790m x 23m"
 "Prince Albert","PRI",ZA,3311.367S,02201.117E,550.0m,2,350,1660.0m,,"FAPC, 548M 25X1000M Cross Runways 240 800mx24350 1660mx24"
 "Prins River Dam","PRN",ZA,3331.011S,02045.172E,566.0m,12,,,,
+"Protem","PRM",ZA,3416.102S,02004.680E,170.0m,1,,,,"Silo"
 "Quarry","QUA",ZA,3335.921S,01928.251E,420.0m,1,,,,
 "Quarrypoort","QRR",ZA,3325.017S,02318.833E,713.0m,1,,,,
 "Queen Victoria","QVP",ZA,3345.023S,01921.994E,1298.0m,7,,,,
 "R356","R35",ZA,3239.783S,02022.950E,615.0m,3,0,0.0m,,"Cultivated fields. Possibly landable"
 "Rabiesberg","RAB",ZA,3336.575S,01939.061E,1663.0m,7,,,,
 "Ratelberg","RAT",ZA,3355.720S,01918.784E,1229.0m,7,,,,
-"Rawsonville","RWS",ZA,3341.427S,01918.922E,247.0m,14,,,,"Racetrack TP. Smallblaar River Bridge"
+"Rawsonville","RWS",ZA,3341.427S,01918.922E,247.0m,14,,,,
 "Reinhold","RNH",ZA,3352.767S,02344.617E,1276.0m,1,,,,
 "Remhoogte","RMH",ZA,3300.417S,01918.817E,954.0m,1,,,,
 "Renosterhoek","RNS",ZA,3230.617S,01848.917E,199.0m,1,,,,
+"Reservoir","RSR",ZA,3336.189S,01926.308E,360.0m,1,,,,"Racetrack TP - Round Concrete Resrvoir North West of  Botanical Gardens"
 "Riversdale","RVR",ZA,3406.700S,02115.500E,198.0m,5,140,960.0m,,"FARD"
+"Riviersonderend","RVS",ZA,3408.942S,01954.727E,180.0m,1,,,,"N2 Middle of Town"
 "Robertson","RBR",ZA,3348.683S,01954.400E,197.0m,5,100,1500.0m,,"FARS"
 "Robinson Pass","RBN",ZA,3353.000S,02201.233E,700.0m,6,,,,
 "RobSpur","ROB",ZA,3343.298S,01951.791E,1562.0m,7,,,,"Reporting Point"
@@ -394,7 +403,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Soldaatkop","SOL",ZA,3233.598S,01856.200E,991.0m,7,,,,
 "Sonkliprug","SON",ZA,3320.483S,01942.117E,1719.0m,7,,,,
 "Sparreboschhoogte","SPA",ZA,3359.135S,02031.343E,817.0m,7,,,,
-"Spilpunt","SPL",ZA,3341.727S,01932.101E,250.0m,3,,,,"Racetrack TP. SE Centre pivot."
+"Spilpunt","SPL",ZA,3339.568S,01934.408E,250.0m,1,,,,
 "Spitskop","SPT",ZA,3354.590S,02148.904E,977.0m,7,,,,
 "Stanley Island","STN",ZA,3400.583S,02323.950E,3.0m,5,0,0.0m,,"30M 3M 30M X 900M"
 "Steenbras","STE",ZA,3412.094S,01850.808E,771.0m,7,,,,
@@ -428,6 +437,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Touwsberg","TWB",ZA,3333.583S,02057.667E,1462.0m,7,,,,
 "Tradouw","TRA",ZA,3356.388S,02042.432E,634.0m,6,,,,
 "Travellers Rest","TRV",ZA,3204.250S,01904.533E,326.0m,1,,,,
+"Tronk Tee","TRN",ZA,3341.151S,01922.265E,200.0m,17,,,,"Racetrack TP - Tee Junction Brandvlei Jail"
 "Tsitsikama","TST",ZA,3401.950S,02413.183E,206.0m,2,300,1000.0m,,"30/12 1000m x 20m"
 "Tulbagh","TUL",ZA,3318.333S,01908.333E,166.0m,2,160,400.0m,,
 "Tulbagh North","TLN",ZA,3313.033S,01909.433E,302.0m,5,0,0.0m,,
@@ -439,9 +449,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Uitkyk Pass","UKP",ZA,3224.383S,01906.433E,1016.0m,6,,,,
 "Uitkyk se Kop","UIT",ZA,3224.840S,01905.988E,1545.0m,7,,,,
 "Uitspan Farm","UTS",ZA,3329.783S,01857.850E,100.0m,5,360,460.0m,,"36/18 460m"
-"UNNAMED1","UN1",ZA,3242.750S,01903.683E,238.0m,2,330,1000.0m,,"15/33 30mx1000m Jon1"
 "UNNAMED2","UN2",ZA,3336.783S,01856.100E,126.0m,3,0,0.0m,,
-"UNNAMED3","UN3",ZA,3327.467S,01855.633E,128.0m,5,0,0.0m,,"16M Landable Strip"
 "UNNAMED4 911","UN4",ZA,3237.850S,02123.150E,728.0m,3,0,0.0m,,"01/19 570m; 15/33 400m;16/34 550mThe middle one the best - poles in the N and the S?"
 "UNNAMED5 U","UN5",ZA,3247.150S,01900.050E,207.0m,3,90,670.0m,,"09/27 18X600M slope 10m down to the west Land 09. Cropdust1"
 "UNNAMED6","UN6",ZA,3301.633S,01857.050E,135.0m,3,290,830.0m,,"11/29 18m x 830m landable all. Cropdust2"
@@ -456,6 +464,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Vensterbank","VEN",ZA,3343.424S,01953.869E,1627.0m,7,,,,
 "Vensterberg","VNS",ZA,3223.391S,01903.177E,1427.0m,7,,,,
 "Vergenoegd","VRG",ZA,3334.417S,01921.083E,999.0m,1,,,,
+"Verkeerdevlei Dam","VRK",ZA,3319.778S,01952.334E,820.0m,12,,,,
 "Victoria","VIC",ZA,3400.740S,01902.131E,1591.0m,7,,,,
 "Victoria West","VCT",ZA,3124.000S,02309.000E,1257.0m,5,180,1750.0m,"124.810","FAVW"
 "Villiersdorp","VLL",ZA,3400.083S,01917.000E,347.0m,1,,,,
@@ -478,7 +487,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Winkelshoek","WNK",ZA,3246.483S,01847.833E,151.0m,3,30,480.0m,,"03/21 10m x 480m small strip"
 "Wintervogel","WNT",ZA,3337.767S,01840.750E,112.0m,2,350,970.0m,,"17/35 970 x 50 23/05 700x26m"
 "Witberg","WTB",ZA,3236.017S,01906.600E,1330.0m,7,,,,
-"Witberg Dam","WTD",ZA,3321.267S,01949.283E,820.0m,12,,,,
 "Witkrans","WTK",ZA,3353.050S,02204.833E,687.0m,1,,,,
 "Witte River","WTR",ZA,3340.017S,01907.417E,811.0m,1,,,,
 "Witteberg","WTT",ZA,3342.126S,01908.927E,1736.0m,7,,,,
