@@ -46,6 +46,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Blousteenberg","BST",ZA,3416.533S,01851.817E,890.0m,7,,,,
 "Boeken","BKN",ZA,3356.433S,01906.767E,324.0m,2,40,600.0m,,"04/22 18m x 600m"
 "Bokberg","BKB",ZA,3303.000S,01925.200E,1438.0m,7,,,,
+"Bonnievale","BNN",ZA,3356.220S,02006.153E,140.0m,1,,,,"Church"
 "Bonteheuwelberg","BNT",ZA,3144.167S,01856.650E,725.0m,7,,,,
 "Botany","BOT",ZA,3306.730S,01910.483E,1922.0m,7,,,,
 "Botany Pass","BTN",ZA,3306.800S,01910.052E,1630.0m,6,,,,
@@ -260,11 +261,12 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Matjiesfontein X","MAT",ZA,3314.415S,02034.046E,930.0m,3,260,1000.0m,,"1000x23"
 "Matroosberg","MTR",ZA,3323.190S,01940.101E,2249.0m,7,,,,
 "Matsikammaberg","MTK",ZA,3141.350S,01847.883E,1011.0m,7,,,,
-"McGregor","MCG",ZA,3357.167S,01949.333E,247.0m,1,,,,
+"McGregor","MCG",ZA,3356.948S,01949.650E,247.0m,1,,,,
 "Meeuklip","MKL",ZA,3358.950S,02028.617E,999.0m,1,,,,
 "Meiring's Ridge","MRP",ZA,3332.354S,01926.435E,1537.0m,7,,,,"Peaks"
 "Meiringspoort","MEI",ZA,3325.483S,02232.933E,662.0m,6,,,,
 "Merriman","MER",ZA,3112.900S,02336.700E,1278.0m,1,,,,
+"Merweville 911","MRW",ZA,3237.850S,02123.150E,728.0m,3,5,500.0m,,"01/19 570m; 15/33 400m;16/34 550mThe middle one the best - poles in the N and the S?"
 "Meulsteenkop","MLS",ZA,3238.800S,01906.317E,1224.0m,7,,,,
 "Middelberg","MDK",ZA,3239.767S,01910.250E,1565.0m,7,,,,
 "Middelberg Pass","MDP",ZA,3237.800S,01909.000E,1089.0m,6,,,,
@@ -424,7 +426,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Tankwa Tent","TNT",ZA,3220.233S,01942.833E,310.0m,2,330,250.0m,,"15/33 8m x 250m (probably accommodate bigger)"
 "Tankwa West","TNK",ZA,3220.183S,01944.850E,313.0m,2,20,550.0m,,"02/20 20m x 550m"
 "The Cossacks","COS",ZA,3335.854S,01910.152E,1439.0m,7,,,,
-"Theewaterskloof Dam Bridge","THW",ZA,3401.500S,01913.100E,347.0m,14,,,,
+"Theewaterskloof Dam Bridge","THW",ZA,3401.640S,01912.509E,347.0m,14,,,,
 "Tienuurkop","K10",ZA,3358.934S,02028.441E,1189.0m,7,,,,
 "Tierberg","TRB",ZA,3259.237S,01919.910E,1600.0m,7,,,,
 "Tierberg Keerom","TIE",ZA,3334.370S,01935.656E,1915.0m,7,,,,
@@ -450,7 +452,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Uitkyk se Kop","UIT",ZA,3224.840S,01905.988E,1545.0m,7,,,,
 "Uitspan Farm","UTS",ZA,3329.783S,01857.850E,100.0m,5,360,460.0m,,"36/18 460m"
 "UNNAMED2","UN2",ZA,3336.783S,01856.100E,126.0m,3,0,0.0m,,
-"UNNAMED4 911","UN4",ZA,3237.850S,02123.150E,728.0m,3,0,0.0m,,"01/19 570m; 15/33 400m;16/34 550mThe middle one the best - poles in the N and the S?"
 "UNNAMED5 U","UN5",ZA,3247.150S,01900.050E,207.0m,3,90,670.0m,,"09/27 18X600M slope 10m down to the west Land 09. Cropdust1"
 "UNNAMED6","UN6",ZA,3301.633S,01857.050E,135.0m,3,290,830.0m,,"11/29 18m x 830m landable all. Cropdust2"
 "Vaalkop","VLK",ZA,3347.334S,01901.386E,888.0m,7,,,,
@@ -467,13 +468,14 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Verkeerdevlei Dam","VRK",ZA,3319.778S,01952.334E,820.0m,12,,,,
 "Victoria","VIC",ZA,3400.740S,01902.131E,1591.0m,7,,,,
 "Victoria West","VCT",ZA,3124.000S,02309.000E,1257.0m,5,180,1750.0m,"124.810","FAVW"
-"Villiersdorp","VLL",ZA,3400.083S,01917.000E,347.0m,1,,,,
+"Villiersdorp","VLL",ZA,3359.284S,01917.622E,347.0m,1,,,,
 "Visgat","VSG",ZA,3302.533S,01912.683E,689.0m,1,,,,
 "Voorberg","VOO",ZA,3304.544S,01903.806E,1011.0m,7,,,,
 "Vosburg","VSB",ZA,3035.300S,02253.650E,1149.0m,1,,,,
 "Vredendal","VRE",ZA,3141.067S,01829.333E,45.0m,2,260,950.0m,,"08/26 20m x 950m; 04/22 18m x 650m; 13/31 18m x 380mLandable by all gliders"
 "Vredendal old","VRD",ZA,3138.500S,01832.667E,101.0m,2,80,1290.0m,,"FAVR 24/06 21m x 1290m"
 "Vreysberg","VRY",ZA,3356.188S,02143.816E,1110.0m,7,,,,
+"Vygiesberg","VYG",ZA,3356.333S,01933.433E,942.0m,7,,,,
 "Waaihoek","WAI",ZA,3328.319S,01918.907E,1948.0m,7,,,,
 "Waaihoeksberg","WHK",ZA,3325.183S,02025.150E,1294.0m,7,,,,
 "Waboomsberg #","WBM",ZA,3315.188S,01927.566E,1849.0m,7,,,,"Paragliding launch site nearby"
@@ -492,6 +494,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Witteberg","WTT",ZA,3342.126S,01908.927E,1736.0m,7,,,,
 "Wolfberg","WLF",ZA,3219.548S,01900.498E,839.0m,7,,,,
 "Wolfberg Arch","WBA",ZA,3226.612S,01915.220E,1550.0m,1,,,,
+"Wolfieskop","WLS",ZA,3358.302S,01921.696E,1262.0m,7,,,,
 "Wolvepunt","WLV",ZA,3106.832S,01856.878E,820.0m,7,,,,
 "Woodman","WDM",ZA,3359.717S,02408.617E,236.0m,1,,,,
 "Worcester","WOR",ZA,3339.900S,01925.117E,199.0m,5,150,1440.0m,"124.800","FAWC"
