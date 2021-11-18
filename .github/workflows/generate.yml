@@ -10,7 +10,7 @@ jobs:
 
     - name: "Install dependencies"
       run: |
-        sudo apt-get --no-install-recommends gpsbabel
+        sudo apt-get install --no-install-recommends gpsbabel
         pip install -U aerofiles
         echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
         echo "TAG=v$(date +%Y-%m-%d)"   >> $GITHUB_ENV
