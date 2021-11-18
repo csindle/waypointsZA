@@ -3,7 +3,7 @@ name: Generate and Publish Artefacts
 on: [push, workflow_dispatch]
 
 jobs:
-  build:
+  build_release:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -11,7 +11,7 @@ jobs:
     - name: "Install dependencies"
       run: |
         sudo apt install gpsbabel
-        python -m pip install --upgrade pip
+        pip install -U pip
         pip install -U pylint
         pip install -U aerofiles
         echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV

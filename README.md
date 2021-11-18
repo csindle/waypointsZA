@@ -8,24 +8,24 @@ Airfields, etc. and the actual Turn Points. This is defined in Sporting Code for
 ![ZA_Cape waypoints](img/ZA.jpg "ZA_Cape waypoints")
 
 ---
+### :south_africa: To Fly with the waypoints :south_africa:
+To use the WP file on your glide computer (that supports CUP files):
+
+1. Download or copy the latest released [`ZA_Cape_yyyy-mm-dd.cup`](../../releases/latest)
+   CUP file (under Releases' "Assets") to the correct location on your device.
+2. Activate it.
+3. Fly.
+
+---
 ### Goals
 1. [One](https://xkcd.com/927/), [single point of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 for waypoints, including unique names, unique three character shortcodes (trigraphs),
 unique locations, and normalised descriptions.
 2. Version controlled, with full history (who did what, when, and why).
 3. Open source, open data, including all history and versions.
-4. Anybody can contribute (and anybody can fork).
+4. **Anybody** can contribute (and anybody can fork).
 5. Automatically incorporated into glide computers that support downloading (e.g. 
 [XCSoar](https://github.com/XCSoar/xcsoar-data-content/tree/master/waypoints-special))
-
----
-### :south_africa: To Fly with the waypoints :south_africa:
-To use the WP file on your glide computer (that supports CUP files):
-
-1. Download or copy the latest released [`ZA_Cape_yyyymmdd.cup`](../../releases/latest)
-   CUP file (under Releases' "Assets") to the correct location on your device.
-2. Activate it.
-3. Fly.
 
 ### To View the WPs
 1. [WaypointsZA](https://docs.google.com/spreadsheets/d/13YJ6NrfoLhxTgeO8fi1aIT0n_nm4z0_ixXWjndgwzjE/edit#gid=364570956) master spreadsheet. 
@@ -69,8 +69,6 @@ It is a separate file containing only *landables* (style: "3 Outlanding"), with 
 contributions. 
 
 Please contribute, so that we can improve safety and help introduce new pilots to cross-country flying.
-
-(TODO: Naming convention for out-landing WPs.)
 
 ---
 ### Definitions
