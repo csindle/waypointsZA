@@ -11,3 +11,4 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Ol Alan 1",,ZA,3330.317S,01912.900E,264.0m,3,100,400.0m,,
 "Somerset West OL1","SW1",ZA,3408.383S,01853.633E,46.0m,3,340,400.0m,,"Outlandngfld"
 "Somerset West OL2","SW2",ZA,3408.583S,01852.867E,27.0m,3,330,350.0m,,"Outlandngfld"
+"Tokkies Field","TKK",ZA,3344.472S,01903.652E,320.0m,3,,,,
