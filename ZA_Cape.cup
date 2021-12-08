@@ -278,7 +278,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Merriman","MER",ZA,3112.900S,02336.700E,1278.0m,1,,,,
 "Merweville 911","MRW",ZA,3237.850S,02123.150E,728.0m,3,5,500.0m,,"01/19 570m; 15/33 400m;16/34 550m The middle one the best - poles in the N and the S?"
 "Meulsteenkop","MLS",ZA,3238.800S,01906.317E,1224.0m,7,,,,
-"Middel Rivier Pas","MDR",ZA,3354.408S,02015.096E,900.0m,6,,,,
+"Middel Rivier Pas","MDR",ZA,3354.643S,02015.480E,900.0m,6,,,,
 "Middelberg","MDK",ZA,3239.767S,01910.250E,1565.0m,7,,,,
 "Middelberg Pass","MDP",ZA,3237.800S,01909.000E,1089.0m,6,,,,
 "Middelwater","MDW",ZA,3305.017S,02526.467E,409.0m,5,0,0.0m,,"409M 14M X 700M"
