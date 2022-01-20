@@ -251,7 +251,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Kroonland","KRN",ZA,3353.577S,01915.286E,1673.0m,7,,,,
 "Kurland Polo Fields","KUR",ZA,3355.900S,02330.250E,265.0m,3,0,0.0m,,
 "Kwadouwsberg","KWD",ZA,3332.450S,01939.167E,1727.0m,7,,,,
-"La Paris","LPR",ZA,3350.360N,01900.833E,200.0m,3,110,275.0m,,"Polo field"
+"Kweekkraalberg","KWE",ZA,3348.994S,01919.971E,1400.0m,7,,,,
+"La Paris","LPR",ZA,3350.360S,01900.833E,200.0m,3,110,275.0m,,"Polo field"
 "Ladismith","LDS",ZA,3330.600S,02115.133E,537.0m,2,130,1100.0m,,"537M 20X1100M"
 "Laingsburg","LNG",ZA,3311.867S,02050.250E,674.0m,3,260,990.0m,,"990mx23m"
 "Langebaanweg","LBW",ZA,3258.483S,01809.667E,29.0m,5,20,2330.0m,"120.800","FALW"
@@ -309,7 +310,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Nieuwoud Tower","NTR",ZA,3121.217S,01859.033E,857.0m,7,,,,
 "Nieuwoudtville","NWD",ZA,3122.683S,01906.400E,721.0m,1,,,,
 "Niewoudtspass","NWP",ZA,3220.851S,01900.764E,585.0m,6,,,,
-"NoName","NNM",ZA,3348.994S,01919.971E,1400.0m,7,,,,
 "Noordhoek Strip","NRD",ZA,3242.750S,01903.683E,238.0m,5,330,1000.0m,,"15/33 30mx1000m Jon1"
 "Noukrans","NKR",ZA,3356.947S,02053.299E,1433.0m,7,,,,
 "Nuwejaarsrivier","NWJ",ZA,3417.300S,01909.258E,65.0m,2,230,400.0m,,
@@ -440,6 +440,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Tafelberg Bokkeveld","TFB",ZA,3256.679S,01920.879E,1910.0m,7,,,,
 "Tafelberg Cederberg","TFC",ZA,3224.719S,01912.298E,1969.0m,7,,,,
 "Tankwa East","TAN",ZA,3220.083S,01945.183E,317.0m,2,20,1000.0m,,"02/20 x 1000m"
+"Tankwa Padstal","TKS",ZA,3252.201S,01946.522E,500.0m,2,360,800.0m,,
 "Tankwa Tent","TNT",ZA,3220.233S,01942.833E,310.0m,2,330,250.0m,,"15/33 8m x 250m (probably accommodate bigger)"
 "Tankwa West","TNK",ZA,3220.183S,01944.850E,313.0m,2,20,550.0m,,"02/20 20m x 550m"
 "The Cossacks","COS",ZA,3335.854S,01910.152E,1439.0m,7,,,,
@@ -451,8 +452,9 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Tierkranskop","TRK",ZA,3253.450S,01912.067E,1478.0m,7,,,,
 "Tontelboskop","TON",ZA,3356.567S,02106.950E,1182.0m,7,,,,
 "Toorwater","TRW",ZA,3323.817S,02306.650E,679.0m,1,,,,
-"Touws","TOU",ZA,3319.717S,02001.533E,776.0m,3,50,500.0m,,"050 500mx15"
+"Touws","TOU",ZA,3319.687S,02001.538E,776.0m,3,50,500.0m,,"050 500mx15"
 "Touws Rivier","TWS",ZA,3320.500S,02002.000E,797.0m,1,,,,
+"Touws Solar","TRS",ZA,3324.529S,01954.136E,880.0m,2,70,920.0m,,
 "Touwsberg","TWB",ZA,3333.583S,02057.667E,1462.0m,7,,,,
 "Tradouw","TRA",ZA,3356.388S,02042.432E,634.0m,6,,,,
 "Travellers Rest","TRV",ZA,3204.250S,01904.533E,326.0m,1,,,,
