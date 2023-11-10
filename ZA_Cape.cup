@@ -12,7 +12,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Alkant","ALK",ZA,2954.383S,02218.967E,1099.0m,2,300,1600.0m,,"30/12 1600m x 55m"
 "Altona","ALT",ZA,3342.467S,01838.783E,81.0m,5,240,650.0m,,"15m wide (probably take 25m)"
 "Altona Annex","ALA",ZA,3342.950S,01840.617E,88.0m,3,310,670.0m,,"670 x 10m (probably take 25)"
-"Amandelriver","AMN",ZA,3359.050S,01911.083E,341.0m,5,220,700.0m,,"8m x 700m emergency only"
+"Amandelriver 911","AMN",ZA,3359.050S,01911.083E,341.0m,5,220,700.0m,,"8m x 700m emergency only"
 "Anysberg","ANY",ZA,3330.400S,02036.633E,1462.0m,7,,,,
 "Apiesklip","APK",ZA,3334.467S,01922.083E,882.0m,1,,,,
 "April Peak","APR",ZA,3350.063S,01909.220E,1500.0m,7,,,,
@@ -330,7 +330,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Ouhangsberg","OHB",ZA,3351.750S,01930.400E,748.0m,7,,,,
 "Oukloofberg","OUK",ZA,3314.659S,01904.304E,878.0m,7,,,,
 "Overberg","OVR",ZA,3433.500S,02014.900E,14.0m,5,170,3120.0m,"119.800","FAOB"
-"Paarl","PAA",ZA,3342.633S,01901.317E,180.0m,2,280,700.0m,,"10/28 22m x 700m LAND UPHILL"
+"Paarl 911","PAA",ZA,3342.633S,01901.317E,180.0m,2,280,700.0m,,"10/28 22m x 700m LAND UPHILL, LAND SHORT"
 "Pakhuis","PKH",ZA,3208.965S,01901.750E,910.0m,6,,,,
 "Paleisheuwel","PLS",ZA,3227.933S,01843.333E,135.0m,5,340,750.0m,,"33/15 17M X 750m and 02/20 10mx400M"
 "Palmyra","PLM",ZA,3356.667S,02102.333E,583.0m,1,,,,
@@ -343,7 +343,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Piketberg","PIK",ZA,3245.231S,01846.372E,1224.0m,7,,,,
 "Piketberg Strip","PKT",ZA,3257.317S,01847.933E,129.0m,5,360,770.0m,,"36/18 15mx770m"
 "Plaaspad Racetrack 911","PMM",ZA,3353.484S,01901.518E,220.0m,3,300,600.0m,,"Franschhoek Motor Museum Test Track"
-"Platberg Pass","PLA",ZA,3312.084S,01905.436E,470.0m,6,,,,
 "Plett Strip","PLP",ZA,3401.783S,02317.450E,137.0m,2,290,990.0m,,"1000 x 30m"
 "Plettenberg Bay","PLT",ZA,3405.283S,02319.583E,21.0m,5,120,1230.0m,"124.800","FAPG, 1200 M 21M X 1200M"
 "Porseleinberg Strip","PRB",ZA,3327.467S,01855.633E,128.0m,5,350,850.0m,,"16M Landable Strip"
@@ -372,7 +371,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Robinson Pass","RBN",ZA,3353.000S,02201.233E,700.0m,6,,,,
 "RobSpur","ROB",ZA,3343.298S,01951.791E,1562.0m,7,,,,"Reporting Point"
 "Roelofsberg","RLF",ZA,3246.467S,01911.033E,1708.0m,7,,,,
-"Roodezandsberg","RSB",ZA,3312.725S,01904.483E,1500.0m,7,,,,
+"Roodezandsberg","RZB",ZA,3312.725S,01904.483E,1500.0m,7,,,,
+"Roodezandspas","RZP",ZA,3312.084S,01905.436E,470.0m,6,,,,
 "RooElsPass","RLP",ZA,3417.576S,01849.594E,218.0m,6,,,,
 "Rooiberg","RBG",ZA,3348.200S,01943.700E,832.0m,7,,,,
 "Rooiberg Waaihoek","ROO",ZA,3333.030S,01918.877E,1235.0m,7,,,,
@@ -381,6 +381,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Rooibosch","RBS",ZA,3217.017S,01853.600E,331.0m,5,330,850.0m,,"330 / 150 20MX850"
 "RooiElsberg","REL",ZA,3417.217S,01850.567E,637.0m,7,,,,
 "Rooihoogte Pass","RHG",ZA,3356.406S,01919.990E,485.0m,6,,,,
+"RooiKrans","RKR",ZA,3359.436S,02033.150E,589.0m,7,,,,"Part of FAI 500km triangle."
 "Ruigtevlei","RGT",ZA,3234.750S,01851.533E,174.0m,5,330,800.0m,,"15/33 174m 15X800m open around the strip"
 "Ruiter","RTR",ZA,3353.467S,02201.550E,661.0m,1,,,,
 "Ruiterbosch","RTB",ZA,3355.000S,02204.383E,473.0m,1,,,,
